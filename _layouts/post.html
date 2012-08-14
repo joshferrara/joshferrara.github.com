@@ -2,21 +2,14 @@
 layout: default
 ---
 
-<div class="post">
-  <h1>{{ page.title }}</h1>
-  <span class="post-date">{{ page.date | date_to_string }}</span>
-  {% include tweet-button.html %}
-  {{ content }}
-</div>
-
-<div class="related">
-  <h2>Related Posts</h2>
-  <ul class="posts">
-    {% for post in site.related_posts limit:3 %}
-      <h3><a href="{{ post.url }}">
-        {{ post.title }}
-        <small>{{ post.date | date_to_string }}</small>
-      </a></h3>
-    {% endfor %}
-  </ul>
+<div class="content">
+    <div class="post">
+        <span class="byline">
+            <h2 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+            <a href="#" class="post_icon">Similar posts</a>
+            <span class="date">{{ post.date | date: "%b %d"}}</span>
+            <div class="clear"></div>
+        </span>
+        {{ post.content }}
+    </div> <!-- close:  post -->
 </div>
