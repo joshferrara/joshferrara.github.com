@@ -1,5 +1,5 @@
-# The personal site &amp; blog of Josh Ferrara
+# The personal blog of Josh Ferrara
 
-All content within `_posts/` and `public` is copyrighted property of Josh Ferrara. Please don't reuse any part of my written words or assets without written permission.
+All content within `_posts/` and `public` is copyrighted property of Josh Ferrara. Please don't reuse any original content or assets without asking.
 
-Made by [Josh Ferrara](http://josh-bob.com), built on [Jekyll](http://github.com/mojombo/jekyll), and hosted on GitHub Pages.
+Inspired by [@mdo](http://twitter.com/mdo), made by [Josh Ferrara](http://josh-bob.com), built on [Jekyll](http://github.com/mojombo/jekyll), and hosted on GitHub Pages.
