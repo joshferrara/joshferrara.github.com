@@ -1,7 +1,5 @@
-# @mdo's blog
+# The personal site &amp; blog of Josh Ferrara
 
-All content within `_posts/` and `public` is copyright Mark Otto. Do not reuse any part of my written words or assets without written permission.
+All content within `_posts/` and `public` is copyrighted property of Josh Ferrara. Please don't reuse any part of my written words or assets without written permission.
 
-Made by [@mdo](http://twitter.com/mdo), built on [Jekyll](http://github.com/mojombo/jekyll), and hosted on GitHub Pages.
-
-<3
+Made by [Josh Ferrara](http://josh-bob.com), built on [Jekyll](http://github.com/mojombo/jekyll), and hosted on GitHub Pages.

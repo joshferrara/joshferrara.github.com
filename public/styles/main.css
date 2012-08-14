@@ -1,0 +1,374 @@
+/*----------------------------- /
+/  Zombie 1.1 – It's Alive!  		/
+/ -----------------------------*/
+
+/* Browser Reset via Blueprint ------------------------------- */
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, code, del, dfn, em, img, q, dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
+	margin: 0; padding: 0; border: 0; font-weight: inherit; font-style: inherit;
+	font-size: 100%; font-family: inherit; vertical-align: baseline; }
+
+body { line-height: 1.5; }
+
+/* Tables still need 'cellspacing="0"' in the markup. */
+table { border-collapse: separate; border-spacing: 0; }
+caption, th, td { text-align: left; font-weight: normal; }
+table, td, th { vertical-align: middle; }
+
+/* Remove possible quote marks (") from <q>, <blockquote>. */
+blockquote:before, blockquote:after, q:before, q:after { content: ""; }
+blockquote, q { quotes: "" ""; }
+
+/* Remove annoying border on linked images. */
+a img { border: none; }
+
+@font-face {
+    font-family: 'oceania';
+    src: url('../fonts/oceania-light-webfont.eot');
+    src: url('../fonts/oceania-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/oceania-light-webfont.woff') format('woff'),
+         url('../fonts/oceania-light-webfont.ttf') format('truetype'),
+         url('../fonts/oceania-light-webfont.svg#OceaniaRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+/*  Layout ---------------------------------------------------- */
+
+	body {
+		background: url('../images/bg.png') top center;
+	}
+	
+	h1.logo {
+		width: 620px;
+		height: 159px;
+		display: block;
+		margin: 25px auto 40px;
+	}
+		h1.logo a {
+			width: 620px;
+			height: 159px;
+			display: block;
+			text-indent: -99999px;
+			background: url('../images/logo.png') no-repeat;
+		}
+
+
+		.icon_bar {
+			width: 100%;
+			height: 68px;
+			background: url('../images/icon_bg.png') repeat-x;
+			margin-bottom: 40px;
+		}
+			ul.icons {
+				list-style: none;
+				margin: 0 auto;
+				width: 626px;
+				padding: 9px 0 0 0;
+			}
+				ul.icons li.icon {
+					float: left;
+					width: 50px;
+					height: 50px;
+					margin-right: 22px;
+				}
+				ul.icons li.icon:last-child {
+					margin-right: 0;
+				}
+					ul.icons li.icon a {
+						display: block;
+						width: 50px;
+						height: 50px;
+						background-image: url('../images/icons.png');
+						overflow: hidden;
+						text-indent: -99999px;
+					}
+					
+					.twitter a {background-position: 0 0;}
+					.facebook a {background-position: -50px 0px;}
+					.instagram a {background-position: -100px 0px;}
+					.foursquare a {background-position: -150px 0px;}
+					.rdio a {background-position: -200px 0px;}
+					.pinterest a {background-position: -250px 0px;}
+					.dribbble a {background-position: -300px 0px;}
+					.github a {background-position: -350px 0px;}
+					body .blog a {background-position: -400px 0px;}
+					.photos a {background-position: -450px 0px;}
+					
+
+
+		.bio {
+			width: 625px;
+			margin: 0 auto;
+			text-align: justify;
+			font-family: 'oceania', "Helvetica Neue", Arial, Helvetica, sans-serif;
+			font-size: 18px;
+			color: #CCC;
+			font-weight: lighter;
+			margin-bottom: 40px;
+		}
+			.bio a {
+				color: inherit;
+				text-decoration: none;
+				border-bottom: 1px solid #444;
+			}
+			
+		
+		.me {
+			width: 625px;
+			margin: 0 auto;
+		}
+			.me img {
+				margin-left: 274px;
+				-webkit-transition-duration: 0.8s;
+		    -moz-transition-duration: 0.8s;
+		    -o-transition-duration: 0.8s;
+		    transition-duration: 0.8s;
+
+		    -webkit-transition-property: all;
+		    -moz-transition-property: all;
+		    -o-transition-property: all;
+		    transition-property: all;
+
+		    overflow:hidden;
+				position: relative;
+				z-index: 100;
+				
+			}
+			.me.hover img {
+				margin-left: 150px;
+				-webkit-transform:rotate(-360deg);
+		    -moz-transform:rotate(-360deg); 
+		    -o-transform:rotate(-360deg);
+			}
+			
+	.bio_content {
+		display: none;
+		width: 425px;
+		color: #AAA;
+		font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+		top: -77px;
+		position: relative;
+		left: 245px;
+		height: 50px;
+		
+	}
+		.bio_content h3 {
+			font-weight: bold;
+			font-size: 15px;
+			color: #cccccc;
+		}
+		.bio_content p {
+			font-size: 13px;
+			color: #555;
+		}
+			.bio_content p a {
+				color: #aaa;
+				text-decoration: none;
+			}
+			.bio_content p a:hover{
+				text-decoration: underline;
+			}
+			
+		
+		
+		
+/* Blog Styling	*/
+	
+	.content {
+		width: 625px;
+		margin: 0 auto;
+		font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+	}
+		.content .byline {
+			margin-bottom: 5px;
+			display: block;
+		}
+		.content .post {
+			margin: 0 0 50px 0;
+			border-bottom: 1px solid #333;
+			padding: 15px;
+			background: rgba(255, 255, 255, 0.05);
+		}
+			.content .post hr {
+				border: none;
+				border-bottom: 1px solid #333;
+			}
+			
+			.content h1.post_format {
+				margin: -20px 0 20px;
+				text-align: center;
+				color: #555;
+				font-size: 24px;
+				text-transform: capitalize;
+			}
+
+			.content .post h2.title {
+				color: #ccc;
+				font-size: 24px;
+				text-transform: capitalize;
+				display: inline;
+				float: left;
+			}
+				.content .post h2.title a {
+					color: inherit;
+					text-decoration: none;
+				}
+				
+			.content .post .post_icon {
+				float: left;
+				text-indent: -99999px;
+				display: block;
+			}
+				.content .post.format-standard .post_icon {
+					background: url('../images/standard.png');
+					width: 12px;
+					height: 15px;
+					margin: 12px 0 0 15px;
+				}
+				.content .post.format-gallery .post_icon {
+					background: url('../images/gallery.png');
+					width: 14px;
+					height: 14px;
+					margin: 12px 0 0 15px;
+				}
+				.content .post.format-link .post_icon {
+					background: url('../images/link.png');
+					width: 16px;
+					height: 15px;
+					margin: 12px 0 0 15px;
+				}
+				.content .post.format-image .post_icon {
+					background: url('../images/picture.png');
+					width: 20px;
+					height: 14px;
+					margin: 12px 0 0 15px;
+				}
+				.content .post.format-quote .post_icon {
+					background: url('../images/quote.png');
+					width: 13px;
+					height: 12px;
+					margin: 12px 0 0 15px;
+				}
+				.content .post.format-video .post_icon {
+					background: url('../images/video.png');
+					width: 18px;
+					height: 11px;
+					margin: 14px 0 0 15px;
+				}
+				.content .post.format-audio .post_icon {
+					background: url('../images/audio.png');
+					width: 10px;
+					height: 12px;
+					margin: 14px 0 0 15px;
+				}
+			
+			.content .post .date {
+				font-size: 12px;
+				color: #00d774;
+				text-transform: uppercase;
+				font-weight: bold;
+				margin-left: 15px;
+				float: right;
+				margin-top: 12px;
+			}
+			.content .post p {
+				color: #777;
+				font-size: 14px;
+				margin-bottom: 15px;
+			}
+			.content .post p:last-child {
+				margin-bottom: 0px;
+			}
+			
+	.page_nav {
+		width: 625px;
+		margin: 0 auto;
+		text-align: center;
+		color: #555;
+		font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+	}
+		.page_nav a {
+			color: #555;
+			font-weight: normal;
+			text-decoration: none;
+		}
+		.page-numbers {
+			padding: 15px 5px;
+		}
+		.page-numbers.current {
+			color: #999;
+		}
+		
+	
+	/* Post Styling ----------------- */
+	.post blockquote {
+		color: #eee;
+		border-left: 1px solid #777;
+		padding-left: 20px;
+		margin-bottom: 15px;
+		font-size: 14px;
+	}
+		.content .post blockquote p {
+			color: inherit;
+		}
+	.post a {
+		color: #0093d8;
+		text-decoration: none;
+	}
+	
+	
+
+		
+		
+/*  General Styles --------------------------------------------- */
+
+	label {
+		display: block;
+		margin-top: 0.5em;
+	}
+	input, select, textarea {
+		display: block;
+		margin-bottom: 1em;
+	}
+	input[type="text"], input[type="password"], textarea {
+		width: 250px;
+		padding: 0.3em 0.5em;
+	}
+		label input {
+			display: inline;
+			margin: 0 0.5em 0 0;
+		}
+	input[type="submit"] {
+		margin-top: 1.5em;
+	}
+	
+	
+	table {
+		width: 100%;
+		border-right: 1px solid #ccc;
+		border-top: 1px solid #ccc;
+		margin: 15px 0;
+	}
+		th, td {
+			border-left: 1px solid #ccc;
+			border-bottom: 1px solid #ccc;
+			padding: 0.5em 1em;
+		}
+		th {
+			background: #f5f5f5;
+			font-weight: bold;
+		}
+	
+	
+		
+/*  Global ----------------------------------------------------- */
+	
+	.clear { clear: both; }
+	.left { float: left; }
+	.right { float; right; }
+	
+	.alignleft { float: left; }
+	.alignright { float: right; }

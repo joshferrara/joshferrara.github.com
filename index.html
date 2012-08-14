@@ -1,14 +1,36 @@
 ---
 layout: default
+title: Home
 ---
 
-<div class="posts">
-{% for post in site.posts %}
-  <h3>
-    <a href="{{ post.url }}">
-      {{ post.title }}
-      <small>{{ post.date | date_to_string }}</small>
-    </a>
-  </h3>
-{% endfor %}
+<div class="everything">
+    <h1 class="logo"><a href="<?php bloginfo('url'); ?>">joshbob: Joshua Ferrara</a></h1>
+
+    <div id="" class="icon_bar">
+        <ul class="icons">
+            <li class="icon twitter">   <a target="_blank" rel="tooltip" title="Twitter" href="http://twitter.com/joshbob">Twitter</a></li>
+            <li class="icon facebook">  <a target="_blank" rel="tooltip" title="Facebook" href="http://facebook.com/josh.ferrara">Facebook</a></li>
+            <li class="icon instagram"> <a target="_blank" rel="tooltip" title="Instagram" href="http://extragr.am/joshbob">Instagram</a></li>
+            <li class="icon foursquare"><a target="_blank" rel="tooltip" title="Foursquare" href="https://foursquare.com/joshbob">Foursquare</a></li>
+            <li class="icon rdio">      <a target="_blank" rel="tooltip" title="Rdio" href="http://rdio.com/people/joshbob/">Rdio</a></li>
+            <li class="icon pinterest"> <a target="_blank" rel="tooltip" title="Pinterest" href="http://pinterest.com/josh_ferrara/">Pinterest</a></li>
+            <li class="icon dribbble">  <a target="_blank" rel="tooltip" title="Dribbble" href="http://dribbble.com/hivemindlabs">Dribbble</a></li>
+            <li class="icon github">    <a target="_blank" rel="tooltip" title="Github" href="https://github.com/joshferrara">Github</a></li>
+            <li class="icon blog">      <a rel="tooltip" title="Blog" href="<?php bloginfo('url'); ?>/blog/">Blog</a></li>
+            <!-- <li class="icon photos">    <a rel="tooltip" title="Photos" href="<?php bloginfo('url'); ?>/blog/">Photos</a></li> -->
+        </ul>
+    </div> <!-- close:  icon_bar -->
+
+    <p class="bio">
+        Josh Ferrara is a <a href="http://hivemindlabs.com" target="_blank">web &amp; mobile developer</a>, designer, musician, novice runner, <a href="http://gdgt.com/profile/joshferrara/" target="_blank">technology enthusiast</a>, watch collector, food lover, <a href="http://lsu.edu" target="_blank">LSU alumnus</a>, <a href="http://twitter.com/gabrielleeee" target="_blank">husband</a>, and <a href="http://twitter.com/pixelferrara" target="_blank">dog owner</a>. He is currently living in <a href="http://visitbatonrouge.com" target="_blank">Baton Rouge, Louisiana</a>.
+    </p>
+
+    <div id="" class="me">
+        <img  src="<?php bloginfo('template_url'); ?>/images/me.png" title="testing" rel="tooltip" />
+        <div id="" class="bio_content">
+            <h3>Get in touch</h3>
+            <p>personal: <a href="mailto:joshferrara@gmail.com">joshferrara@gmail.com</a><br>business: <a href="mailto:josh@hivemindlabs.com">josh@hivemindlabs.com</a></p>
+        </div> <!-- close:  content -->
+    </div> <!-- close:  me -->
+    
 </div>
