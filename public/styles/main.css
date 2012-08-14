@@ -38,7 +38,7 @@ a img { border: none; }
 /*  Layout ---------------------------------------------------- */
 
 	body {
-		background: url('/public/images/bg.png') top center;
+		background: url('/public/images/bg.png') top center fixed;
 	}
 	
 	h1.logo {
