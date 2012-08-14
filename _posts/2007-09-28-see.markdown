@@ -1,0 +1,11 @@
+---
+layout: post
+title: See?
+wordpress_id: 167
+wordpress_url: http://josh-bob.com/2007/09/28/see/
+date: 2007-09-28 10:00:44.000000000 -05:00
+---
+<img src="http://www.bluekardia.com/images/pinata.jpg" alt="Song's birthday" />
+<font size="1">[Stole this pic from <a href="http://www.bluekardia.com">David</a>]</font>
+
+See, I told you. Happy 27th/28th birthday Mr. Song. You're the man!

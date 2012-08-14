@@ -1,0 +1,12 @@
+---
+layout: post
+title: We made it!
+wordpress_id: 155
+wordpress_url: http://josh-bob.com/2007/09/02/we-made-it/
+date: 2007-09-02 14:48:01.000000000 -05:00
+---
+<!--Mime Type of File is image/jpeg -->
+
+<a href="http://josh-bob.com/wp-photos/20070902-154801-1.jpg"><img src="http://josh-bob.com/wp-photos/thumb.20070902-154801-1.jpg" /></a>
+
+This is reason enough to drive to Houston for me.

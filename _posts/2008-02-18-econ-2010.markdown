@@ -1,0 +1,8 @@
+---
+layout: post
+title: ECON 2010
+wordpress_id: 236
+wordpress_url: http://josh-bob.com/2008/02/18/econ-2010/
+date: 2008-02-18 12:40:02.000000000 -06:00
+---
+<!--Mime Type of File is image/jpeg --><div><a href="http://josh-bob.com/wp-photos/20080218-124002-1.jpg"><img src="http://josh-bob.com/wp-photos/thumb.20080218-124002-1.jpg" alt="" /></a></div> Day after exam grades are posted. As you can see, it wasn't an inspiring weekend for the ECON camp.

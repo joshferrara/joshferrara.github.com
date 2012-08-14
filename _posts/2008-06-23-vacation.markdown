@@ -1,0 +1,8 @@
+---
+layout: post
+title: Vacation
+wordpress_id: 308
+wordpress_url: http://josh-bob.com/2008/06/23/vacation/
+date: 2008-06-23 12:29:02.000000000 -05:00
+---
+<!--Mime Type of File is image/jpeg --><div class="postie-image-div"><a href="http://josh-bob.com/wp-photos/20080623-132902-1.jpg"><img src="http://josh-bob.com/wp-photos/thumb.20080623-132902-1.jpg" alt="" style="3px;" class="postie-image" /></a></div> Camp is over and it was awesome! Now some of the guys are headed to Destin for a little relaxation!

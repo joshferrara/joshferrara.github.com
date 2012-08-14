@@ -1,0 +1,8 @@
+---
+layout: post
+title: Sonic run
+wordpress_id: 311
+wordpress_url: http://josh-bob.com/2008/06/29/sonic-run/
+date: 2008-06-29 09:54:02.000000000 -05:00
+---
+<!--Mime Type of File is image/jpeg --><div class="postie-image-div"><a href="http://josh-bob.com/wp-photos/20080629-105402-1.jpg"><img src="http://josh-bob.com/wp-photos/thumb.20080629-105402-1.jpg" alt="" style="3px;" class="postie-image" /></a></div> JP decided to help out and assemble the menu at Sonic while we waited for our food

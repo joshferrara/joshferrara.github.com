@@ -1,0 +1,8 @@
+---
+layout: post
+title: Rapids?
+wordpress_id: 233
+wordpress_url: http://josh-bob.com/2008/02/17/rapids/
+date: 2008-02-17 14:26:02.000000000 -06:00
+---
+<!--Mime Type of File is image/jpeg --><div><a href="http://josh-bob.com/wp-photos/20080217-142601-1.jpg"><img src="http://josh-bob.com/wp-photos/thumb.20080217-142601-1.jpg" alt="" /></a></div> And this is my view walking on campus this morning. Rapids in the canal. I'm breakin out the canoe

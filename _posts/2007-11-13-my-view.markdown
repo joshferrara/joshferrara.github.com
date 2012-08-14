@@ -1,0 +1,8 @@
+---
+layout: post
+title: My view
+wordpress_id: 189
+wordpress_url: http://josh-bob.com/2007/11/13/my-view/
+date: 2007-11-13 20:33:02.000000000 -06:00
+---
+<!--Mime Type of File is image/jpeg --><div><a href="http://josh-bob.com/wp-photos/20071113-203301-1.jpg"><img src="http://josh-bob.com/wp-photos/thumb.20071113-203301-1.jpg" alt="" /></a></div> Hillsong United is about to take the stage, and i'm holding back the crowds. Are you ready?

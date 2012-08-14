@@ -1,0 +1,12 @@
+---
+layout: post
+title: Amazing!
+wordpress_id: 169
+wordpress_url: http://josh-bob.com/2007/10/03/amazing/
+date: 2007-10-03 08:18:02.000000000 -05:00
+---
+<!--Mime Type of File is image/jpeg -->
+
+<a href="http://josh-bob.com/wp-photos/20071003-091801-1.jpg"><img src="http://josh-bob.com/wp-photos/thumb.20071003-091801-1.jpg" /></a>
+
+God has blessed me with ancredible opportunity, something I never could have imagined... and He still delights in amazing me with a view like this. Love it. Start counting, i'll be in the air in 8 hours!

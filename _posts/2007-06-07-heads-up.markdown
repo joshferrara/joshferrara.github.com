@@ -1,0 +1,10 @@
+---
+layout: post
+title: Heads up
+wordpress_id: 107
+wordpress_url: http://josh-bob.com/2007/06/07/heads-up/
+date: 2007-06-07 14:19:29.000000000 -05:00
+---
+Check out the new blogger in town.
+
+Good ol' <a href="http://www.dougmusso.com">Doug Musso</a> is the new kid on the block, and I think he'll have some good stuff to say, so check him out and show some love!

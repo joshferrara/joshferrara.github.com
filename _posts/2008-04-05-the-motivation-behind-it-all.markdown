@@ -1,0 +1,10 @@
+---
+layout: post
+title: The motivation behind it all...
+wordpress_id: 252
+wordpress_url: http://josh-bob.com/2008/04/05/the-motivation-behind-it-all/
+date: 2008-04-05 18:33:02.000000000 -05:00
+---
+<!--Mime Type of File is image/jpeg --><div><a href="http://josh-bob.com/wp-photos/20080405-193302-1.jpg"><img src="http://josh-bob.com/wp-photos/thumb.20080405-193302-1.jpg" alt="" /></a></div> This is a crowd after our Saturday Night service at HPC. They are are crowded around a swiming pool to celebrate with over 50 people that are making a declaration of faith and being baptized.
+This is why we do what we do. Every graphic, every prayer, every single one of the dozens of Easter services... all for those that have not yet heard the message.
+Praise God for seeing lives changed all around us.
