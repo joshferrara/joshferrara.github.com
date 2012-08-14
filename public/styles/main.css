@@ -25,11 +25,11 @@ a img { border: none; }
 
 @font-face {
     font-family: 'oceania';
-    src: url('../fonts/oceania-light-webfont.eot');
-    src: url('../fonts/oceania-light-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/oceania-light-webfont.woff') format('woff'),
-         url('../fonts/oceania-light-webfont.ttf') format('truetype'),
-         url('../fonts/oceania-light-webfont.svg#OceaniaRegular') format('svg');
+    src: url('/public/fonts/oceania-light-webfont.eot');
+    src: url('/public/fonts/oceania-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/public/fonts/oceania-light-webfont.woff') format('woff'),
+         url('/public/fonts/oceania-light-webfont.ttf') format('truetype'),
+         url('/public/fonts/oceania-light-webfont.svg#OceaniaRegular') format('svg');
     font-weight: normal;
     font-style: normal;
 }
@@ -38,7 +38,7 @@ a img { border: none; }
 /*  Layout ---------------------------------------------------- */
 
 	body {
-		background: url('../images/bg.png') top center;
+		background: url('/public/images/bg.png') top center;
 	}
 	
 	h1.logo {
@@ -52,14 +52,14 @@ a img { border: none; }
 			height: 159px;
 			display: block;
 			text-indent: -99999px;
-			background: url('../images/logo.png') no-repeat;
+			background: url('/public/images/logo.png') no-repeat;
 		}
 
 
 		.icon_bar {
 			width: 100%;
 			height: 68px;
-			background: url('../images/icon_bg.png') repeat-x;
+			background: url('/public/images/icon_bg.png') repeat-x;
 			margin-bottom: 40px;
 		}
 			ul.icons {
@@ -81,7 +81,7 @@ a img { border: none; }
 						display: block;
 						width: 50px;
 						height: 50px;
-						background-image: url('../images/icons.png');
+						background-image: url('/public/images/icons.png');
 						overflow: hidden;
 						text-indent: -99999px;
 					}
@@ -223,43 +223,43 @@ a img { border: none; }
 				display: block;
 			}
 				.content .post.format-standard .post_icon {
-					background: url('../images/standard.png');
+					background: url('/public/images/standard.png');
 					width: 12px;
 					height: 15px;
 					margin: 12px 0 0 15px;
 				}
 				.content .post.format-gallery .post_icon {
-					background: url('../images/gallery.png');
+					background: url('/public/images/gallery.png');
 					width: 14px;
 					height: 14px;
 					margin: 12px 0 0 15px;
 				}
 				.content .post.format-link .post_icon {
-					background: url('../images/link.png');
+					background: url('/public/images/link.png');
 					width: 16px;
 					height: 15px;
 					margin: 12px 0 0 15px;
 				}
 				.content .post.format-image .post_icon {
-					background: url('../images/picture.png');
+					background: url('/public/images/picture.png');
 					width: 20px;
 					height: 14px;
 					margin: 12px 0 0 15px;
 				}
 				.content .post.format-quote .post_icon {
-					background: url('../images/quote.png');
+					background: url('/public/images/quote.png');
 					width: 13px;
 					height: 12px;
 					margin: 12px 0 0 15px;
 				}
 				.content .post.format-video .post_icon {
-					background: url('../images/video.png');
+					background: url('/public/images/video.png');
 					width: 18px;
 					height: 11px;
 					margin: 14px 0 0 15px;
 				}
 				.content .post.format-audio .post_icon {
-					background: url('../images/audio.png');
+					background: url('/public/images/audio.png');
 					width: 10px;
 					height: 12px;
 					margin: 14px 0 0 15px;
