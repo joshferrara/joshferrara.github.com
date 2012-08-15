@@ -3,6 +3,4 @@ permalink: pretty
 pygments: true
 auto: true
 paginate: 5
-destination: ./blog
-baseurl: /blog
 url: http://joshferrara.github.com/blog
