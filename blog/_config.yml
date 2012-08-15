@@ -4,3 +4,4 @@ pygments: true
 auto: true
 paginate: 5
 destination: ./blog
+baseurl: /blog
