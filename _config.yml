@@ -2,5 +2,3 @@ markdown: rdiscount
 permalink: pretty
 pygments: true
 auto: true
-paginate: 5
-url: http://joshferrara.github.com/blog
