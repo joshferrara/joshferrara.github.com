@@ -334,7 +334,7 @@ a img { border: none; }
 		font-weight: bold;
 	}
 	
-	.post.archive h2 {
+	.content .post.archive h2.title {
 		font-size: 18px;
 		margin: 4px 0 0 0;
 	}
