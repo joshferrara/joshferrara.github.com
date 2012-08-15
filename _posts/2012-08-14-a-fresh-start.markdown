@@ -11,18 +11,8 @@ The second, and arguably more subtle roadblock I found, had to do with my job. I
 
 ## The solution
 
-After hearing about [Mark Otto](http://markdotto.com) and [his foray](http://markdotto.com/2012/08/09/github-all-the-things/) into using [Jekyll](http://github.com/mojombo/jekyll), I was intrigued. A blogging medium build around the code that I enjoy. Posts written in [markdown](http://daringfireball.net/projects/markdown), and published with a simple git push to [GitHub Pages](http://github.com). No hosting to manage, no complicated system to publish. Just content.
+After hearing about [Mark Otto](http://markdotto.com) and [his foray](http://markdotto.com/2012/08/09/github-all-the-things/) into using [Jekyll](http://github.com/mojombo/jekyll), I was intrigued. A blogging medium build around the code that I enjoy. Posts written in [markdown](http://daringfireball.net/projects/markdown), and published with a simple git push to [GitHub Pages](http://pages.github.com). No hosting to manage, no complicated system to publish. Just content.
 
 It has it's drawbacks. When I decided to take the leap, I figured a redesign made sense as well. I quickly learned that Jekyll is currently a little limited in its pagination functionality, but there is an active community behind that, so I don't doubt that will be addressed soon. It also reduces your ability to blog from any location easily. You know, because being able to post from my phone kept be blogging consistently.
 
-So I took the dive. I put together a new design and slimmed down the details until I was left with just the basics. The site you're now reading is powered by [Jekyll](http://github.com/mojombo/jekyll) and hosted on [GitHub](http://github.com), and, get this, *I really enjoy working with it*. Will this make me post more? It certainly won't hurt.
-
-{% highlight ruby %}
-    def show
-      @song = Group.find(current_user.group_id).songs.find(params[:id])
-      respond_to do |format|
-        format.html # show.html.erb
-        format.json { render json: @song }
-      end
-    end
-{% endhighlight %}
+So I took the dive. I put together a new design and slimmed down the details until I was left with just the basics. The site you're now reading is powered by [Jekyll](http://github.com/mojombo/jekyll) and hosted on [GitHub](http://pages.github.com), and, get this, *I really enjoy working with it*. Will this make me post more? It certainly won't hurt.
