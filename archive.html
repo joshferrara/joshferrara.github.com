@@ -22,7 +22,7 @@ layout: blog_default
 
 
 <div class="content">
-{% for post in site.posts limit:5 %}
+{% for post in site.posts  %}
     <div class="post">
         <span class="byline">
             <h2 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
@@ -30,11 +30,23 @@ layout: blog_default
             <span class="date">{{ post.date | date: "%b %d"}}</span>
             <div class="clear"></div>
         </span>
-        {{ post.content }}
     </div> <!-- close:  post -->
 {% endfor %}
 </div>
 
 </div> <!-- end Everything -->
 
-<a href="/archive/" class="archive_link">Older posts</a>
+<!-- Pagination links -->
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="/page{{paginator.previous_page}}" class="previous">Previous</a>
+  {% else %}
+    <span class="previous">Previous</span>
+  {% endif %}
+  <span class="page_number ">Page: {{paginator.page}} of {{paginator.total_pages}}</span>
+  {% if paginator.next_page %}
+    <a href="/page{{paginator.next_page}}" class="next ">Next</a>
+  {% else %}
+    <span class="next ">Next</span>
+  {% endif %}
+</div>
