@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Rethinking
+date: 2011-06-21
 ---
 You may blame it on [Twitter](http://twitter.com), you may call it apathy, but the truth of the matter is that blogging hasn't been a high priority in my life during this season.
 
