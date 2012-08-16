@@ -114,6 +114,14 @@ a img { border: none; }
 				text-decoration: none;
 				border-bottom: 1px solid #444;
 			}
+				.bio a:hover {
+					border-bottom: none;
+					color: #ffffff;
+					-webkit-transition-duration: 0.8s;
+			    -moz-transition-duration: 0.8s;
+			    -o-transition-duration: 0.8s;
+			    transition-duration: 0.8s;
+				}
 			
 		
 		.me {
