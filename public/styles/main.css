@@ -101,10 +101,10 @@ a img { border: none; }
 
 		.bio {
 			width: 625px;
-			margin: 0 auto;
+			margin: -7px auto 0;
 			text-align: justify;
-			font-family: 'oceania', "Helvetica Neue", Arial, Helvetica, sans-serif;
-			font-size: 18px;
+			font-family: "Open Sans", "Helvetica Neue", Arial, Helvetica, sans-serif;
+			font-size: 19px;
 			color: #CCC;
 			font-weight: lighter;
 			margin-bottom: 40px;
@@ -148,7 +148,7 @@ a img { border: none; }
 		display: none;
 		width: 425px;
 		color: #AAA;
-		font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+		font-family: "Open Sans", "Helvetica Neue", Arial, Helvetica, sans-serif;
 		top: -77px;
 		position: relative;
 		left: 245px;
