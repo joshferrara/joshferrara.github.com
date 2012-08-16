@@ -110,17 +110,18 @@ a img { border: none; }
 			margin-bottom: 40px;
 		}
 			.bio a {
+				-webkit-transition-duration: 0.8s;
+		    -moz-transition-duration: 0.8s;
+		    -o-transition-duration: 0.8s;
+		    transition-duration: 0.8s;
+		
 				color: inherit;
 				text-decoration: none;
 				border-bottom: 1px solid #444;
 			}
 				.bio a:hover {
-					border-bottom: none;
-					color: #ffffff;
-					-webkit-transition-duration: 0.8s;
-			    -moz-transition-duration: 0.8s;
-			    -o-transition-duration: 0.8s;
-			    transition-duration: 0.8s;
+					border-bottom: 1px solid #555;
+					color: #555;
 				}
 			
 		
