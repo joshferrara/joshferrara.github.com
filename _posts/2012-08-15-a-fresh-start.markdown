@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Fresh Start
-date: 2012-08-14
+date: 2012-08-15
 ---
 Welcome to the newest iteration of my corner of the web. I took some time (ok, a lot of time) to slow down and figure out what I really wanted out of this site, and I think I've come up with something that I really enjoy. I experimented with the photo-a-day blog, tried including a personal resumé, and even spent a large span of time sorting every post (almost 250) within tags & categories. It was an interesting journey, but I think I've finally discovered the some of the roadblocks to my personal blogging efforts.
 
