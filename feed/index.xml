@@ -4,7 +4,7 @@ layout: nil
 <?xml version="1.0"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Josh Ferrara — josh-bob.com</title>
+    <title>Josh Ferrara</title>
     <link>http://josh-bob.com/</link>
     <atom:link href="http://josh-bob.com/feed/" rel="self" type="application/rss+xml" />
     <description>Thoughts and rants from Josh Ferrara.</description>
