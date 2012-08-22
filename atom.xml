@@ -9,7 +9,7 @@ layout: nil
  <link href="http://josh-bob.com/atom.xml" rel="self"/>
  <link href="http://josh-bob.com/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>http://www.markdotto.com/</id>
+ <id>http://josh-bob.com/</id>
  <author>
    <name>Josh Ferrara</name>
    <email>joshferrara@gmail.com</email>
