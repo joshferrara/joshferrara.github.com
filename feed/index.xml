@@ -6,7 +6,7 @@ layout: nil
   <channel>
     <title>Josh Ferrara — josh-bob.com</title>
     <link>http://josh-bob.com/</link>
-    <atom:link href="http://josh-bob.com/rss.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://josh-bob.com/feed/" rel="self" type="application/rss+xml" />
     <description>Thoughts and rants from Josh Ferrara.</description>
     <language>en-us</language>
     <pubDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
@@ -17,7 +17,7 @@ layout: nil
       <title>{{ post.title }}</title>
       <link>http://josh-bob.com{{ post.url }}</link>
       <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
-      <author>joshferrara@gmail.com (Josh Ferrara)</author>
+      <author>Josh Ferrara — josh-bob.com</author>
       <guid>http://josh-bob.com{{ post.id }}</guid>
       <description>{{ post.content | xml_escape }}</description>
     </item>
