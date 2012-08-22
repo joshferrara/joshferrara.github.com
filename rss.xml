@@ -15,10 +15,10 @@ layout: nil
     {% for post in site.posts limit:20 %}
     <item>
       <title>{{ post.title }}</title>
-      <link>http://example.com{{ post.url }}</link>
+      <link>http://josh-bob.com{{ post.url }}</link>
       <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
-      <author>you@example.com (Your Name)</author>
-      <guid>http://example.com{{ post.id }}</guid>
+      <author>joshferrara@gmail.com (Josh Ferrara)</author>
+      <guid>http://josh-bob.com{{ post.id }}</guid>
       <description>{{ post.content | xml_escape }}</description>
     </item>
     {% endfor %}
