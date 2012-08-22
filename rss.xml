@@ -1,19 +1,27 @@
 ---
 layout: nil
 ---
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
-	<channel>
-		<title>{{ site.name }}</title>
-		<description>{{ site.description }}</description>
-		<link>{{ site.url }}</link>
-		{% for post in site.posts limit:20 %}
-			<item>
-				<title>{{ post.title }}</title>
-				<description>{{ post.content | xml_escape }}</description>
-				<published>{{ post.date | date_to_xmlschema }}</published>
-				<link>{{ site.url }}{{ post.url }}</link>
-			</item>
-		{% endfor %}
-	</channel>
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Josh Ferrara — josh-bob.com</title>
+    <link>http://josh-bob.com/</link>
+    <atom:link href="http://josh-bob.com/rss.xml" rel="self" type="application/rss+xml" />
+    <description>Thoughts and rants from Josh Ferrara.</description>
+    <language>en-us</language>
+    <pubDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+    <lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</lastBuildDate>
+
+    {% for post in site.posts %}
+    <item>
+      <title>{{ post.title }}</title>
+      <link>http://example.com{{ post.url }}</link>
+      <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+      <author>you@example.com (Your Name)</author>
+      <guid>http://example.com{{ post.id }}</guid>
+      <description>{{ post.content | xml_escape }}</description>
+    </item>
+    {% endfor %}
+
+  </channel> 
 </rss>
