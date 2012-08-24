@@ -7,7 +7,7 @@ In light of [upcoming changes](https://dev.twitter.com/blog/changes-coming-to-tw
 
 It's hard to dislike the concept of a network with complete favor toward developers, but I'm having trouble looking to app.net as a Twitter replacement.
 
-The first reason is that despite what it means for [my favorite twitter apps](http://tapbots.com/), or how bad the current line-up of official Twitter apps is, I think Twitter is trying to do what is best for Twitter as a platform. They have always valued context in Tweets, so it doesn't surprise me to see them tighten the reins, even at the cost of some unhappy developers. 
+The first reason is that despite what it means for [my favorite twitter apps](http://tapbots.com/), or how bad the current line-up of official Twitter apps is, I think Twitter is trying to do what is best for Twitter as a platform. They have always valued context in Tweets, so it doesn't surprise me to see them tighten the reins, even at the cost of unhappy developers. 
  
 The second reason is more rudimentary. You can't beat someone at a game when they are making up the rules as they go. Twitter is Twitter. They are the best at it, and they already have the people that want a product like theirs. "It's just like _____, but better" is not a valid business model. Just ask [Google+](http://plus.google.com/).
 
