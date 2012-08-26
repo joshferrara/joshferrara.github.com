@@ -13,4 +13,4 @@ I want to live a life of perseverance; a life that isn’t landmarked by ups and
 
 [Lance Armstrong](http://www.lancearmstrong.com/) may be one of the quintessential images of perseverance. Regardless of your take on his career, doping accusations, or his foundation, it will never be said that Lance quit. He faced cancer, competition, and criticism, and he kept going.
 
-It seems to me that excellence isn’t in the cards you’re dealt, or the hands that you win, but instead in how you play each and every round. Are you unwavering in adversity? I’d like to be.
+It seems to me that excellence isn’t in the cards you’re dealt, or the hands that you win, but instead the manner in which you play each and every round. Are you unwavering in adversity? I’d like to be.
