@@ -333,6 +333,9 @@ a img { border: none; }
 		color: #0093d8;
 		text-decoration: none;
 	}
+		.post a:hover {
+			text-decoration: underline;
+		}
 	
 	.post h2 {
 		color: #CCC;
