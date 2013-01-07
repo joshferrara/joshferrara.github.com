@@ -5,9 +5,9 @@ title: Undefeated
 ---
 I’m tired of it. I’ve heard it for weeks, and it’s more absurd each and every time.
 
-“Notre Dame doesn’t deserve to be in the National Championship Game.”
+> “Notre Dame doesn’t deserve to be in the National Championship Game.”
 
-“Sure they’re undefeated, but look at their schedule. Who have they played?”
+> “Sure they’re undefeated, but look at their schedule. Who have they played?”
 
 This is some of the most childish logic I’ve ever heard from people who pay bills. This is my first time on the other side of the SEC fence, so I realize this sounds like [bandwagon talk](http://josh-bob.com/2013/01/06/the-bandwagon/), but bear with me.
 
