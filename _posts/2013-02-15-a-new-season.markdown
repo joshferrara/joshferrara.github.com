@@ -4,7 +4,6 @@ date: 2013-02-15
 title: A New Season
 author: Josh Ferrara
 ---
-## New
 With every new year comes new opportunities. This year, we are pretty excited about the paths in front of us. Time is money, so let’s get right to the good stuff.
 
 ## A New Focus
