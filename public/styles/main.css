@@ -416,6 +416,39 @@ a img { border: none; }
 		}
 
 
+/* view source link */
+
+  a.view_source {
+    text-align: center;
+    display: block;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-decoration: none;
+    color: #555;
+    font-family: "Open Sans", "Helvetica Neue", Arial, Helvetica, sans-serif;
+    font-size: 10px;
+  }
+  a.view_source span {
+		-webkit-transition-duration: 0.8s;
+    -moz-transition-duration: 0.8s;
+    -o-transition-duration: 0.8s;
+    transition-duration: 0.8s;
+
+    -webkit-transition-property: all;
+    -moz-transition-property: all;
+    -o-transition-property: all;
+    transition-property: all;
+
+    display: inline-block;
+    width: 0px;
+    overflow: hidden;
+    white-space: nowrap;
+  }
+  a.view_source:hover span {
+    width: 110px;
+  }
+
 
 /*  Global ----------------------------------------------------- */
 
