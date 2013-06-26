@@ -48,6 +48,13 @@ h2 {
   font-weight: 700;
   text-transform: uppercase;
 }
+h2 a {
+  text-decoration: none;
+  color: inherit;
+}
+  h2 a:hover {
+    text-decoration: underline;
+  }
 h2 span {
   font-weight: 300;
   color: #0093d8;
@@ -56,6 +63,13 @@ h2 span {
 p {
   padding-bottom: 15px;
 }
+  p a {
+    color: #0093d8;
+    text-decoration: none;
+  }
+    p a:hover {
+      text-decoration: underline;
+    }
 ul {
   padding-bottom: 15px;
 }
