@@ -11,8 +11,6 @@ fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
 	margin: 0; padding: 0; border: 0; font-weight: inherit; font-style: inherit;
 	font-size: 100%; font-family: inherit; vertical-align: baseline; }
 
-body { line-height: 1.5; font-family: 'Open Sans', sans-serif; }
-
 /* Tables still need 'cellspacing="0"' in the markup. */
 table { border-collapse: separate; border-spacing: 0; }
 caption, th, td { text-align: left; font-weight: normal; }
@@ -39,6 +37,32 @@ a img { border: none; }
   .header.space25 { margin: 25px 0; }
 
 /*  Layout ---------------------------------------------------- */
+
+body {
+  line-height: 1.5;
+  font-family: 'Open Sans', sans-serif;
+  color: #6e6e6e;
+}
+
+h2 {
+  font-weight: 700;
+  text-transform: uppercase;
+}
+h2 span {
+  font-weight: 300;
+  color: #0093d8;
+  text-transform: none;
+}
+p {
+  padding-bottom: 15px;
+}
+ul {
+  padding-bottom: 15px;
+}
+li {
+  padding-bottom: 15px;
+  margin-left: 20px;
+}
 
 .hi-im-josh {
   background: url('../images/hi-im-josh.png');
@@ -126,7 +150,7 @@ a img { border: none; }
     transition: all .5s;
   }
     .contact a:hover {
-      color: #777777;
+      color: #999999;
     }
   .or {
     font-weight: 300;
