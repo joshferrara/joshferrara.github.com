@@ -8,6 +8,8 @@ We all have our wild card. We keep them in our back pocket as a backup plan just
 
 > "All I have to do is build an app that takes off and then I'll earn some real money."
 
+> "I'll write my book when I have more time."
+
 > "I'm just working here till I get my big acting break and then I'll be set."
 
 > "I'll go back to school when it makes more sense."
