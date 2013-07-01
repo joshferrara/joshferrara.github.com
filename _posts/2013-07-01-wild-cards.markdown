@@ -20,7 +20,7 @@ The wild card helps and hurts. It inspires and yet it also keeps us insecure.
 
 Somehow, along the way, we've convinced ourselves that it's safer to keep our biggest dreams on the shelf rather than risk damage, or worse, failure. 
 
-Dreams on a shelf grow dusty. Graveyards are littered with unrealized dreams that were left on shelves. 
+Dreams on a shelf grow dusty. Graveyards are littered with unrealized dreams that were left on shelves. Wild cards.
 
 Don't keep it in your back pocket.  
 
