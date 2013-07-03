@@ -92,6 +92,13 @@ li {
   border: 5px solid #f2f2f2;
   height: 445px;
 }
+  .vid {
+    font-size: 20px;
+    padding: 102px 80px 103px;
+    background: #303030;
+    color: #fff;
+    text-align: center;
+  }
 
 .cw-jb {
   background: url('../images/cw-jb.png');
