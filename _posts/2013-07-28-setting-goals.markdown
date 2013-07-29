@@ -12,8 +12,8 @@ I was challenged by this idea in [an essay](http://chasethegoose.com/files/10-st
 
 If you can't tell, I'm guilty of this myself, and so I started out on a journey to document and make public the goals that I have for my life. But when I started down this road I was greeted by two interesting surprises:
 
-1. I already had a surprising number of goals in my head, I just called them 'dreams' instead.
-2. Since I began to write these dreams down, I've had an uncanning motivation to start reaching these goals.
+1. I already had a surprising number of goals in my head — I called them 'wishes'.
+2. Writing down my goals produced an uncanny motivation to start achieving them.
     
 To be clear, I wasn't making up goals from thin air; no, these were things I have had many conversations about, spent time dreaming about, and maybe even researched a bit over the years. But before I wrote them down, I wasn't accountable to them. **I couldn't fail at my goals because I hadn't officially made any.**
 
@@ -22,4 +22,4 @@ So, [here are my goals](http://josh-bob.com/goals/), and here's my 30-minute cha
 1. Take 10 minutes and read [Mark's essay](http://chasethegoose.com/files/10-steps-to-setting-life-goals.pdf).
 2. Take 20 minutes and write down some goals of your own.
 
-I think you might be surprised how much 30 minutes can motivate you.
+I think you might be surprised how much 30 minutes will motivate you.
