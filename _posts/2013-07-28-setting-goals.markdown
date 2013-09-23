@@ -4,6 +4,11 @@ date: 2013-07-28
 title: Setting Goals
 author: Josh Ferrara
 ---
+
+<a href="http://blog.josh-bob.com/setting-goals/" class="svbtle-link">This post has moved! &raquo;</a>
+<a href="/2013/09/23/hello-svbtle/">(find out why)</a>
+
+<!--
 Chess Grandmaster Garry Kasparov won his first world-championship chess match in 1985 and went on to dominate the chess world for several decades. In [his book](http://www.amazon.com/How-Life-Imitates-Chess-Boardroom/dp/1596913886/) he shares this thought:
 
 > A Grandmaster makes the best moves because they are based on what he wants the board to look like ten or twenty moves in the future.
@@ -14,7 +19,7 @@ If you can't tell, I'm guilty of this myself, and so I started out on a journey 
 
 1. I already had a surprising number of goals in my head — I called them 'wishes'.
 2. Writing down my goals produced an uncanny motivation to start achieving them.
-    
+
 To be clear, I wasn't making up goals from thin air; no, these were things I have had many conversations about, spent time dreaming about, and maybe even researched a bit over the years. But before I wrote them down, I wasn't accountable to them. **I couldn't fail at my goals because I hadn't officially made any.**
 
 So, [here are my goals](http://josh-bob.com/goals/), and here's my 30-minute challenge for you:
@@ -23,3 +28,5 @@ So, [here are my goals](http://josh-bob.com/goals/), and here's my 30-minute cha
 2. Take 20 minutes and write down some goals of your own.
 
 I think you might be surprised how much 30 minutes will motivate you.
+
+-->

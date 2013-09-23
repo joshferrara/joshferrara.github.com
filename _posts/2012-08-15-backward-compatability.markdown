@@ -3,7 +3,11 @@ layout: post
 date: 2012-08-15
 title: Backward Compatibility
 ---
-It's wonderful idea, right? The concept that new innovations should still support past methods. We've seen it touted in video game consoles and computer systems for years, always to the praise of consumers. If I had to guess, at sometime in your life have heard or said something along the lines of this: 
+<a href="http://blog.josh-bob.com/backward-compatibility/" class="svbtle-link">This post has moved! &raquo;</a>
+<a href="/2013/09/23/hello-svbtle/">(find out why)</a>
+
+<!--
+It's wonderful idea, right? The concept that new innovations should still support past methods. We've seen it touted in video game consoles and computer systems for years, always to the praise of consumers. If I had to guess, at sometime in your life have heard or said something along the lines of this:
 
 > "I'm so glad [SOME NEW TECHNOLOGY] supports [FAVORITE OLD TECHNOLOGY]."
 
@@ -14,3 +18,4 @@ Apple, or perhaps more famously Steve Jobs, made and continue to make headlines 
 A more recent example is the move by many popular iOS developers ([Tapbots](http://tapbots.com/) and [Marco Arment](http://www.marco.org/), to name a few) to begin requiring the latest version of the iPhone operating system to use their apps. Every update is met with its share of users that can't or won't upgrade, and yet these developers continue to look forward, not backward.
 
 The answer is a simple one. It isn't because these developers are [neophiles](http://josh-bob.com/2012/08/14/my-name-is-josh-im-a-neophile/), deaf to the cries of users. Sometimes moving forward requires turning your back on the past, no matter the cost.
+-->
