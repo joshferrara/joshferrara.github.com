@@ -1,6 +1,7 @@
-<Response>
-    <Say>Welcome to the home of Josh and Gabi. Please proceed to apartment number three three one four.</Say>
-    <Say voice="female">Welcome to the home of Josh and Gabi. Please proceed to apartment number three three one four.</Say>
-    <Play>http://www.dialabc.com/i/cache/dtmfgen/wavpcm8.300/9.wav</Play>
-    <Sms to="2257763757" from="8177764749" method="POST">You have a vistor!</Sms>
-</Response>
+<response>
+  <say>Welcome to the home of Josh and Gabi. Please proceed to apartment number three three one four.</say>
+  <say voice="woman">Welcome to the home of Josh and Gabi. Please proceed to apartment number three three one four.</say>
+  <say voice="alice">Welcome to the home of Josh and Gabi. Please proceed to apartment number three three one four.</say>
+  <play>http://www.dialabc.com/i/cache/dtmfgen/wavpcm8.300/9.wav</play>
+  <message to="+12257763757" from="+18177764749" method="POST">You have a vistor!</message>
+</response>
