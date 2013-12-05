@@ -1,5 +1,5 @@
 <Response>
   <Say voice="woman">Welcome to the home of Josh and Gabi. Please proceed to apartment number 3 3 1 4.</Say>
-  <Play>9.wav</Play>
+  <Play>https://dl.dropboxusercontent.com/u/4592737/jeeves/9.wav</Play>
   <Sms to="+12257763757" from="+18177764749" method="POST">You have a vistor!</Sms>
 </Response>
