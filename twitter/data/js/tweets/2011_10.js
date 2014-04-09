@@ -711,7 +711,7 @@ Grailbird.data.tweets_2011_10 =
       "screen_name" : "stop",
       "protected" : false,
       "id_str" : "949521",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000050553766\/d18e33bd67fe73fe78cee3c38c1f527c_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/441691596375863296\/H7LzEpDT_normal.jpeg",
       "id" : 949521,
       "verified" : false
     }
@@ -833,12 +833,6 @@ Grailbird.data.tweets_2011_10 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Hivemind Labs",
-      "screen_name" : "hivemindlabs",
-      "indices" : [ 3, 16 ],
-      "id_str" : "1184003090",
-      "id" : 1184003090
-    }, {
       "name" : "Jason Fried",
       "screen_name" : "jasonfried",
       "indices" : [ 92, 103 ],
@@ -2223,7 +2217,7 @@ Grailbird.data.tweets_2011_10 =
       "screen_name" : "Bbizzle",
       "protected" : false,
       "id_str" : "15396691",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000536800817\/9e5ea525c0e244255f7a5e0907106fa0_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/439241369345728512\/pfU0RoAD_normal.jpeg",
       "id" : 15396691,
       "verified" : false
     }

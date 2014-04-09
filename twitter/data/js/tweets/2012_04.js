@@ -308,7 +308,7 @@ Grailbird.data.tweets_2012_04 =
       "screen_name" : "jmacdonald",
       "protected" : false,
       "id_str" : "12427412",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000268513703\/7ebed4061eb5e17f89b91e54ee406751_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/452711527540207616\/zLX0gz1q_normal.jpeg",
       "id" : 12427412,
       "verified" : false
     }
@@ -531,7 +531,7 @@ Grailbird.data.tweets_2012_04 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "RailsConf 2013",
+      "name" : "RailsConf 2014",
       "screen_name" : "railsconf",
       "indices" : [ 0, 10 ],
       "id_str" : "5493662",
@@ -1502,7 +1502,7 @@ Grailbird.data.tweets_2012_04 =
   "id_str" : "188837429363490816",
   "text" : "RT @neiltyson: The best engineering flow chart ever: http:\/\/t.co\/Rs7GNh4U",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -1600,7 +1600,7 @@ Grailbird.data.tweets_2012_04 =
       "screen_name" : "marccleary",
       "protected" : false,
       "id_str" : "16333542",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000379251012\/ef8bbef2d8d6fa132635405612f42820_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/433453336529215488\/7_dTOB8d_normal.jpeg",
       "id" : 16333542,
       "verified" : false
     }
@@ -1661,7 +1661,7 @@ Grailbird.data.tweets_2012_04 =
       "screen_name" : "marccleary",
       "protected" : false,
       "id_str" : "16333542",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000379251012\/ef8bbef2d8d6fa132635405612f42820_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/433453336529215488\/7_dTOB8d_normal.jpeg",
       "id" : 16333542,
       "verified" : false
     }
@@ -1928,7 +1928,7 @@ Grailbird.data.tweets_2012_04 =
       "screen_name" : "Bbizzle",
       "protected" : false,
       "id_str" : "15396691",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000536800817\/9e5ea525c0e244255f7a5e0907106fa0_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/439241369345728512\/pfU0RoAD_normal.jpeg",
       "id" : 15396691,
       "verified" : false
     }
@@ -2164,13 +2164,7 @@ Grailbird.data.tweets_2012_04 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Nick Miller",
-      "screen_name" : "NickMiller1218",
-      "indices" : [ 0, 15 ],
-      "id_str" : "25312475",
-      "id" : 25312475
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2183,7 +2177,7 @@ Grailbird.data.tweets_2012_04 =
   "id" : 186540980416155648,
   "in_reply_to_status_id" : 186540352080060418,
   "created_at" : "2012-04-01 19:50:10 +0000",
-  "in_reply_to_screen_name" : "NickMiller1218",
+  "in_reply_to_screen_name" : "Nikali1218",
   "in_reply_to_user_id_str" : "25312475",
   "user" : {
     "name" : "Josh Ferrara",
@@ -2197,13 +2191,7 @@ Grailbird.data.tweets_2012_04 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Nick Miller",
-      "screen_name" : "NickMiller1218",
-      "indices" : [ 0, 15 ],
-      "id_str" : "25312475",
-      "id" : 25312475
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2216,7 +2204,7 @@ Grailbird.data.tweets_2012_04 =
   "id" : 186538366353932288,
   "in_reply_to_status_id" : 186537482249191425,
   "created_at" : "2012-04-01 19:39:46 +0000",
-  "in_reply_to_screen_name" : "NickMiller1218",
+  "in_reply_to_screen_name" : "Nikali1218",
   "in_reply_to_user_id_str" : "25312475",
   "user" : {
     "name" : "Josh Ferrara",
@@ -2230,13 +2218,7 @@ Grailbird.data.tweets_2012_04 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Nick Miller",
-      "screen_name" : "NickMiller1218",
-      "indices" : [ 0, 15 ],
-      "id_str" : "25312475",
-      "id" : 25312475
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2249,7 +2231,7 @@ Grailbird.data.tweets_2012_04 =
   "id" : 186537158461497344,
   "in_reply_to_status_id" : 186525151913971713,
   "created_at" : "2012-04-01 19:34:58 +0000",
-  "in_reply_to_screen_name" : "NickMiller1218",
+  "in_reply_to_screen_name" : "Nikali1218",
   "in_reply_to_user_id_str" : "25312475",
   "user" : {
     "name" : "Josh Ferrara",

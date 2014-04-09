@@ -573,11 +573,11 @@ Grailbird.data.tweets_2009_02 =
       "id_str" : "20730443",
       "id" : 20730443
     }, {
-      "name" : "DAlise",
-      "screen_name" : "DAlise",
+      "name" : "Vittorio D'alise",
+      "screen_name" : "dalise",
       "indices" : [ 16, 23 ],
-      "id_str" : "14614142",
-      "id" : 14614142
+      "id_str" : "2405835131",
+      "id" : 2405835131
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2052,7 +2052,7 @@ Grailbird.data.tweets_2009_02 =
   "source" : "\u003Ca href=\"http:\/\/www.stone.com\/Twittelator\" rel=\"nofollow\"\u003ETwittelator\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "meghanmatt",
+      "name" : "thefreebirdsings",
       "screen_name" : "meghanmatt",
       "indices" : [ 0, 11 ],
       "id_str" : "16224660",

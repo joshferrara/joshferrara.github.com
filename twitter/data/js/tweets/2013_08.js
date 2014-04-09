@@ -571,7 +571,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "paulmusso",
       "protected" : false,
       "id_str" : "15990910",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3214152406\/4fd11be2698ea1b344f2031940673480_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000865574882\/j5Q8abxy_normal.jpeg",
       "id" : 15990910,
       "verified" : false
     }
@@ -1285,7 +1285,12 @@ Grailbird.data.tweets_2013_08 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/m1JdB2NSpB",
+      "expanded_url" : "http:\/\/dashes.com\/anil\/2013\/08\/shushers-wrong-about-movies-wrong-about-the-world.html",
+      "display_url" : "dashes.com\/anil\/2013\/08\/s\u2026"
+    } ]
   },
   "geo" : { },
   "id_str" : "365664178247176193",
@@ -1316,7 +1321,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "justin",
       "protected" : false,
       "id_str" : "929",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000306417944\/4bd8ad98836bdf9af9767a10217475bb_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/443183497843183616\/q67WDC64_normal.jpeg",
       "id" : 929,
       "verified" : false
     }
@@ -1554,7 +1559,10 @@ Grailbird.data.tweets_2013_08 =
       "id" : 5690692
     } ],
     "media" : [ ],
-    "hashtags" : [ ],
+    "hashtags" : [ {
+      "text" : "marriage",
+      "indices" : [ 139, 140 ]
+    } ],
     "urls" : [ ]
   },
   "geo" : { },
@@ -1587,7 +1595,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "gabrielleeee",
       "protected" : false,
       "id_str" : "15101847",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000564794375\/49f18156e5ad1fecb81dc12dab3a2951_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/439531201687072768\/hQK3vC-r_normal.jpeg",
       "id" : 15101847,
       "verified" : false
     }

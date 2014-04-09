@@ -125,7 +125,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "gabrielleeee",
       "protected" : false,
       "id_str" : "15101847",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000564794375\/49f18156e5ad1fecb81dc12dab3a2951_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/439531201687072768\/hQK3vC-r_normal.jpeg",
       "id" : 15101847,
       "verified" : false
     }
@@ -657,7 +657,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "gabrielleeee",
       "protected" : false,
       "id_str" : "15101847",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000564794375\/49f18156e5ad1fecb81dc12dab3a2951_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/439531201687072768\/hQK3vC-r_normal.jpeg",
       "id" : 15101847,
       "verified" : false
     }
@@ -872,7 +872,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dots",
+      "name" : "DOTS",
       "screen_name" : "playdots",
       "indices" : [ 0, 9 ],
       "id_str" : "1390195350",
@@ -1333,11 +1333,11 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mick",
-      "screen_name" : "remixta",
+      "name" : "Remi",
+      "screen_name" : "Remixta",
       "indices" : [ 0, 8 ],
-      "id_str" : "16996722",
-      "id" : 16996722
+      "id_str" : "2263391334",
+      "id" : 2263391334
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1354,7 +1354,7 @@ Grailbird.data.tweets_2013_07 =
   "id" : 353750235656359937,
   "in_reply_to_status_id" : 353750041812418561,
   "created_at" : "2013-07-07 05:40:03 +0000",
-  "in_reply_to_screen_name" : "remixta",
+  "in_reply_to_screen_name" : "micaiahjacob",
   "in_reply_to_user_id_str" : "16996722",
   "user" : {
     "name" : "Josh Ferrara",
@@ -1369,11 +1369,11 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mick",
-      "screen_name" : "remixta",
+      "name" : "Remi",
+      "screen_name" : "Remixta",
       "indices" : [ 0, 8 ],
-      "id_str" : "16996722",
-      "id" : 16996722
+      "id_str" : "2263391334",
+      "id" : 2263391334
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1387,7 +1387,7 @@ Grailbird.data.tweets_2013_07 =
   "id" : 353749796852465666,
   "in_reply_to_status_id" : 353749621266333696,
   "created_at" : "2013-07-07 05:38:18 +0000",
-  "in_reply_to_screen_name" : "remixta",
+  "in_reply_to_screen_name" : "micaiahjacob",
   "in_reply_to_user_id_str" : "16996722",
   "user" : {
     "name" : "Josh Ferrara",
@@ -1435,11 +1435,11 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mick",
-      "screen_name" : "remixta",
+      "name" : "Remi",
+      "screen_name" : "Remixta",
       "indices" : [ 0, 8 ],
-      "id_str" : "16996722",
-      "id" : 16996722
+      "id_str" : "2263391334",
+      "id" : 2263391334
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1451,7 +1451,7 @@ Grailbird.data.tweets_2013_07 =
   "text" : "@remixta Just put two and two together and realized you were just with my people in Canada!",
   "id" : 353747066482212864,
   "created_at" : "2013-07-07 05:27:27 +0000",
-  "in_reply_to_screen_name" : "remixta",
+  "in_reply_to_screen_name" : "micaiahjacob",
   "in_reply_to_user_id_str" : "16996722",
   "user" : {
     "name" : "Josh Ferrara",
@@ -1547,7 +1547,12 @@ Grailbird.data.tweets_2013_07 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 143, 144 ],
+      "url" : "http:\/\/t.co\/l5ASBLAmRY",
+      "expanded_url" : "http:\/\/www.momoftheyear.ca\/mom\/?mom_id=39412",
+      "display_url" : "momoftheyear.ca\/mom\/?mom_id=39\u2026"
+    } ]
   },
   "geo" : { },
   "id_str" : "353228055000530944",
@@ -1581,7 +1586,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "RichWilkerson",
       "protected" : false,
       "id_str" : "21192884",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3151116171\/b6eb1af4c46a54269fd8fc65f27aa51d_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/450812940233744385\/gkMEOUfS_normal.jpeg",
       "id" : 21192884,
       "verified" : false
     }

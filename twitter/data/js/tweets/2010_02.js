@@ -1447,7 +1447,7 @@ Grailbird.data.tweets_2010_02 =
       "screen_name" : "hillsongunited",
       "protected" : false,
       "id_str" : "15893379",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2879152707\/ac8275479d9073ef18e6044cb7ee8e4e_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/435935347034173442\/wxe2tg-k_normal.jpeg",
       "id" : 15893379,
       "verified" : true
     }
@@ -1958,7 +1958,10 @@ Grailbird.data.tweets_2010_02 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
-    "hashtags" : [ ],
+    "hashtags" : [ {
+      "text" : "amp10",
+      "indices" : [ 139, 140 ]
+    } ],
     "urls" : [ ]
   },
   "geo" : { },

@@ -1079,13 +1079,7 @@ Grailbird.data.tweets_2012_03 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Nick Miller",
-      "screen_name" : "NickMiller1218",
-      "indices" : [ 0, 15 ],
-      "id_str" : "25312475",
-      "id" : 25312475
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1098,7 +1092,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 181821800848703488,
   "in_reply_to_status_id" : 181820852445261824,
   "created_at" : "2012-03-19 19:17:50 +0000",
-  "in_reply_to_screen_name" : "NickMiller1218",
+  "in_reply_to_screen_name" : "Nikali1218",
   "in_reply_to_user_id_str" : "25312475",
   "user" : {
     "name" : "Josh Ferrara",
@@ -1811,7 +1805,7 @@ Grailbird.data.tweets_2012_03 =
       "screen_name" : "tapbot_paul",
       "protected" : false,
       "id_str" : "18247541",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000499340101\/0d82b32629e92a4eb2df4881e1c084dc_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000727389627\/46dacd92037d23a7203bdc20188b8141_normal.png",
       "id" : 18247541,
       "verified" : false
     }
@@ -2484,7 +2478,7 @@ Grailbird.data.tweets_2012_03 =
       "screen_name" : "mattwaite",
       "protected" : false,
       "id_str" : "8839152",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3426539193\/a65052b421b440629787f4ccaa0cb327_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/432182150587105280\/QamfqVhc_normal.jpeg",
       "id" : 8839152,
       "verified" : false
     }

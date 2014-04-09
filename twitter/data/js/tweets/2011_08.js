@@ -263,7 +263,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "gabrielleeee",
       "protected" : false,
       "id_str" : "15101847",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000564794375\/49f18156e5ad1fecb81dc12dab3a2951_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/439531201687072768\/hQK3vC-r_normal.jpeg",
       "id" : 15101847,
       "verified" : false
     }
@@ -386,12 +386,6 @@ Grailbird.data.tweets_2011_08 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Hivemind Labs",
-      "screen_name" : "hivemindlabs",
-      "indices" : [ 3, 16 ],
-      "id_str" : "1184003090",
-      "id" : 1184003090
-    }, {
       "name" : "Intercom",
       "screen_name" : "intercomapp",
       "indices" : [ 41, 53 ],
@@ -664,13 +658,7 @@ Grailbird.data.tweets_2011_08 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Hivemind Labs",
-      "screen_name" : "hivemindlabs",
-      "indices" : [ 3, 16 ],
-      "id_str" : "1184003090",
-      "id" : 1184003090
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]

@@ -198,13 +198,7 @@ Grailbird.data.tweets_2012_02 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Neil Watson",
-      "screen_name" : "Pixelbob",
-      "indices" : [ 3, 12 ],
-      "id_str" : "839737171",
-      "id" : 839737171
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -531,13 +525,7 @@ Grailbird.data.tweets_2012_02 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Nick Miller",
-      "screen_name" : "NickMiller1218",
-      "indices" : [ 0, 15 ],
-      "id_str" : "25312475",
-      "id" : 25312475
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -550,7 +538,7 @@ Grailbird.data.tweets_2012_02 =
   "id" : 170738234274488322,
   "in_reply_to_status_id" : 170690621403709441,
   "created_at" : "2012-02-18 05:15:41 +0000",
-  "in_reply_to_screen_name" : "NickMiller1218",
+  "in_reply_to_screen_name" : "Nikali1218",
   "in_reply_to_user_id_str" : "25312475",
   "user" : {
     "name" : "Josh Ferrara",
@@ -624,7 +612,12 @@ Grailbird.data.tweets_2012_02 =
       "text" : "Amazi",
       "indices" : [ 118, 124 ]
     } ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/VItzkg1M",
+      "expanded_url" : "http:\/\/instagr.am\/p\/HIdU00F9Dx\/",
+      "display_url" : "instagr.am\/p\/HIdU00F9Dx\/"
+    } ]
   },
   "geo" : { },
   "id_str" : "170737087480467456",
@@ -670,7 +663,7 @@ Grailbird.data.tweets_2012_02 =
       "screen_name" : "ChrisDurso",
       "protected" : false,
       "id_str" : "18517573",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000529999267\/76143f539714bd7001f533c3b3ae6e93_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/443480373704814593\/BRfJa5Iv_normal.jpeg",
       "id" : 18517573,
       "verified" : false
     }

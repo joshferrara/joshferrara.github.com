@@ -836,11 +836,11 @@ Grailbird.data.tweets_2009_06 =
   "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\/\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "DAlise",
-      "screen_name" : "DAlise",
+      "name" : "Vittorio D'alise",
+      "screen_name" : "dalise",
       "indices" : [ 63, 70 ],
-      "id_str" : "14614142",
-      "id" : 14614142
+      "id_str" : "2405835131",
+      "id" : 2405835131
     } ],
     "media" : [ ],
     "hashtags" : [ ],

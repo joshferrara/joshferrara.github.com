@@ -1321,7 +1321,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "theleanover",
       "protected" : false,
       "id_str" : "169257934",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000705890467\/aea80831c7389140c7e750600c7f3ae5_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/450403498065006592\/zq2slg0I_normal.jpeg",
       "id" : 169257934,
       "verified" : false
     }
@@ -1967,13 +1967,7 @@ Grailbird.data.tweets_2012_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Nick Miller",
-      "screen_name" : "NickMiller1218",
-      "indices" : [ 0, 15 ],
-      "id_str" : "25312475",
-      "id" : 25312475
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1986,7 +1980,7 @@ Grailbird.data.tweets_2012_11 =
   "id" : 266007232200704000,
   "in_reply_to_status_id" : 265986012541493250,
   "created_at" : "2012-11-07 02:40:40 +0000",
-  "in_reply_to_screen_name" : "NickMiller1218",
+  "in_reply_to_screen_name" : "Nikali1218",
   "in_reply_to_user_id_str" : "25312475",
   "user" : {
     "name" : "Josh Ferrara",
@@ -2455,7 +2449,12 @@ Grailbird.data.tweets_2012_11 =
       "text" : "southwestgiveaways",
       "indices" : [ 117, 136 ]
     } ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/NZxM7ECO",
+      "expanded_url" : "http:\/\/cot.ag\/SqtukX",
+      "display_url" : "cot.ag\/SqtukX"
+    } ]
   },
   "geo" : { },
   "id_str" : "265135601790115840",
@@ -2492,7 +2491,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "SouthwestAir",
       "protected" : false,
       "id_str" : "7212562",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2794240578\/95676813600052803552e6d7a3a39629_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000766581255\/c66d5c20cca72801877824688110d2fc_normal.png",
       "id" : 7212562,
       "verified" : true
     }

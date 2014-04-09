@@ -814,7 +814,7 @@ Grailbird.data.tweets_2011_04 =
       "id_str" : "761975",
       "id" : 761975
     }, {
-      "name" : "Evan Williams",
+      "name" : "Ev Williams",
       "screen_name" : "ev",
       "indices" : [ 122, 125 ],
       "id_str" : "20",

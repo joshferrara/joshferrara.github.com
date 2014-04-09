@@ -184,7 +184,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "justingiglio",
+      "name" : "Justin Giglio",
       "screen_name" : "justingiglio",
       "indices" : [ 0, 13 ],
       "id_str" : "16753890",
@@ -241,7 +241,7 @@ Grailbird.data.tweets_2012_01 =
       "id_str" : "15396691",
       "id" : 15396691
     }, {
-      "name" : "justingiglio",
+      "name" : "Justin Giglio",
       "screen_name" : "justingiglio",
       "indices" : [ 57, 70 ],
       "id_str" : "16753890",
@@ -715,11 +715,11 @@ Grailbird.data.tweets_2012_01 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mick",
-      "screen_name" : "remixta",
+      "name" : "Remi",
+      "screen_name" : "Remixta",
       "indices" : [ 0, 8 ],
-      "id_str" : "16996722",
-      "id" : 16996722
+      "id_str" : "2263391334",
+      "id" : 2263391334
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -733,7 +733,7 @@ Grailbird.data.tweets_2012_01 =
   "id" : 162591518329290753,
   "in_reply_to_status_id" : 161633842363498496,
   "created_at" : "2012-01-26 17:43:33 +0000",
-  "in_reply_to_screen_name" : "remixta",
+  "in_reply_to_screen_name" : "micaiahjacob",
   "in_reply_to_user_id_str" : "16996722",
   "user" : {
     "name" : "Josh Ferrara",
@@ -969,7 +969,7 @@ Grailbird.data.tweets_2012_01 =
       "screen_name" : "Bbizzle",
       "protected" : false,
       "id_str" : "15396691",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000536800817\/9e5ea525c0e244255f7a5e0907106fa0_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/439241369345728512\/pfU0RoAD_normal.jpeg",
       "id" : 15396691,
       "verified" : false
     }
@@ -1019,11 +1019,11 @@ Grailbird.data.tweets_2012_01 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mick",
-      "screen_name" : "remixta",
+      "name" : "Remi",
+      "screen_name" : "Remixta",
       "indices" : [ 0, 8 ],
-      "id_str" : "16996722",
-      "id" : 16996722
+      "id_str" : "2263391334",
+      "id" : 2263391334
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1037,7 +1037,7 @@ Grailbird.data.tweets_2012_01 =
   "id" : 161559222432186368,
   "in_reply_to_status_id" : 161550209640439808,
   "created_at" : "2012-01-23 21:21:34 +0000",
-  "in_reply_to_screen_name" : "remixta",
+  "in_reply_to_screen_name" : "micaiahjacob",
   "in_reply_to_user_id_str" : "16996722",
   "user" : {
     "name" : "Josh Ferrara",
@@ -2234,7 +2234,7 @@ Grailbird.data.tweets_2012_01 =
       "screen_name" : "wireddaniel",
       "protected" : false,
       "id_str" : "6599342",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000540133818\/aa127be4019b08f6926b1ae6238ac1df_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000759315137\/801985ef36a8986170a0264caad4145f_normal.jpeg",
       "id" : 6599342,
       "verified" : false
     }
@@ -2290,7 +2290,7 @@ Grailbird.data.tweets_2012_01 =
   "id_str" : "157946794595196928",
   "text" : "RT @DKThomp: We need a metaphor replacement for \"You made your bed, now sleep in it.\" Sleeping in a bed you've made is really nice.",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2307,9 +2307,9 @@ Grailbird.data.tweets_2012_01 =
       "screen_name" : "DKThomp",
       "protected" : false,
       "id_str" : "37723353",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/787354705\/Picture_4_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/418545216317313024\/jhQ6SRq0_normal.jpeg",
       "id" : 37723353,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 157946794595196928,

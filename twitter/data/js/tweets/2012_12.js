@@ -25,7 +25,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Giles Meat Boy",
+      "name" : "Giles Goat Boy",
       "screen_name" : "gilesgoatboy",
       "indices" : [ 0, 13 ],
       "id_str" : "1341781",
@@ -200,7 +200,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "jack",
       "protected" : false,
       "id_str" : "12",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000536885082\/289a65981cd43798a42cfba9f60ca979_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/448483168580947968\/pL4ejHy4_normal.jpeg",
       "id" : 12,
       "verified" : true
     }
@@ -1077,7 +1077,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "justingiglio",
+      "name" : "Justin Giglio",
       "screen_name" : "justingiglio",
       "indices" : [ 0, 13 ],
       "id_str" : "16753890",
@@ -1141,7 +1141,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "hotdogsladies",
       "protected" : false,
       "id_str" : "749863",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/51857279\/merlin_icon_184-1_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/416379332324372480\/7k5UxDOt_normal.jpeg",
       "id" : 749863,
       "verified" : true
     }
@@ -1255,7 +1255,12 @@ Grailbird.data.tweets_2012_12 =
       "text" : "DjangoUnchained",
       "indices" : [ 77, 93 ]
     } ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/2AullFCM",
+      "expanded_url" : "http:\/\/rd.io\/x\/QVB4kSJ8OUg",
+      "display_url" : "rd.io\/x\/QVB4kSJ8OUg"
+    } ]
   },
   "geo" : { },
   "id_str" : "281108352648495104",
@@ -1535,7 +1540,12 @@ Grailbird.data.tweets_2012_12 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/SgexYa1M",
+      "expanded_url" : "http:\/\/fb.me\/zOtPF0jh",
+      "display_url" : "fb.me\/zOtPF0jh"
+    } ]
   },
   "geo" : { },
   "id_str" : "279449361308606468",
@@ -1685,11 +1695,11 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Frenchyy",
+      "name" : "Basia",
       "screen_name" : "basiabeatz",
       "indices" : [ 0, 11 ],
-      "id_str" : "323548684",
-      "id" : 323548684
+      "id_str" : "2223909619",
+      "id" : 2223909619
     }, {
       "name" : "WantKeeper",
       "screen_name" : "wantkeeper",
@@ -1701,16 +1711,11 @@ Grailbird.data.tweets_2012_12 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "279014561145827328",
   "geo" : { },
   "id_str" : "279017401742401536",
-  "in_reply_to_user_id" : 323548684,
   "text" : "@basiabeatz go make your list at @wantkeeper for free!",
   "id" : 279017401742401536,
-  "in_reply_to_status_id" : 279014561145827328,
   "created_at" : "2012-12-13 00:18:27 +0000",
-  "in_reply_to_screen_name" : "basiabeatz",
-  "in_reply_to_user_id_str" : "323548684",
   "user" : {
     "name" : "Josh Ferrara",
     "screen_name" : "joshbob",
@@ -1925,7 +1930,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Vita Rice",
+      "name" : "V",
       "screen_name" : "vEATaRice",
       "indices" : [ 0, 10 ],
       "id_str" : "391725921",
@@ -2042,7 +2047,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "justingiglio",
+      "name" : "Justin Giglio",
       "screen_name" : "justingiglio",
       "indices" : [ 3, 16 ],
       "id_str" : "16753890",
@@ -2069,11 +2074,11 @@ Grailbird.data.tweets_2012_12 =
     "id" : 278990860425768960,
     "created_at" : "2012-12-12 22:32:59 +0000",
     "user" : {
-      "name" : "justingiglio",
+      "name" : "Justin Giglio",
       "screen_name" : "justingiglio",
       "protected" : false,
       "id_str" : "16753890",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3064489984\/0f14dbc065601b09131769299cdfbeea_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/442204392339406848\/jXp6gXJd_normal.jpeg",
       "id" : 16753890,
       "verified" : false
     }
@@ -2176,6 +2181,12 @@ Grailbird.data.tweets_2012_12 =
       "indices" : [ 3, 14 ],
       "id_str" : "16333542",
       "id" : 16333542
+    }, {
+      "name" : "Manti Te'o",
+      "screen_name" : "MTeo_5",
+      "indices" : [ 139, 140 ],
+      "id_str" : "1409232594",
+      "id" : 1409232594
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2208,7 +2219,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "marccleary",
       "protected" : false,
       "id_str" : "16333542",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000379251012\/ef8bbef2d8d6fa132635405612f42820_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/433453336529215488\/7_dTOB8d_normal.jpeg",
       "id" : 16333542,
       "verified" : false
     }
@@ -2812,10 +2823,10 @@ Grailbird.data.tweets_2012_12 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Simple",
-      "screen_name" : "Simplify",
+      "screen_name" : "simplify",
       "indices" : [ 0, 9 ],
-      "id_str" : "71165241",
-      "id" : 71165241
+      "id_str" : "1247402083",
+      "id" : 1247402083
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2829,7 +2840,7 @@ Grailbird.data.tweets_2012_12 =
   "id" : 276021420931289088,
   "in_reply_to_status_id" : 276008751289487360,
   "created_at" : "2012-12-04 17:53:29 +0000",
-  "in_reply_to_screen_name" : "Simplify",
+  "in_reply_to_screen_name" : "simple",
   "in_reply_to_user_id_str" : "71165241",
   "user" : {
     "name" : "Josh Ferrara",
@@ -2845,10 +2856,10 @@ Grailbird.data.tweets_2012_12 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Simple",
-      "screen_name" : "Simplify",
+      "screen_name" : "simplify",
       "indices" : [ 0, 9 ],
-      "id_str" : "71165241",
-      "id" : 71165241
+      "id_str" : "1247402083",
+      "id" : 1247402083
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2860,7 +2871,7 @@ Grailbird.data.tweets_2012_12 =
   "text" : "@Simplify Is there any new progress on joint accounts? I have an account and I sure would love to make the switch for my wife and I!",
   "id" : 276007783223140352,
   "created_at" : "2012-12-04 16:59:18 +0000",
-  "in_reply_to_screen_name" : "Simplify",
+  "in_reply_to_screen_name" : "simple",
   "in_reply_to_user_id_str" : "71165241",
   "user" : {
     "name" : "Josh Ferrara",

@@ -75,7 +75,7 @@ Grailbird.data.tweets_2009_01 =
       "id_str" : "12551632",
       "id" : 12551632
     }, {
-      "name" : "justingiglio",
+      "name" : "Justin Giglio",
       "screen_name" : "justingiglio",
       "indices" : [ 17, 30 ],
       "id_str" : "16753890",
@@ -194,7 +194,7 @@ Grailbird.data.tweets_2009_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "justingiglio",
+      "name" : "Justin Giglio",
       "screen_name" : "justingiglio",
       "indices" : [ 0, 13 ],
       "id_str" : "16753890",
@@ -247,7 +247,7 @@ Grailbird.data.tweets_2009_01 =
   "source" : "\u003Ca href=\"http:\/\/www.stone.com\/Twittelator\" rel=\"nofollow\"\u003ETwittelator\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "justingiglio",
+      "name" : "Justin Giglio",
       "screen_name" : "justingiglio",
       "indices" : [ 12, 25 ],
       "id_str" : "16753890",
@@ -410,7 +410,7 @@ Grailbird.data.tweets_2009_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "justingiglio",
+      "name" : "Justin Giglio",
       "screen_name" : "justingiglio",
       "indices" : [ 41, 54 ],
       "id_str" : "16753890",
@@ -500,7 +500,7 @@ Grailbird.data.tweets_2009_01 =
       "id_str" : "12551632",
       "id" : 12551632
     }, {
-      "name" : "justingiglio",
+      "name" : "Justin Giglio",
       "screen_name" : "justingiglio",
       "indices" : [ 44, 57 ],
       "id_str" : "16753890",

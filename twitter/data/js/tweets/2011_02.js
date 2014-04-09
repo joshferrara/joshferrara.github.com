@@ -1369,13 +1369,7 @@ Grailbird.data.tweets_2011_02 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Jonathan Simmons",
-      "screen_name" : "thatsimmonsman",
-      "indices" : [ 3, 18 ],
-      "id_str" : "14198390",
-      "id" : 14198390
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ {
       "text" : "newbeginnings",
@@ -1387,8 +1381,8 @@ Grailbird.data.tweets_2011_02 =
       "text" : "lethimlead",
       "indices" : [ 119, 130 ]
     }, {
-      "text" : "awak",
-      "indices" : [ 131, 136 ]
+      "text" : "awakeningfast2011",
+      "indices" : [ 131, 140 ]
     } ],
     "urls" : [ ]
   },
@@ -1425,7 +1419,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "jonathansimmons",
       "protected" : false,
       "id_str" : "20492880",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000417628024\/109ea7c5583bdabc45f1e840c584f3d1_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/427929462236123136\/woYsL-Aa_normal.jpeg",
       "id" : 20492880,
       "verified" : false
     }

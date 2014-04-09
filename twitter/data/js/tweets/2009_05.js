@@ -3,11 +3,11 @@ Grailbird.data.tweets_2009_05 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "DAlise",
-      "screen_name" : "DAlise",
+      "name" : "Vittorio D'alise",
+      "screen_name" : "dalise",
       "indices" : [ 26, 33 ],
-      "id_str" : "14614142",
-      "id" : 14614142
+      "id_str" : "2405835131",
+      "id" : 2405835131
     }, {
       "name" : "Steve Russell",
       "screen_name" : "Ruskie",
@@ -462,11 +462,11 @@ Grailbird.data.tweets_2009_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "DAlise",
-      "screen_name" : "DAlise",
+      "name" : "Vittorio D'alise",
+      "screen_name" : "dalise",
       "indices" : [ 42, 49 ],
-      "id_str" : "14614142",
-      "id" : 14614142
+      "id_str" : "2405835131",
+      "id" : 2405835131
     }, {
       "name" : "JP Brumfield",
       "screen_name" : "bigred1213",
@@ -880,11 +880,11 @@ Grailbird.data.tweets_2009_05 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "DAlise",
-      "screen_name" : "DAlise",
+      "name" : "Vittorio D'alise",
+      "screen_name" : "dalise",
       "indices" : [ 44, 51 ],
-      "id_str" : "14614142",
-      "id" : 14614142
+      "id_str" : "2405835131",
+      "id" : 2405835131
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2388,7 +2388,7 @@ Grailbird.data.tweets_2009_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "justingiglio",
+      "name" : "Justin Giglio",
       "screen_name" : "justingiglio",
       "indices" : [ 66, 79 ],
       "id_str" : "16753890",
@@ -2460,11 +2460,11 @@ Grailbird.data.tweets_2009_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "DAlise",
-      "screen_name" : "DAlise",
+      "name" : "Vittorio D'alise",
+      "screen_name" : "dalise",
       "indices" : [ 7, 14 ],
-      "id_str" : "14614142",
-      "id" : 14614142
+      "id_str" : "2405835131",
+      "id" : 2405835131
     } ],
     "media" : [ ],
     "hashtags" : [ {

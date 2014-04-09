@@ -447,7 +447,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "jack",
       "protected" : false,
       "id_str" : "12",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000536885082\/289a65981cd43798a42cfba9f60ca979_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/448483168580947968\/pL4ejHy4_normal.jpeg",
       "id" : 12,
       "verified" : true
     }
@@ -1201,13 +1201,7 @@ Grailbird.data.tweets_2011_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "gabriel p kelly",
-      "screen_name" : "gabrielkelly1",
-      "indices" : [ 0, 14 ],
-      "id_str" : "18008590",
-      "id" : 18008590
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1220,7 +1214,7 @@ Grailbird.data.tweets_2011_07 =
   "id" : 90965476322197504,
   "in_reply_to_status_id" : 90957364282392576,
   "created_at" : "2011-07-13 02:07:14 +0000",
-  "in_reply_to_screen_name" : "gabrielkelly1",
+  "in_reply_to_screen_name" : "gabrielpkelly",
   "in_reply_to_user_id_str" : "18008590",
   "user" : {
     "name" : "Josh Ferrara",

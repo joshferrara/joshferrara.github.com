@@ -306,26 +306,21 @@ Grailbird.data.tweets_2008_11 =
   "source" : "\u003Ca href=\"http:\/\/twitabit.com\/\" rel=\"nofollow\"\u003Etwitabit\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "DAlise",
-      "screen_name" : "DAlise",
+      "name" : "Vittorio D'alise",
+      "screen_name" : "dalise",
       "indices" : [ 0, 7 ],
-      "id_str" : "14614142",
-      "id" : 14614142
+      "id_str" : "2405835131",
+      "id" : 2405835131
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "1015199508",
   "geo" : { },
   "id_str" : "1017533444",
-  "in_reply_to_user_id" : 14614142,
   "text" : "@dalise is a lucky man. Can walk to Nagoya! http:\/\/bit.ly\/cczD",
   "id" : 1017533444,
-  "in_reply_to_status_id" : 1015199508,
   "created_at" : "2008-11-22 00:00:00 +0000",
-  "in_reply_to_screen_name" : "DAlise",
-  "in_reply_to_user_id_str" : "14614142",
   "user" : {
     "name" : "Josh Ferrara",
     "screen_name" : "joshbob",

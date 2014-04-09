@@ -1113,11 +1113,11 @@ Grailbird.data.tweets_2008_10 =
       "id_str" : "13393112",
       "id" : 13393112
     }, {
-      "name" : "DAlise",
-      "screen_name" : "DAlise",
+      "name" : "Vittorio D'alise",
+      "screen_name" : "dalise",
       "indices" : [ 28, 35 ],
-      "id_str" : "14614142",
-      "id" : 14614142
+      "id_str" : "2405835131",
+      "id" : 2405835131
     }, {
       "name" : "Brittany Bourgeois",
       "screen_name" : "booshwaa",

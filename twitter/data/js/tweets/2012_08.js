@@ -596,7 +596,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "friedriches",
       "protected" : false,
       "id_str" : "12551632",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1503592682\/185537_10100664862587075_23419616_60939526_6044338_n_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/440611428504842240\/EXDcFJcr_normal.png",
       "id" : 12551632,
       "verified" : false
     }
@@ -616,12 +616,6 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Svbtle Featured",
-      "screen_name" : "SvbtleFeatured",
-      "indices" : [ 3, 18 ],
-      "id_str" : "793736438",
-      "id" : 793736438
-    }, {
       "name" : "Cap Watkins",
       "screen_name" : "cap",
       "indices" : [ 64, 68 ],
@@ -1954,10 +1948,7 @@ Grailbird.data.tweets_2012_08 =
       } ],
       "urls" : [ ]
     },
-    "geo" : {
-      "type" : "Point",
-      "coordinates" : [ 40.04041585, -86.01218815 ]
-    },
+    "geo" : { },
     "id_str" : "235866639403466752",
     "text" : "I just fact checked: it HAS been 815 days since we last saw the survivors of Oceanic 815. Today is 8\/15. #LOST #mindblown #fb",
     "id" : 235866639403466752,
@@ -2077,7 +2068,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "saucypickles",
       "protected" : false,
       "id_str" : "113113323",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3622908784\/b1c8368fa4cd6be2e9ff7786c6fce231_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_1_normal.png",
       "id" : 113113323,
       "verified" : false
     }
@@ -2190,7 +2181,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "Bbizzle",
       "protected" : false,
       "id_str" : "15396691",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000536800817\/9e5ea525c0e244255f7a5e0907106fa0_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/439241369345728512\/pfU0RoAD_normal.jpeg",
       "id" : 15396691,
       "verified" : false
     }
@@ -2369,7 +2360,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "meghanmatt",
+      "name" : "thefreebirdsings",
       "screen_name" : "meghanmatt",
       "indices" : [ 0, 11 ],
       "id_str" : "16224660",
@@ -2512,7 +2503,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Nathan Verni",
+      "name" : "N.P. Verni",
       "screen_name" : "npverni",
       "indices" : [ 0, 8 ],
       "id_str" : "4080231",
@@ -2615,7 +2606,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "caro",
       "protected" : false,
       "id_str" : "818155",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1131045413\/IMG_1195_normal.JPG",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/425032476767952896\/0dNCBudU_normal.jpeg",
       "id" : 818155,
       "verified" : false
     }
@@ -2668,11 +2659,11 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mick",
-      "screen_name" : "remixta",
+      "name" : "Remi",
+      "screen_name" : "Remixta",
       "indices" : [ 0, 8 ],
-      "id_str" : "16996722",
-      "id" : 16996722
+      "id_str" : "2263391334",
+      "id" : 2263391334
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2686,7 +2677,7 @@ Grailbird.data.tweets_2012_08 =
   "id" : 233591877755088896,
   "in_reply_to_status_id" : 233591467115945984,
   "created_at" : "2012-08-09 15:53:38 +0000",
-  "in_reply_to_screen_name" : "remixta",
+  "in_reply_to_screen_name" : "micaiahjacob",
   "in_reply_to_user_id_str" : "16996722",
   "user" : {
     "name" : "Josh Ferrara",
@@ -2759,7 +2750,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "TerryStorch",
       "protected" : false,
       "id_str" : "1413801",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000026799440\/70158c84270eaf1bfc7dabc3b4b46949_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000731951164\/324cb014827700db1b9b24ac8714013b_normal.jpeg",
       "id" : 1413801,
       "verified" : false
     }
@@ -3011,10 +3002,10 @@ Grailbird.data.tweets_2012_08 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Simple",
-      "screen_name" : "Simplify",
+      "screen_name" : "simplify",
       "indices" : [ 15, 24 ],
-      "id_str" : "71165241",
-      "id" : 71165241
+      "id_str" : "1247402083",
+      "id" : 1247402083
     } ],
     "media" : [ ],
     "hashtags" : [ ],

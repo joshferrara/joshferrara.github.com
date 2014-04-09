@@ -581,26 +581,21 @@ Grailbird.data.tweets_2008_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "DAlise",
-      "screen_name" : "DAlise",
+      "name" : "Vittorio D'alise",
+      "screen_name" : "dalise",
       "indices" : [ 0, 7 ],
-      "id_str" : "14614142",
-      "id" : 14614142
+      "id_str" : "2405835131",
+      "id" : 2405835131
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "867235359",
   "geo" : { },
   "id_str" : "867237114",
-  "in_reply_to_user_id" : 14614142,
   "text" : "@dalise enough funds for 2?",
   "id" : 867237114,
-  "in_reply_to_status_id" : 867235359,
   "created_at" : "2008-07-24 00:00:00 +0000",
-  "in_reply_to_screen_name" : "DAlise",
-  "in_reply_to_user_id_str" : "14614142",
   "user" : {
     "name" : "Josh Ferrara",
     "screen_name" : "joshbob",
@@ -1788,11 +1783,11 @@ Grailbird.data.tweets_2008_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "DAlise",
-      "screen_name" : "DAlise",
+      "name" : "Vittorio D'alise",
+      "screen_name" : "dalise",
       "indices" : [ 0, 7 ],
-      "id_str" : "14614142",
-      "id" : 14614142
+      "id_str" : "2405835131",
+      "id" : 2405835131
     }, {
       "name" : "Josh Foster",
       "screen_name" : "fAzhA",
@@ -1804,16 +1799,11 @@ Grailbird.data.tweets_2008_07 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "853975551",
   "geo" : { },
   "id_str" : "855132206",
-  "in_reply_to_user_id" : 14614142,
   "text" : "@dalise just asked \"uhh who is @fazha?\"",
   "id" : 855132206,
-  "in_reply_to_status_id" : 853975551,
   "created_at" : "2008-07-10 00:00:00 +0000",
-  "in_reply_to_screen_name" : "DAlise",
-  "in_reply_to_user_id_str" : "14614142",
   "user" : {
     "name" : "Josh Ferrara",
     "screen_name" : "joshbob",
@@ -2219,26 +2209,21 @@ Grailbird.data.tweets_2008_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "DAlise",
-      "screen_name" : "DAlise",
+      "name" : "Vittorio D'alise",
+      "screen_name" : "dalise",
       "indices" : [ 0, 7 ],
-      "id_str" : "14614142",
-      "id" : 14614142
+      "id_str" : "2405835131",
+      "id" : 2405835131
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "849608203",
   "geo" : { },
   "id_str" : "849609351",
-  "in_reply_to_user_id" : 14614142,
   "text" : "@dalise needs to drive the speed limit, he's rolling through these states",
   "id" : 849609351,
-  "in_reply_to_status_id" : 849608203,
   "created_at" : "2008-07-03 00:00:00 +0000",
-  "in_reply_to_screen_name" : "DAlise",
-  "in_reply_to_user_id_str" : "14614142",
   "user" : {
     "name" : "Josh Ferrara",
     "screen_name" : "joshbob",

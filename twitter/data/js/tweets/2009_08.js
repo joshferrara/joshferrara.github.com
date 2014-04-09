@@ -319,7 +319,7 @@ Grailbird.data.tweets_2009_08 =
       "id_str" : "13393112",
       "id" : 13393112
     }, {
-      "name" : "justingiglio",
+      "name" : "Justin Giglio",
       "screen_name" : "justingiglio",
       "indices" : [ 90, 103 ],
       "id_str" : "16753890",
@@ -572,7 +572,7 @@ Grailbird.data.tweets_2009_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "justingiglio",
+      "name" : "Justin Giglio",
       "screen_name" : "justingiglio",
       "indices" : [ 46, 59 ],
       "id_str" : "16753890",
@@ -1503,7 +1503,7 @@ Grailbird.data.tweets_2009_08 =
   "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\/\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "NatalieSperaMiller",
+      "name" : "Natalie143Miller",
       "screen_name" : "NatalieSpera",
       "indices" : [ 13, 26 ],
       "id_str" : "12762242",

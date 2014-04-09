@@ -25,11 +25,11 @@ Grailbird.data.tweets_2009_04 =
   "source" : "\u003Ca href=\"http:\/\/twitpic.com\/\" rel=\"nofollow\"\u003ETwitPic\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "DAlise",
-      "screen_name" : "DAlise",
+      "name" : "Vittorio D'alise",
+      "screen_name" : "dalise",
       "indices" : [ 27, 34 ],
-      "id_str" : "14614142",
-      "id" : 14614142
+      "id_str" : "2405835131",
+      "id" : 2405835131
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -441,7 +441,7 @@ Grailbird.data.tweets_2009_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Brigitte",
+      "name" : "BLD",
       "screen_name" : "BDarton",
       "indices" : [ 16, 24 ],
       "id_str" : "536938776",
@@ -677,11 +677,11 @@ Grailbird.data.tweets_2009_04 =
   "source" : "\u003Ca href=\"http:\/\/www.stone.com\/Twittelator\" rel=\"nofollow\"\u003ETwittelator\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "DAlise",
-      "screen_name" : "DAlise",
+      "name" : "Vittorio D'alise",
+      "screen_name" : "dalise",
       "indices" : [ 0, 7 ],
-      "id_str" : "14614142",
-      "id" : 14614142
+      "id_str" : "2405835131",
+      "id" : 2405835131
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -689,12 +689,9 @@ Grailbird.data.tweets_2009_04 =
   },
   "geo" : { },
   "id_str" : "1643456696",
-  "in_reply_to_user_id" : 14614142,
   "text" : "@dalise why the heck don't you and Dodashus have Facebook? I'm trying to tag pics while driving and you aren't even on there.",
   "id" : 1643456696,
   "created_at" : "2009-04-28 00:00:00 +0000",
-  "in_reply_to_screen_name" : "DAlise",
-  "in_reply_to_user_id_str" : "14614142",
   "user" : {
     "name" : "Josh Ferrara",
     "screen_name" : "joshbob",
@@ -1767,7 +1764,7 @@ Grailbird.data.tweets_2009_04 =
       "id_str" : "12551632",
       "id" : 12551632
     }, {
-      "name" : "justingiglio",
+      "name" : "Justin Giglio",
       "screen_name" : "justingiglio",
       "indices" : [ 17, 30 ],
       "id_str" : "16753890",
