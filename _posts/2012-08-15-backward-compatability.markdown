@@ -3,7 +3,7 @@ layout: post
 date: 2012-08-15
 title: Backward Compatibility
 ---
-<a href="http://blog.josh-bob.com/backward-compatibility/" class="svbtle-link">This post has moved! &raquo;</a>
+<a href="http://blog.josh-bob.com/backward-compatability/" class="svbtle-link">This post has moved! &raquo;</a>
 <a href="/2013/09/23/hello-svbtle/">(find out why)</a>
 
 <!--
