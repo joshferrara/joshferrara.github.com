@@ -923,7 +923,7 @@ Grailbird.data.tweets_2009_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Michael Ruffin",
+      "name" : "CS",
       "screen_name" : "mikeruffin",
       "indices" : [ 0, 11 ],
       "id_str" : "17878975",

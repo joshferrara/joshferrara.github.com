@@ -214,117 +214,6 @@ Grailbird.data.tweets_2012_04 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Jonathan MacDonald",
-      "screen_name" : "jmacdonald",
-      "indices" : [ 3, 14 ],
-      "id_str" : "12427412",
-      "id" : 12427412
-    } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/jmacdonald\/status\/195184740209401856\/photo\/1",
-      "indices" : [ 91, 111 ],
-      "url" : "http:\/\/t.co\/Ixhk1l5Z",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/ArVvfLICIAAMuVM.png",
-      "id_str" : "195184740213596160",
-      "id" : 195184740213596160,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/ArVvfLICIAAMuVM.png",
-      "sizes" : [ {
-        "h" : 1280,
-        "resize" : "fit",
-        "w" : 720
-      }, {
-        "h" : 1280,
-        "resize" : "fit",
-        "w" : 720
-      }, {
-        "h" : 1066,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 604,
-        "resize" : "fit",
-        "w" : 340
-      } ],
-      "display_url" : "pic.twitter.com\/Ixhk1l5Z"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "195348460482998273",
-  "text" : "RT @jmacdonald: Holy cow...how google drive terms compare to dropbox and Microsoft. ..wow. http:\/\/t.co\/Ixhk1l5Z",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/jmacdonald\/status\/195184740209401856\/photo\/1",
-        "indices" : [ 75, 95 ],
-        "url" : "http:\/\/t.co\/Ixhk1l5Z",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/ArVvfLICIAAMuVM.png",
-        "id_str" : "195184740213596160",
-        "id" : 195184740213596160,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/ArVvfLICIAAMuVM.png",
-        "sizes" : [ {
-          "h" : 1280,
-          "resize" : "fit",
-          "w" : 720
-        }, {
-          "h" : 1280,
-          "resize" : "fit",
-          "w" : 720
-        }, {
-          "h" : 1066,
-          "resize" : "fit",
-          "w" : 600
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 604,
-          "resize" : "fit",
-          "w" : 340
-        } ],
-        "display_url" : "pic.twitter.com\/Ixhk1l5Z"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "195184740209401856",
-    "text" : "Holy cow...how google drive terms compare to dropbox and Microsoft. ..wow. http:\/\/t.co\/Ixhk1l5Z",
-    "id" : 195184740209401856,
-    "created_at" : "2012-04-25 16:17:24 +0000",
-    "user" : {
-      "name" : "Jonathan MacDonald",
-      "screen_name" : "jmacdonald",
-      "protected" : false,
-      "id_str" : "12427412",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/623219462288900096\/-21mXSqo_normal.jpg",
-      "id" : 12427412,
-      "verified" : false
-    }
-  },
-  "id" : 195348460482998273,
-  "created_at" : "2012-04-26 03:07:57 +0000",
-  "user" : {
-    "name" : "Josh Ferrara",
-    "screen_name" : "joshbob",
-    "protected" : false,
-    "id_str" : "5690692",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/613177598521159680\/Z7mgrWsI_normal.jpg",
-    "id" : 5690692,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -473,7 +362,7 @@ Grailbird.data.tweets_2012_04 =
       "id" : 418
     }, {
       "name" : "Foursquare",
-      "screen_name" : "foursquare",
+      "screen_name" : "Foursquare",
       "indices" : [ 102, 113 ],
       "id_str" : "14120151",
       "id" : 14120151
@@ -531,7 +420,7 @@ Grailbird.data.tweets_2012_04 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "RailsConf 2015",
+      "name" : "RailsConf",
       "screen_name" : "railsconf",
       "indices" : [ 0, 10 ],
       "id_str" : "5493662",
@@ -1384,7 +1273,7 @@ Grailbird.data.tweets_2012_04 =
       "screen_name" : "thurrott",
       "protected" : false,
       "id_str" : "14964767",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/641302926401634304\/lQ85IUDj_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/718435052779151360\/s1niU-q7_normal.jpg",
       "id" : 14964767,
       "verified" : false
     }
@@ -1477,7 +1366,7 @@ Grailbird.data.tweets_2012_04 =
         "resize" : "fit",
         "w" : 589
       }, {
-        "h" : 253,
+        "h" : 254,
         "resize" : "fit",
         "w" : 340
       }, {
@@ -1518,7 +1407,7 @@ Grailbird.data.tweets_2012_04 =
           "resize" : "fit",
           "w" : 589
         }, {
-          "h" : 253,
+          "h" : 254,
           "resize" : "fit",
           "w" : 340
         }, {

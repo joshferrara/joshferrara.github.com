@@ -982,7 +982,7 @@ Grailbird.data.tweets_2010_01 =
       "screen_name" : "google",
       "protected" : false,
       "id_str" : "20536157",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/638751551457103872\/KN-NzuRl_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/761398841375469568\/AXGRCUMS_normal.jpg",
       "id" : 20536157,
       "verified" : true
     }

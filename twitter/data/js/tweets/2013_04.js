@@ -206,7 +206,7 @@ Grailbird.data.tweets_2013_04 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Curtis Steckel",
+      "name" : "Steckel, Curtis",
       "screen_name" : "Steckel",
       "indices" : [ 3, 11 ],
       "id_str" : "16169366",
@@ -243,7 +243,7 @@ Grailbird.data.tweets_2013_04 =
     "id" : 326846161145192448,
     "created_at" : "2013-04-23 23:52:51 +0000",
     "user" : {
-      "name" : "Curtis Steckel",
+      "name" : "Steckel, Curtis",
       "screen_name" : "Steckel",
       "protected" : false,
       "id_str" : "16169366",
@@ -388,13 +388,13 @@ Grailbird.data.tweets_2013_04 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kari LeBlanc",
+      "name" : "kari LeBlanc",
       "screen_name" : "karileblanc",
       "indices" : [ 0, 12 ],
       "id_str" : "28812680",
       "id" : 28812680
     }, {
-      "name" : "Lance LeBlanc",
+      "name" : "Lance LeBlanc, CPCC",
       "screen_name" : "The_Lance",
       "indices" : [ 59, 69 ],
       "id_str" : "14465920",
@@ -714,11 +714,11 @@ Grailbird.data.tweets_2013_04 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Gaug.es",
+      "name" : "Gauges Old Account",
       "screen_name" : "gaugesapp",
       "indices" : [ 0, 10 ],
-      "id_str" : "245369690",
-      "id" : 245369690
+      "id_str" : "4860063878",
+      "id" : 4860063878
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -732,7 +732,7 @@ Grailbird.data.tweets_2013_04 =
   "id" : 318758755426779138,
   "in_reply_to_status_id" : 318758529597067264,
   "created_at" : "2013-04-01 16:16:24 +0000",
-  "in_reply_to_screen_name" : "gaugesapp",
+  "in_reply_to_screen_name" : "gauges",
   "in_reply_to_user_id_str" : "245369690",
   "user" : {
     "name" : "Josh Ferrara",
@@ -747,11 +747,11 @@ Grailbird.data.tweets_2013_04 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Gaug.es",
+      "name" : "Gauges Old Account",
       "screen_name" : "gaugesapp",
       "indices" : [ 0, 10 ],
-      "id_str" : "245369690",
-      "id" : 245369690
+      "id_str" : "4860063878",
+      "id" : 4860063878
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -763,7 +763,7 @@ Grailbird.data.tweets_2013_04 =
   "text" : "@gaugesapp Is the app having trouble is or is just me?",
   "id" : 318758373086597121,
   "created_at" : "2013-04-01 16:14:53 +0000",
-  "in_reply_to_screen_name" : "gaugesapp",
+  "in_reply_to_screen_name" : "gauges",
   "in_reply_to_user_id_str" : "245369690",
   "user" : {
     "name" : "Josh Ferrara",

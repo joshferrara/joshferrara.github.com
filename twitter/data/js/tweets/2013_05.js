@@ -165,7 +165,7 @@ Grailbird.data.tweets_2013_05 =
       "screen_name" : "jack",
       "protected" : false,
       "id_str" : "12",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/658036183713251328\/UGqRFh72_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668328458519384064\/FSAIjKRl_normal.jpg",
       "id" : 12,
       "verified" : true
     }

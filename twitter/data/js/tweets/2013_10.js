@@ -816,7 +816,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "friedriches",
       "protected" : false,
       "id_str" : "12551632",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/590713876603342848\/lTB4qbA4_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/760232209139638272\/qW00sU1i_normal.jpg",
       "id" : 12551632,
       "verified" : false
     }
@@ -1977,7 +1977,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Hallouieen",
+      "name" : "Louie Mantia",
       "screen_name" : "mantia",
       "indices" : [ 0, 7 ],
       "id_str" : "41783",
@@ -2049,7 +2049,7 @@ Grailbird.data.tweets_2013_10 =
       "id_str" : "20492880",
       "id" : 20492880
     }, {
-      "name" : "Hallouieen",
+      "name" : "Louie Mantia",
       "screen_name" : "mantia",
       "indices" : [ 89, 96 ],
       "id_str" : "41783",
@@ -3353,7 +3353,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Priceline.com",
+      "name" : "priceline",
       "screen_name" : "priceline",
       "indices" : [ 0, 10 ],
       "id_str" : "20595739",
@@ -4363,7 +4363,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "USATODAY",
       "protected" : false,
       "id_str" : "15754281",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/657279996650725378\/1xCIaEt0_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/759073730249261057\/pdDI8oF3_normal.jpg",
       "id" : 15754281,
       "verified" : true
     }
@@ -4606,7 +4606,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "BarackObama",
       "protected" : false,
       "id_str" : "813286",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/451007105391022080\/iu1f7brY_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/738744285101580288\/OUoCVEXG_normal.jpg",
       "id" : 813286,
       "verified" : true
     }

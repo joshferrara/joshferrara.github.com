@@ -895,10 +895,10 @@ Grailbird.data.tweets_2010_05 =
     "created_at" : "2010-05-16 12:45:37 +0000",
     "user" : {
       "name" : "Peter Wilson",
-      "screen_name" : "petewils0n",
+      "screen_name" : "petewilsons",
       "protected" : false,
       "id_str" : "37654388",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/643201063210758144\/KuYhmPLI_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/755605774055841792\/xZ8QKiKv_normal.jpg",
       "id" : 37654388,
       "verified" : false
     }

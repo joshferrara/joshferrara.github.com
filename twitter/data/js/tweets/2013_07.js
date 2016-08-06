@@ -305,7 +305,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lance LeBlanc",
+      "name" : "Lance LeBlanc, CPCC",
       "screen_name" : "The_Lance",
       "indices" : [ 0, 10 ],
       "id_str" : "14465920",
@@ -871,13 +871,7 @@ Grailbird.data.tweets_2013_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Two Dots",
-      "screen_name" : "playdots",
-      "indices" : [ 0, 9 ],
-      "id_str" : "1390195350",
-      "id" : 1390195350
-    } ],
+    "user_mentions" : [ ],
     "media" : [ {
       "expanded_url" : "http:\/\/twitter.com\/joshbob\/status\/357515280030781440\/photo\/1",
       "indices" : [ 57, 79 ],
@@ -918,7 +912,7 @@ Grailbird.data.tweets_2013_07 =
   "text" : "@playdots have you seen this one? Dots: The Soundtrack \u2014 http:\/\/t.co\/bXABWi7epb",
   "id" : 357515280030781440,
   "created_at" : "2013-07-17 15:01:00 +0000",
-  "in_reply_to_screen_name" : "playdots",
+  "in_reply_to_screen_name" : "dots",
   "in_reply_to_user_id_str" : "1390195350",
   "user" : {
     "name" : "Josh Ferrara",
@@ -1277,7 +1271,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "BrianCHouston",
       "protected" : false,
       "id_str" : "19223156",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/644009840889585664\/ZloJRgHG_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/703018661557088256\/vzpRVyZp_normal.jpg",
       "id" : 19223156,
       "verified" : true
     }
@@ -1573,7 +1567,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "RichWilkerson",
       "protected" : false,
       "id_str" : "21192884",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/622127750954942464\/jrD99urg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/723586082613301249\/-Cf3vWfP_normal.jpg",
       "id" : 21192884,
       "verified" : false
     }

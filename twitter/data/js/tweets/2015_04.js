@@ -279,7 +279,7 @@ Grailbird.data.tweets_2015_04 =
       "screen_name" : "friedriches",
       "protected" : false,
       "id_str" : "12551632",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/590713876603342848\/lTB4qbA4_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/760232209139638272\/qW00sU1i_normal.jpg",
       "id" : 12551632,
       "verified" : false
     }
@@ -462,7 +462,7 @@ Grailbird.data.tweets_2015_04 =
       "id_str" : "15101847",
       "id" : 15101847
     }, {
-      "name" : "ALLSAINTS ",
+      "name" : "ALLSAINTS",
       "screen_name" : "AllSaintsLive",
       "indices" : [ 42, 56 ],
       "id_str" : "22130393",
@@ -481,6 +481,10 @@ Grailbird.data.tweets_2015_04 =
         "resize" : "fit",
         "w" : 400
       }, {
+        "h" : 400,
+        "resize" : "fit",
+        "w" : 400
+      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
@@ -488,10 +492,6 @@ Grailbird.data.tweets_2015_04 =
         "h" : 340,
         "resize" : "fit",
         "w" : 340
-      }, {
-        "h" : 400,
-        "resize" : "fit",
-        "w" : 400
       }, {
         "h" : 400,
         "resize" : "fit",
@@ -509,7 +509,7 @@ Grailbird.data.tweets_2015_04 =
     "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "ALLSAINTS ",
+        "name" : "ALLSAINTS",
         "screen_name" : "AllSaintsLive",
         "indices" : [ 24, 38 ],
         "id_str" : "22130393",
@@ -528,6 +528,10 @@ Grailbird.data.tweets_2015_04 =
           "resize" : "fit",
           "w" : 400
         }, {
+          "h" : 400,
+          "resize" : "fit",
+          "w" : 400
+        }, {
           "h" : 150,
           "resize" : "crop",
           "w" : 150
@@ -535,10 +539,6 @@ Grailbird.data.tweets_2015_04 =
           "h" : 340,
           "resize" : "fit",
           "w" : 340
-        }, {
-          "h" : 400,
-          "resize" : "fit",
-          "w" : 400
         }, {
           "h" : 400,
           "resize" : "fit",

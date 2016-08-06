@@ -9,7 +9,7 @@ Grailbird.data.tweets_2013_02 =
       "id_str" : "230930230",
       "id" : 230930230
     }, {
-      "name" : "Lance LeBlanc",
+      "name" : "Lance LeBlanc, CPCC",
       "screen_name" : "The_Lance",
       "indices" : [ 54, 64 ],
       "id_str" : "14465920",
@@ -31,7 +31,7 @@ Grailbird.data.tweets_2013_02 =
     "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Lance LeBlanc",
+        "name" : "Lance LeBlanc, CPCC",
         "screen_name" : "The_Lance",
         "indices" : [ 37, 47 ],
         "id_str" : "14465920",
@@ -356,7 +356,7 @@ Grailbird.data.tweets_2013_02 =
       "screen_name" : "jack",
       "protected" : false,
       "id_str" : "12",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/658036183713251328\/UGqRFh72_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668328458519384064\/FSAIjKRl_normal.jpg",
       "id" : 12,
       "verified" : true
     }
@@ -409,7 +409,7 @@ Grailbird.data.tweets_2013_02 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lance LeBlanc",
+      "name" : "Lance LeBlanc, CPCC",
       "screen_name" : "The_Lance",
       "indices" : [ 51, 61 ],
       "id_str" : "14465920",
@@ -515,7 +515,7 @@ Grailbird.data.tweets_2013_02 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lance LeBlanc",
+      "name" : "Lance LeBlanc, CPCC",
       "screen_name" : "The_Lance",
       "indices" : [ 3, 13 ],
       "id_str" : "14465920",
@@ -552,11 +552,11 @@ Grailbird.data.tweets_2013_02 =
     "id" : 304949523376136193,
     "created_at" : "2013-02-22 13:43:26 +0000",
     "user" : {
-      "name" : "Lance LeBlanc",
+      "name" : "Lance LeBlanc, CPCC",
       "screen_name" : "The_Lance",
       "protected" : false,
       "id_str" : "14465920",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/593473313986453506\/N8BPjaJ3_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/757687261521584128\/Pny_6062_normal.jpg",
       "id" : 14465920,
       "verified" : false
     }
@@ -576,7 +576,7 @@ Grailbird.data.tweets_2013_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lance LeBlanc",
+      "name" : "Lance LeBlanc, CPCC",
       "screen_name" : "The_Lance",
       "indices" : [ 3, 13 ],
       "id_str" : "14465920",
@@ -615,11 +615,11 @@ Grailbird.data.tweets_2013_02 =
     "id" : 304787373655478272,
     "created_at" : "2013-02-22 02:59:07 +0000",
     "user" : {
-      "name" : "Lance LeBlanc",
+      "name" : "Lance LeBlanc, CPCC",
       "screen_name" : "The_Lance",
       "protected" : false,
       "id_str" : "14465920",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/593473313986453506\/N8BPjaJ3_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/757687261521584128\/Pny_6062_normal.jpg",
       "id" : 14465920,
       "verified" : false
     }
@@ -826,7 +826,7 @@ Grailbird.data.tweets_2013_02 =
   "source" : "\u003Ca href=\"http:\/\/instagram.com\" rel=\"nofollow\"\u003EInstagram\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lance LeBlanc",
+      "name" : "Lance LeBlanc, CPCC",
       "screen_name" : "The_Lance",
       "indices" : [ 35, 45 ],
       "id_str" : "14465920",
@@ -1696,9 +1696,9 @@ Grailbird.data.tweets_2013_02 =
       "screen_name" : "ChaseMit",
       "protected" : false,
       "id_str" : "27628334",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3406559945\/19d15f3db53e90c56cf0512ac32ac6d6_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/753800774837080065\/35wg5EyP_normal.jpg",
       "id" : 27628334,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 298234175859851264,

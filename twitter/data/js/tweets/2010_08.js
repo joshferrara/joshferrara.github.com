@@ -1156,7 +1156,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "craiggroeschel",
       "protected" : false,
       "id_str" : "18060584",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/433269107090128896\/jfoRXFEb_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/707673652888666112\/Hn3_Qgc-_normal.jpg",
       "id" : 18060584,
       "verified" : true
     }

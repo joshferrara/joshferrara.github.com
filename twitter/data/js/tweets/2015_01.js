@@ -433,6 +433,12 @@ Grailbird.data.tweets_2015_01 =
       "id_str" : "15326188",
       "id" : 15326188
     }, {
+      "name" : "Carmen Helm",
+      "screen_name" : "CarmenHelm",
+      "indices" : [ 125, 136 ],
+      "id_str" : "709626687928008704",
+      "id" : 709626687928008704
+    }, {
       "name" : "Tim Schraeder",
       "screen_name" : "TimSchraeder",
       "indices" : [ 137, 140 ],
@@ -473,6 +479,12 @@ Grailbird.data.tweets_2015_01 =
         "id_str" : "15326188",
         "id" : 15326188
       }, {
+        "name" : "Carmen Helm",
+        "screen_name" : "CarmenHelm",
+        "indices" : [ 110, 121 ],
+        "id_str" : "709626687928008704",
+        "id" : 709626687928008704
+      }, {
         "name" : "Tim Schraeder",
         "screen_name" : "TimSchraeder",
         "indices" : [ 122, 135 ],
@@ -498,7 +510,7 @@ Grailbird.data.tweets_2015_01 =
       "screen_name" : "jmleggott",
       "protected" : false,
       "id_str" : "21344916",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000180524228\/23544299e51966e1e52b7c17ef0e7196_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/694722427494871040\/qRnaKB39_normal.jpg",
       "id" : 21344916,
       "verified" : false
     }

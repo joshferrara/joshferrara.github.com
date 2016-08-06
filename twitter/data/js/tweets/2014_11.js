@@ -134,7 +134,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alex Shiels \u26D4",
+      "name" : "Alex '';!--\u2039\u203A=&\u007B()\u007D",
       "screen_name" : "tellyworth",
       "indices" : [ 0, 11 ],
       "id_str" : "15576158",

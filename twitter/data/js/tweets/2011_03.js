@@ -520,7 +520,7 @@ Grailbird.data.tweets_2011_03 =
   "source" : "\u003Ca href=\"http:\/\/instagram.com\" rel=\"nofollow\"\u003EInstagram\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ki-baek Lee",
+      "name" : "Ki-back Lee",
       "screen_name" : "li",
       "indices" : [ 82, 85 ],
       "id_str" : "108209505",

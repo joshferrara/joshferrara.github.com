@@ -97,7 +97,7 @@ Grailbird.data.tweets_2014_01 =
       "id_str" : "1586501",
       "id" : 1586501
     }, {
-      "name" : "Full Sized Candy Bar",
+      "name" : "Matt Haughey",
       "screen_name" : "mathowie",
       "indices" : [ 12, 21 ],
       "id_str" : "761975",
@@ -136,7 +136,7 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Full Sized Candy Bar",
+      "name" : "Matt Haughey",
       "screen_name" : "mathowie",
       "indices" : [ 0, 9 ],
       "id_str" : "761975",
@@ -711,7 +711,7 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Hallouieen",
+      "name" : "Louie Mantia",
       "screen_name" : "mantia",
       "indices" : [ 3, 10 ],
       "id_str" : "41783",
@@ -738,13 +738,13 @@ Grailbird.data.tweets_2014_01 =
     "id" : 426993258388922368,
     "created_at" : "2014-01-25 08:21:40 +0000",
     "user" : {
-      "name" : "Hallouieen",
+      "name" : "Louie Mantia",
       "screen_name" : "mantia",
       "protected" : false,
       "id_str" : "41783",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/651459401811820544\/8RWV6kUc_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/752970071123693568\/CIG9HEgo_normal.jpg",
       "id" : 41783,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 427127603544084480,
@@ -1125,7 +1125,7 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u266A\u250F(\u00B0.\u00B0)\u251B\u266A",
+      "name" : "Kyle McCarthy",
       "screen_name" : "KyleMcCarthy",
       "indices" : [ 3, 16 ],
       "id_str" : "16226911",
@@ -1155,7 +1155,7 @@ Grailbird.data.tweets_2014_01 =
     "id" : 423141451271110656,
     "created_at" : "2014-01-14 17:15:58 +0000",
     "user" : {
-      "name" : "\u266A\u250F(\u00B0.\u00B0)\u251B\u266A",
+      "name" : "Kyle McCarthy",
       "screen_name" : "KyleMcCarthy",
       "protected" : false,
       "id_str" : "16226911",
@@ -1341,18 +1341,6 @@ Grailbird.data.tweets_2014_01 =
       "id" : 421107174220128256,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BdgSvmvCYAA5601.jpg",
       "sizes" : [ {
-        "h" : 255,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 450,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
         "h" : 768,
         "resize" : "fit",
         "w" : 1024
@@ -1360,6 +1348,18 @@ Grailbird.data.tweets_2014_01 =
         "h" : 1536,
         "resize" : "fit",
         "w" : 2048
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 450,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 255,
+        "resize" : "fit",
+        "w" : 340
       } ],
       "display_url" : "pic.twitter.com\/DhqWDGfKT4"
     } ],
@@ -1766,7 +1766,7 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "brandon woodward",
+      "name" : "Brandon Woodward",
       "screen_name" : "bwoodward11",
       "indices" : [ 0, 12 ],
       "id_str" : "33057331",

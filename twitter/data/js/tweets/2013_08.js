@@ -314,7 +314,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lance LeBlanc",
+      "name" : "Lance LeBlanc, CPCC",
       "screen_name" : "The_Lance",
       "indices" : [ 0, 10 ],
       "id_str" : "14465920",
@@ -347,7 +347,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"http:\/\/www.apple.com\/\" rel=\"nofollow\"\u003EOS X\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lance LeBlanc",
+      "name" : "Lance LeBlanc, CPCC",
       "screen_name" : "The_Lance",
       "indices" : [ 10, 20 ],
       "id_str" : "14465920",
@@ -571,7 +571,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "paulmusso",
       "protected" : false,
       "id_str" : "15990910",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/640534784502951937\/M6KubqPJ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/725315503497957378\/mN-vf4fT_normal.jpg",
       "id" : 15990910,
       "verified" : false
     }
@@ -1264,70 +1264,6 @@ Grailbird.data.tweets_2013_08 =
   "created_at" : "2013-08-09 22:15:38 +0000",
   "in_reply_to_screen_name" : "github",
   "in_reply_to_user_id_str" : "13334762",
-  "user" : {
-    "name" : "Josh Ferrara",
-    "screen_name" : "joshbob",
-    "protected" : false,
-    "id_str" : "5690692",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/613177598521159680\/Z7mgrWsI_normal.jpg",
-    "id" : 5690692,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Justin Williams",
-      "screen_name" : "justin",
-      "indices" : [ 3, 10 ],
-      "id_str" : "929",
-      "id" : 929
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 125, 140 ],
-      "url" : "http:\/\/t.co\/m1JdB2NSpB",
-      "expanded_url" : "http:\/\/dashes.com\/anil\/2013\/08\/shushers-wrong-about-movies-wrong-about-the-world.html",
-      "display_url" : "dashes.com\/anil\/2013\/08\/s\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "365664178247176193",
-  "text" : "RT @justin: No one writes in a condescending, \"I'm better than you\" tone better than Anil Dash. A true master of his craft.  http:\/\/t.co\/m1\u2026",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/#!\/download\/ipad\" rel=\"nofollow\"\u003ETwitter for iPad\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 113, 135 ],
-        "url" : "http:\/\/t.co\/m1JdB2NSpB",
-        "expanded_url" : "http:\/\/dashes.com\/anil\/2013\/08\/shushers-wrong-about-movies-wrong-about-the-world.html",
-        "display_url" : "dashes.com\/anil\/2013\/08\/s\u2026"
-      } ]
-    },
-    "geo" : {
-      "type" : "Point",
-      "coordinates" : [ 39.7524726231, -105.0064523699 ]
-    },
-    "id_str" : "365502020402167810",
-    "text" : "No one writes in a condescending, \"I'm better than you\" tone better than Anil Dash. A true master of his craft.  http:\/\/t.co\/m1JdB2NSpB",
-    "id" : 365502020402167810,
-    "created_at" : "2013-08-08 15:57:27 +0000",
-    "user" : {
-      "name" : "Justin Williams",
-      "screen_name" : "justin",
-      "protected" : false,
-      "id_str" : "929",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/652495970182172676\/3F-xwud0_normal.jpg",
-      "id" : 929,
-      "verified" : false
-    }
-  },
-  "id" : 365664178247176193,
-  "created_at" : "2013-08-09 02:41:48 +0000",
   "user" : {
     "name" : "Josh Ferrara",
     "screen_name" : "joshbob",

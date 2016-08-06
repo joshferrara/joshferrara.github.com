@@ -305,9 +305,13 @@ Grailbird.data.tweets_2015_09 =
       "id" : 646526673584721920,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CPjslYzVEAA_vHO.jpg",
       "sizes" : [ {
-        "h" : 255,
+        "h" : 768,
         "resize" : "fit",
-        "w" : 340
+        "w" : 1024
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
       }, {
         "h" : 450,
         "resize" : "fit",
@@ -317,13 +321,9 @@ Grailbird.data.tweets_2015_09 =
         "resize" : "fit",
         "w" : 1024
       }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 768,
+        "h" : 255,
         "resize" : "fit",
-        "w" : 1024
+        "w" : 340
       } ],
       "display_url" : "pic.twitter.com\/Rvtq39Ect7"
     } ],
@@ -559,7 +559,7 @@ Grailbird.data.tweets_2015_09 =
       "screen_name" : "craiggroeschel",
       "protected" : false,
       "id_str" : "18060584",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/433269107090128896\/jfoRXFEb_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/707673652888666112\/Hn3_Qgc-_normal.jpg",
       "id" : 18060584,
       "verified" : true
     }

@@ -1074,7 +1074,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Hallouieen",
+      "name" : "Louie Mantia",
       "screen_name" : "mantia",
       "indices" : [ 0, 7 ],
       "id_str" : "41783",
@@ -1138,7 +1138,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "AmberSmart",
       "protected" : false,
       "id_str" : "15249412",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/652650750149943296\/GwcqHUH-_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/751588557119037440\/wVabXPnB_normal.jpg",
       "id" : 15249412,
       "verified" : false
     }
@@ -1321,7 +1321,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "theleanover",
       "protected" : false,
       "id_str" : "169257934",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/657450719163846656\/kAvNYPL3_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/745367369413861377\/LzJO9GAF_normal.jpg",
       "id" : 169257934,
       "verified" : false
     }
@@ -2279,7 +2279,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jon Foreman",
+      "name" : "Jon Foreman  \u03DFF",
       "screen_name" : "jonforeman",
       "indices" : [ 104, 115 ],
       "id_str" : "27951956",

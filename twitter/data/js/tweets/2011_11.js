@@ -635,7 +635,7 @@ Grailbird.data.tweets_2011_11 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Foursquare",
-      "screen_name" : "foursquare",
+      "screen_name" : "Foursquare",
       "indices" : [ 87, 98 ],
       "id_str" : "14120151",
       "id" : 14120151
@@ -1623,7 +1623,13 @@ Grailbird.data.tweets_2011_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "City Church Worship",
+      "screen_name" : "WorshipCity",
+      "indices" : [ 0, 12 ],
+      "id_str" : "4194415460",
+      "id" : 4194415460
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1790,6 +1796,12 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "City Church Worship",
+      "screen_name" : "WorshipCity",
+      "indices" : [ 0, 12 ],
+      "id_str" : "4194415460",
+      "id" : 4194415460
+    }, {
       "name" : "Rdio",
       "screen_name" : "Rdio",
       "indices" : [ 37, 42 ],
@@ -1822,7 +1834,13 @@ Grailbird.data.tweets_2011_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "City Church Worship",
+      "screen_name" : "WorshipCity",
+      "indices" : [ 0, 12 ],
+      "id_str" : "4194415460",
+      "id" : 4194415460
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
@@ -1881,7 +1899,13 @@ Grailbird.data.tweets_2011_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "City Church Worship",
+      "screen_name" : "WorshipCity",
+      "indices" : [ 0, 12 ],
+      "id_str" : "4194415460",
+      "id" : 4194415460
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]

@@ -285,7 +285,7 @@ Grailbird.data.tweets_2008_12 =
       "id_str" : "12084422",
       "id" : 12084422
     }, {
-      "name" : "Lance LeBlanc",
+      "name" : "Lance LeBlanc, CPCC",
       "screen_name" : "The_Lance",
       "indices" : [ 77, 87 ],
       "id_str" : "14465920",
@@ -1629,12 +1629,6 @@ Grailbird.data.tweets_2008_12 =
       "indices" : [ 36, 49 ],
       "id_str" : "15101847",
       "id" : 15101847
-    }, {
-      "name" : "littlered1213",
-      "screen_name" : "littlered1213",
-      "indices" : [ 54, 68 ],
-      "id_str" : "16444422",
-      "id" : 16444422
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1701,7 +1695,13 @@ Grailbird.data.tweets_2008_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "City Church Worship",
+      "screen_name" : "WorshipCity",
+      "indices" : [ 21, 33 ],
+      "id_str" : "4194415460",
+      "id" : 4194415460
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1945,7 +1945,7 @@ Grailbird.data.tweets_2008_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mark Lee",
+      "name" : "MARKLEE-PO",
       "screen_name" : "marklee3d",
       "indices" : [ 0, 10 ],
       "id_str" : "10675392",

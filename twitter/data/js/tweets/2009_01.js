@@ -1061,7 +1061,7 @@ Grailbird.data.tweets_2009_01 =
   "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Simpson ",
+      "name" : "Ryan Simpson",
       "screen_name" : "BigRed1313",
       "indices" : [ 30, 41 ],
       "id_str" : "406496262",

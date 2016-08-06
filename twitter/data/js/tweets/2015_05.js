@@ -18,13 +18,13 @@ Grailbird.data.tweets_2015_05 =
       "id" : 605222814723940353,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CGYu8YGVIAEXdan.jpg",
       "sizes" : [ {
-        "h" : 399,
-        "resize" : "fit",
-        "w" : 600
-      }, {
         "h" : 682,
         "resize" : "fit",
         "w" : 1024
+      }, {
+        "h" : 400,
+        "resize" : "fit",
+        "w" : 600
       }, {
         "h" : 226,
         "resize" : "fit",

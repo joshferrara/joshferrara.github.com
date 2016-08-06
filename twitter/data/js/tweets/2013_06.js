@@ -181,27 +181,16 @@ Grailbird.data.tweets_2013_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Rdio Support",
-      "screen_name" : "RdioHelp",
-      "indices" : [ 0, 9 ],
-      "id_str" : "144950141",
-      "id" : 144950141
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "349949441047920640",
   "geo" : { },
   "id_str" : "349949931634688000",
-  "in_reply_to_user_id" : 144950141,
   "text" : "@RdioHelp I know, hence my question :) It seems like if there is a licensing issue, that should be resolved after the album is purchased.",
   "id" : 349949931634688000,
-  "in_reply_to_status_id" : 349949441047920640,
   "created_at" : "2013-06-26 17:59:00 +0000",
-  "in_reply_to_screen_name" : "RdioHelp",
-  "in_reply_to_user_id_str" : "144950141",
   "user" : {
     "name" : "Josh Ferrara",
     "screen_name" : "joshbob",
@@ -215,7 +204,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Hallouieen",
+      "name" : "Louie Mantia",
       "screen_name" : "mantia",
       "indices" : [ 3, 10 ],
       "id_str" : "41783",
@@ -242,13 +231,13 @@ Grailbird.data.tweets_2013_06 =
     "id" : 349787927389286400,
     "created_at" : "2013-06-26 07:15:15 +0000",
     "user" : {
-      "name" : "Hallouieen",
+      "name" : "Louie Mantia",
       "screen_name" : "mantia",
       "protected" : false,
       "id_str" : "41783",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/651459401811820544\/8RWV6kUc_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/752970071123693568\/CIG9HEgo_normal.jpg",
       "id" : 41783,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 349892693968695298,
@@ -328,7 +317,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "mattymorgs",
       "protected" : false,
       "id_str" : "21385628",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/479295738522775554\/-1LpAtNb_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/732221306842824705\/N99SYPG__normal.jpg",
       "id" : 21385628,
       "verified" : false
     }
@@ -409,7 +398,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "nickygumbel",
       "protected" : false,
       "id_str" : "228769818",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/576428233589178368\/bIoU8rgW_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/735937415236423680\/N-LbqDPF_normal.jpg",
       "id" : 228769818,
       "verified" : true
     }

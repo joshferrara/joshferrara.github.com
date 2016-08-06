@@ -803,7 +803,7 @@ Grailbird.data.tweets_2011_04 =
       "id_str" : "61133",
       "id" : 61133
     }, {
-      "name" : "Full Sized Candy Bar",
+      "name" : "Matt Haughey",
       "screen_name" : "mathowie",
       "indices" : [ 99, 108 ],
       "id_str" : "761975",

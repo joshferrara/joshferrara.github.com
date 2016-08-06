@@ -99,6 +99,12 @@ Grailbird.data.tweets_2011_08 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "City Church Worship",
+      "screen_name" : "WorshipCity",
+      "indices" : [ 0, 12 ],
+      "id_str" : "4194415460",
+      "id" : 4194415460
+    }, {
       "name" : "Rdio",
       "screen_name" : "Rdio",
       "indices" : [ 92, 97 ],
@@ -132,6 +138,12 @@ Grailbird.data.tweets_2011_08 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "City Church Worship",
+      "screen_name" : "WorshipCity",
+      "indices" : [ 0, 12 ],
+      "id_str" : "4194415460",
+      "id" : 4194415460
+    }, {
       "name" : "Rdio",
       "screen_name" : "Rdio",
       "indices" : [ 46, 51 ],
@@ -703,25 +715,16 @@ Grailbird.data.tweets_2011_08 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Rdio Support",
-      "screen_name" : "RdioHelp",
-      "indices" : [ 0, 9 ],
-      "id_str" : "144950141",
-      "id" : 144950141
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "106096252898390017",
-  "in_reply_to_user_id" : 144950141,
   "text" : "@RdioHelp My wife and I both have individual accounts, is there any way to combine them in a family plan without losing our data?",
   "id" : 106096252898390017,
   "created_at" : "2011-08-23 20:11:32 +0000",
-  "in_reply_to_screen_name" : "RdioHelp",
-  "in_reply_to_user_id_str" : "144950141",
   "user" : {
     "name" : "Josh Ferrara",
     "screen_name" : "joshbob",
@@ -815,7 +818,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "biz",
       "protected" : false,
       "id_str" : "13",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3459395559\/19cde4b0eb9bfaecc5713ab835fe9f6b_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/679561536243761153\/Hbf3WwO6_normal.jpg",
       "id" : 13,
       "verified" : true
     }

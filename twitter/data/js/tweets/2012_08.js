@@ -596,7 +596,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "friedriches",
       "protected" : false,
       "id_str" : "12551632",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/590713876603342848\/lTB4qbA4_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/760232209139638272\/qW00sU1i_normal.jpg",
       "id" : 12551632,
       "verified" : false
     }
@@ -1839,7 +1839,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "uncleboatshoes",
       "protected" : false,
       "id_str" : "7380012",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/292285811\/3611047929_169eb202a0_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/704535267726610433\/KoYT1NKr_normal.jpg",
       "id" : 7380012,
       "verified" : false
     }
@@ -2074,7 +2074,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "saucypickles",
       "protected" : false,
       "id_str" : "113113323",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/513922639912394752\/tmFeANSx_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/694924161911623680\/DcGUO750_normal.jpg",
       "id" : 113113323,
       "verified" : false
     }
@@ -2125,11 +2125,11 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Gaug.es",
+      "name" : "Gauges Old Account",
       "screen_name" : "gaugesapp",
       "indices" : [ 0, 10 ],
-      "id_str" : "245369690",
-      "id" : 245369690
+      "id_str" : "4860063878",
+      "id" : 4860063878
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2141,7 +2141,7 @@ Grailbird.data.tweets_2012_08 =
   "text" : "@gaugesapp Any reason Air Traffic isn't working on my iPhone? Everything else seems fine elsewhere, just no data on the map.",
   "id" : 235043159565037569,
   "created_at" : "2012-08-13 16:00:30 +0000",
-  "in_reply_to_screen_name" : "gaugesapp",
+  "in_reply_to_screen_name" : "gauges",
   "in_reply_to_user_id_str" : "245369690",
   "user" : {
     "name" : "Josh Ferrara",
@@ -2366,7 +2366,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "thefreebirdsings",
+      "name" : "@thefreebirdsings",
       "screen_name" : "meghanmatt",
       "indices" : [ 0, 11 ],
       "id_str" : "16224660",
@@ -2612,9 +2612,9 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "caro",
       "protected" : false,
       "id_str" : "818155",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/562300893026992128\/hYxcgHHb_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/687289503640244224\/EItbLHvG_normal.jpg",
       "id" : 818155,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 233678072992378880,
@@ -3166,7 +3166,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "frankieboyle",
       "protected" : false,
       "id_str" : "17336372",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/584135033465794560\/X-odXo9i_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/743772932892131328\/ZcekAc_1_normal.jpg",
       "id" : 17336372,
       "verified" : true
     }

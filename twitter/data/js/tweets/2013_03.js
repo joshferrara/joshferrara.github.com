@@ -111,7 +111,7 @@ Grailbird.data.tweets_2013_03 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lance LeBlanc",
+      "name" : "Lance LeBlanc, CPCC",
       "screen_name" : "The_Lance",
       "indices" : [ 0, 10 ],
       "id_str" : "14465920",
@@ -642,7 +642,7 @@ Grailbird.data.tweets_2013_03 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lance LeBlanc",
+      "name" : "Lance LeBlanc, CPCC",
       "screen_name" : "The_Lance",
       "indices" : [ 3, 13 ],
       "id_str" : "14465920",
@@ -675,11 +675,11 @@ Grailbird.data.tweets_2013_03 =
     "id" : 312701115483422720,
     "created_at" : "2013-03-15 23:05:30 +0000",
     "user" : {
-      "name" : "Lance LeBlanc",
+      "name" : "Lance LeBlanc, CPCC",
       "screen_name" : "The_Lance",
       "protected" : false,
       "id_str" : "14465920",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/593473313986453506\/N8BPjaJ3_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/757687261521584128\/Pny_6062_normal.jpg",
       "id" : 14465920,
       "verified" : false
     }

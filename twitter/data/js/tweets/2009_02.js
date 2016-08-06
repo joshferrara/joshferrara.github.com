@@ -361,7 +361,7 @@ Grailbird.data.tweets_2009_02 =
       "id_str" : "15603282",
       "id" : 15603282
     }, {
-      "name" : "melanie ",
+      "name" : "melanie",
       "screen_name" : "fabi",
       "indices" : [ 76, 81 ],
       "id_str" : "6393152",
@@ -395,7 +395,7 @@ Grailbird.data.tweets_2009_02 =
       "id_str" : "21979928",
       "id" : 21979928
     }, {
-      "name" : "ServeDay16",
+      "name" : "ServeDay17",
       "screen_name" : "servolution",
       "indices" : [ 120, 132 ],
       "id_str" : "14748492",
@@ -1746,7 +1746,13 @@ Grailbird.data.tweets_2009_02 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "City Church Worship",
+      "screen_name" : "WorshipCity",
+      "indices" : [ 63, 75 ],
+      "id_str" : "4194415460",
+      "id" : 4194415460
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2046,7 +2052,7 @@ Grailbird.data.tweets_2009_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "thefreebirdsings",
+      "name" : "@thefreebirdsings",
       "screen_name" : "meghanmatt",
       "indices" : [ 0, 11 ],
       "id_str" : "16224660",

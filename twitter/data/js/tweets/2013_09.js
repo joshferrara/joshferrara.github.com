@@ -34,7 +34,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "landoncrane1",
       "protected" : false,
       "id_str" : "118563352",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/636407234390552576\/nYW9SOwl_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/699672204351377408\/y2xy1PnG_normal.jpg",
       "id" : 118563352,
       "verified" : false
     }
@@ -163,7 +163,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Hallouieen",
+      "name" : "Louie Mantia",
       "screen_name" : "mantia",
       "indices" : [ 0, 7 ],
       "id_str" : "41783",
@@ -1598,7 +1598,7 @@ Grailbird.data.tweets_2013_09 =
       "id_str" : "14231571",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1282173124\/untitled-158-2_normal.jpg",
       "id" : 14231571,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 380418085489885185,
@@ -1854,7 +1854,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "tacobell",
       "protected" : false,
       "id_str" : "7831092",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/657627336477544449\/kPJ90OtW_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/685597313104912384\/GoNj3QwY_normal.jpg",
       "id" : 7831092,
       "verified" : true
     }
@@ -2001,7 +2001,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "sacca",
       "protected" : false,
       "id_str" : "586",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635944249171685376\/3ep_VoVa_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668902554957316096\/IpjBGyjC_normal.jpg",
       "id" : 586,
       "verified" : true
     }
@@ -2296,7 +2296,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "twitter",
       "protected" : false,
       "id_str" : "783214",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/615680132565504000\/EIpgSD2K_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/757561977988186113\/1dJ-x4IE_normal.jpg",
       "id" : 783214,
       "verified" : true
     }

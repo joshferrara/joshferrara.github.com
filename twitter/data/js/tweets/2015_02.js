@@ -100,21 +100,21 @@ Grailbird.data.tweets_2015_02 =
       "id" : 571381673427775489,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/B-30msvUsAEQHcI.jpg",
       "sizes" : [ {
-        "h" : 254,
+        "h" : 391,
         "resize" : "fit",
-        "w" : 340
+        "w" : 522
+      }, {
+        "h" : 391,
+        "resize" : "fit",
+        "w" : 522
       }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
       }, {
-        "h" : 391,
+        "h" : 255,
         "resize" : "fit",
-        "w" : 522
-      }, {
-        "h" : 391,
-        "resize" : "fit",
-        "w" : 522
+        "w" : 340
       }, {
         "h" : 391,
         "resize" : "fit",

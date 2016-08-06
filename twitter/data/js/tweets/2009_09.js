@@ -823,7 +823,7 @@ Grailbird.data.tweets_2009_09 =
       "id_str" : "1080288440",
       "id" : 1080288440
     }, {
-      "name" : "Lance LeBlanc",
+      "name" : "Lance LeBlanc, CPCC",
       "screen_name" : "The_Lance",
       "indices" : [ 14, 24 ],
       "id_str" : "14465920",

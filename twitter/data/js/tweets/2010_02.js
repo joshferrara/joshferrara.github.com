@@ -128,7 +128,7 @@ Grailbird.data.tweets_2010_02 =
       "screen_name" : "prudhomme",
       "protected" : false,
       "id_str" : "17124242",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545813774133764096\/IHvwaWQH_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/721886974995525636\/yqTkkIfl_normal.jpg",
       "id" : 17124242,
       "verified" : false
     }
@@ -292,7 +292,7 @@ Grailbird.data.tweets_2010_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Maurilio Amorim ",
+      "name" : "Maurilio Amorim",
       "screen_name" : "maurilio",
       "indices" : [ 130, 139 ],
       "id_str" : "8536442",
@@ -1678,7 +1678,13 @@ Grailbird.data.tweets_2010_02 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "City Church Worship",
+      "screen_name" : "WorshipCity",
+      "indices" : [ 7, 19 ],
+      "id_str" : "4194415460",
+      "id" : 4194415460
+    } ],
     "media" : [ ],
     "hashtags" : [ {
       "text" : "amp10",
@@ -1729,6 +1735,12 @@ Grailbird.data.tweets_2010_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "City Church Worship",
+      "screen_name" : "WorshipCity",
+      "indices" : [ 17, 29 ],
+      "id_str" : "4194415460",
+      "id" : 4194415460
+    }, {
       "name" : "HPC Epic Worship",
       "screen_name" : "epicworship",
       "indices" : [ 34, 46 ],
@@ -2167,7 +2179,13 @@ Grailbird.data.tweets_2010_02 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Dugas Jeremy",
+      "screen_name" : "DugasJeremy",
+      "indices" : [ 0, 12 ],
+      "id_str" : "4737720443",
+      "id" : 4737720443
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]

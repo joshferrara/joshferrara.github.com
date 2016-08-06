@@ -451,6 +451,10 @@ Grailbird.data.tweets_2014_04 =
         "resize" : "fit",
         "w" : 340
       }, {
+        "h" : 768,
+        "resize" : "fit",
+        "w" : 1024
+      }, {
         "h" : 450,
         "resize" : "fit",
         "w" : 600
@@ -458,10 +462,6 @@ Grailbird.data.tweets_2014_04 =
         "h" : 150,
         "resize" : "crop",
         "w" : 150
-      }, {
-        "h" : 768,
-        "resize" : "fit",
-        "w" : 1024
       }, {
         "h" : 1536,
         "resize" : "fit",
@@ -489,7 +489,13 @@ Grailbird.data.tweets_2014_04 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "shairyllegepolio",
+      "screen_name" : "micaiahjacob",
+      "indices" : [ 0, 13 ],
+      "id_str" : "4825103022",
+      "id" : 4825103022
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]

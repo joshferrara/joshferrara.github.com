@@ -320,7 +320,7 @@ Grailbird.data.tweets_2014_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Raising Cane's\u00AE",
+      "name" : "Raising Cane's",
       "screen_name" : "Raising_Canes",
       "indices" : [ 12, 26 ],
       "id_str" : "28172701",
@@ -539,7 +539,7 @@ Grailbird.data.tweets_2014_03 =
       "screen_name" : "joshlewis",
       "protected" : false,
       "id_str" : "761960",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/636227839629484032\/Not2imO8_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/684547181450276864\/bCabSybg_normal.png",
       "id" : 761960,
       "verified" : false
     }

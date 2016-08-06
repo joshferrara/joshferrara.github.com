@@ -1629,10 +1629,10 @@ Grailbird.data.tweets_2011_10 =
       "id" : 6601862
     }, {
       "name" : "Palladia",
-      "screen_name" : "Palladia",
+      "screen_name" : "palladia",
       "indices" : [ 66, 75 ],
-      "id_str" : "33616007",
-      "id" : 33616007
+      "id_str" : "4870840691",
+      "id" : 4870840691
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2104,7 +2104,7 @@ Grailbird.data.tweets_2011_10 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lance LeBlanc",
+      "name" : "Lance LeBlanc, CPCC",
       "screen_name" : "The_Lance",
       "indices" : [ 6, 16 ],
       "id_str" : "14465920",

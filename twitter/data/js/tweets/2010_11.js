@@ -1171,7 +1171,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Everette Livi",
+      "name" : "Ev Livi",
       "screen_name" : "Ev_Money",
       "indices" : [ 0, 9 ],
       "id_str" : "464151708",
@@ -1460,13 +1460,7 @@ Grailbird.data.tweets_2010_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Pierre Musseau",
-      "screen_name" : "p_musso",
-      "indices" : [ 0, 8 ],
-      "id_str" : "3383512402",
-      "id" : 3383512402
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]

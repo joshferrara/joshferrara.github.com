@@ -1185,7 +1185,7 @@ Grailbird.data.tweets_2008_08 =
   "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ServeDay16",
+      "name" : "ServeDay17",
       "screen_name" : "servolution",
       "indices" : [ 45, 57 ],
       "id_str" : "14748492",
@@ -1345,7 +1345,7 @@ Grailbird.data.tweets_2008_08 =
   "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ServeDay16",
+      "name" : "ServeDay17",
       "screen_name" : "servolution",
       "indices" : [ 58, 70 ],
       "id_str" : "14748492",
@@ -1527,7 +1527,7 @@ Grailbird.data.tweets_2008_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ServeDay16",
+      "name" : "ServeDay17",
       "screen_name" : "servolution",
       "indices" : [ 0, 12 ],
       "id_str" : "14748492",

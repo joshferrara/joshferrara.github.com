@@ -892,7 +892,7 @@ Grailbird.data.tweets_2010_10 =
       "id_str" : "2835455495",
       "id" : 2835455495
     }, {
-      "name" : "thefreebirdsings",
+      "name" : "@thefreebirdsings",
       "screen_name" : "meghanmatt",
       "indices" : [ 13, 24 ],
       "id_str" : "16224660",

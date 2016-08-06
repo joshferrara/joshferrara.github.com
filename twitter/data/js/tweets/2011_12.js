@@ -893,57 +893,6 @@ Grailbird.data.tweets_2011_12 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Diego Zambrano",
-      "screen_name" : "workforfood",
-      "indices" : [ 3, 15 ],
-      "id_str" : "7336932",
-      "id" : 7336932
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "148610671251177473",
-  "text" : "RT @workforfood: \u2611 Kim Jong Il\n\u2611 Khaddafi\n\u2611 Osama Bin Laden\n\u2611 Saddam Hussein\n\u2610 Internet Explorer",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "148601921173860352",
-    "text" : "\u2611 Kim Jong Il\n\u2611 Khaddafi\n\u2611 Osama Bin Laden\n\u2611 Saddam Hussein\n\u2610 Internet Explorer",
-    "id" : 148601921173860352,
-    "created_at" : "2011-12-19 03:13:53 +0000",
-    "user" : {
-      "name" : "Diego Zambrano",
-      "screen_name" : "workforfood",
-      "protected" : false,
-      "id_str" : "7336932",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/598238467395612672\/C5kWTxtq_normal.jpg",
-      "id" : 7336932,
-      "verified" : false
-    }
-  },
-  "id" : 148610671251177473,
-  "created_at" : "2011-12-19 03:48:39 +0000",
-  "user" : {
-    "name" : "Josh Ferrara",
-    "screen_name" : "joshbob",
-    "protected" : false,
-    "id_str" : "5690692",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/613177598521159680\/Z7mgrWsI_normal.jpg",
-    "id" : 5690692,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -1308,7 +1257,7 @@ Grailbird.data.tweets_2011_12 =
       "screen_name" : "sacca",
       "protected" : false,
       "id_str" : "586",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635944249171685376\/3ep_VoVa_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668902554957316096\/IpjBGyjC_normal.jpg",
       "id" : 586,
       "verified" : true
     }

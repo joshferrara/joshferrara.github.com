@@ -1,5 +1,434 @@
 Grailbird.data.tweets_2015_10 = 
-[ {
+ [ {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "ricquel archer",
+      "screen_name" : "ricquelarcher",
+      "indices" : [ 3, 17 ],
+      "id_str" : "142935544",
+      "id" : 142935544
+    }, {
+      "name" : "Josh Ferrara",
+      "screen_name" : "joshbob",
+      "indices" : [ 111, 119 ],
+      "id_str" : "5690692",
+      "id" : 5690692
+    }, {
+      "name" : "Gabrielle Ferrara",
+      "screen_name" : "gabrielleeee",
+      "indices" : [ 126, 139 ],
+      "id_str" : "15101847",
+      "id" : 15101847
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "660538948205154304",
+  "text" : "RT @ricquelarcher: I just suggested ordering almond milk off of Amazon... What is happening to me? Living with @joshbob &amp; @gabrielleeee cha\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Josh Ferrara",
+        "screen_name" : "joshbob",
+        "indices" : [ 92, 100 ],
+        "id_str" : "5690692",
+        "id" : 5690692
+      }, {
+        "name" : "Gabrielle Ferrara",
+        "screen_name" : "gabrielleeee",
+        "indices" : [ 107, 120 ],
+        "id_str" : "15101847",
+        "id" : 15101847
+      } ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "660536069335552000",
+    "text" : "I just suggested ordering almond milk off of Amazon... What is happening to me? Living with @joshbob &amp; @gabrielleeee changes you.",
+    "id" : 660536069335552000,
+    "created_at" : "2015-10-31 19:17:25 +0000",
+    "user" : {
+      "name" : "ricquel archer",
+      "screen_name" : "ricquelarcher",
+      "protected" : false,
+      "id_str" : "142935544",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/751226987591630848\/E07Zr_Km_normal.jpg",
+      "id" : 142935544,
+      "verified" : false
+    }
+  },
+  "id" : 660538948205154304,
+  "created_at" : "2015-10-31 19:28:52 +0000",
+  "user" : {
+    "name" : "Josh Ferrara",
+    "screen_name" : "joshbob",
+    "protected" : false,
+    "id_str" : "5690692",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/613177598521159680\/Z7mgrWsI_normal.jpg",
+    "id" : 5690692,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "660242783085576192",
+  "text" : "I work with an absolutely incredible group of people.",
+  "id" : 660242783085576192,
+  "created_at" : "2015-10-30 23:52:00 +0000",
+  "user" : {
+    "name" : "Josh Ferrara",
+    "screen_name" : "joshbob",
+    "protected" : false,
+    "id_str" : "5690692",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/613177598521159680\/Z7mgrWsI_normal.jpg",
+    "id" : 5690692,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Michelle McMahan",
+      "screen_name" : "botyb",
+      "indices" : [ 0, 6 ],
+      "id_str" : "78118448",
+      "id" : 78118448
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "658859899053559808",
+  "geo" : { },
+  "id_str" : "658874391468490752",
+  "in_reply_to_user_id" : 78118448,
+  "text" : "@botyb don\u2019t do it. But they\u2019re usually at Walgreens if you chose your mind.",
+  "id" : 658874391468490752,
+  "in_reply_to_status_id" : 658859899053559808,
+  "created_at" : "2015-10-27 05:14:30 +0000",
+  "in_reply_to_screen_name" : "botyb",
+  "in_reply_to_user_id_str" : "78118448",
+  "user" : {
+    "name" : "Josh Ferrara",
+    "screen_name" : "joshbob",
+    "protected" : false,
+    "id_str" : "5690692",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/613177598521159680\/Z7mgrWsI_normal.jpg",
+    "id" : 5690692,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Danae Simmons",
+      "screen_name" : "thatsimmonslady",
+      "indices" : [ 0, 16 ],
+      "id_str" : "17984120",
+      "id" : 17984120
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "658871304536260608",
+  "geo" : { },
+  "id_str" : "658873617019613184",
+  "in_reply_to_user_id" : 17984120,
+  "text" : "@thatsimmonslady well, it turns out that adults don\u2019t have to choose\u2026",
+  "id" : 658873617019613184,
+  "in_reply_to_status_id" : 658871304536260608,
+  "created_at" : "2015-10-27 05:11:26 +0000",
+  "in_reply_to_screen_name" : "thatsimmonslady",
+  "in_reply_to_user_id_str" : "17984120",
+  "user" : {
+    "name" : "Josh Ferrara",
+    "screen_name" : "joshbob",
+    "protected" : false,
+    "id_str" : "5690692",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/613177598521159680\/Z7mgrWsI_normal.jpg",
+    "id" : 5690692,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Oreo Cookie",
+      "screen_name" : "Oreo",
+      "indices" : [ 5, 10 ],
+      "id_str" : "126084292",
+      "id" : 126084292
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "658845706648580096",
+  "text" : "PSA: @Oreo Thins are what Oreos always should have been. There should be no other Oreo.",
+  "id" : 658845706648580096,
+  "created_at" : "2015-10-27 03:20:31 +0000",
+  "user" : {
+    "name" : "Josh Ferrara",
+    "screen_name" : "joshbob",
+    "protected" : false,
+    "id_str" : "5690692",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/613177598521159680\/Z7mgrWsI_normal.jpg",
+    "id" : 5690692,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Robert Conti",
+      "screen_name" : "quintesant",
+      "indices" : [ 3, 14 ],
+      "id_str" : "10049592",
+      "id" : 10049592
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "658427763368394752",
+  "text" : "RT @quintesant: Days since a piece of Live the Dream confetti fell during service: 0",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "658423933096562688",
+    "text" : "Days since a piece of Live the Dream confetti fell during service: 0",
+    "id" : 658423933096562688,
+    "created_at" : "2015-10-25 23:24:33 +0000",
+    "user" : {
+      "name" : "Robert Conti",
+      "screen_name" : "quintesant",
+      "protected" : false,
+      "id_str" : "10049592",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2653510363\/eb1bcf3ad99e3007a3cb72eac9107064_normal.jpeg",
+      "id" : 10049592,
+      "verified" : false
+    }
+  },
+  "id" : 658427763368394752,
+  "created_at" : "2015-10-25 23:39:46 +0000",
+  "user" : {
+    "name" : "Josh Ferrara",
+    "screen_name" : "joshbob",
+    "protected" : false,
+    "id_str" : "5690692",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/613177598521159680\/Z7mgrWsI_normal.jpg",
+    "id" : 5690692,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Angela McMahan",
+      "screen_name" : "angelamcmarie",
+      "indices" : [ 0, 14 ],
+      "id_str" : "53127909",
+      "id" : 53127909
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "658353864459071490",
+  "geo" : { },
+  "id_str" : "658357227976200192",
+  "in_reply_to_user_id" : 53127909,
+  "text" : "@angelamcmarie totally stealing your identity now.",
+  "id" : 658357227976200192,
+  "in_reply_to_status_id" : 658353864459071490,
+  "created_at" : "2015-10-25 18:59:29 +0000",
+  "in_reply_to_screen_name" : "angelamcmarie",
+  "in_reply_to_user_id_str" : "53127909",
+  "user" : {
+    "name" : "Josh Ferrara",
+    "screen_name" : "joshbob",
+    "protected" : false,
+    "id_str" : "5690692",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/613177598521159680\/Z7mgrWsI_normal.jpg",
+    "id" : 5690692,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "ricquel archer",
+      "screen_name" : "ricquelarcher",
+      "indices" : [ 3, 17 ],
+      "id_str" : "142935544",
+      "id" : 142935544
+    } ],
+    "media" : [ {
+      "expanded_url" : "http:\/\/twitter.com\/ricquelarcher\/status\/658078118201061376\/photo\/1",
+      "indices" : [ 139, 140 ],
+      "url" : "https:\/\/t.co\/7SqzY43Rt5",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/CSH2jrBUAAAi67t.jpg",
+      "id_str" : "658078113276887040",
+      "id" : 658078113276887040,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CSH2jrBUAAAi67t.jpg",
+      "sizes" : [ {
+        "h" : 768,
+        "resize" : "fit",
+        "w" : 1024
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 450,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 768,
+        "resize" : "fit",
+        "w" : 1024
+      }, {
+        "h" : 255,
+        "resize" : "fit",
+        "w" : 340
+      } ],
+      "display_url" : "pic.twitter.com\/7SqzY43Rt5"
+    } ],
+    "hashtags" : [ {
+      "text" : "bobnation",
+      "indices" : [ 107, 117 ]
+    }, {
+      "text" : "froomies",
+      "indices" : [ 118, 127 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "658081212125200385",
+  "text" : "RT @ricquelarcher: Give us a day with temperatures under 65 and all fall breaks loose in this house. \uD83C\uDF4E\u2615\uFE0F\uD83C\uDF42\uD83C\uDF83 #bobnation #froomies https:\/\/t.c\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "http:\/\/twitter.com\/ricquelarcher\/status\/658078118201061376\/photo\/1",
+        "indices" : [ 109, 132 ],
+        "url" : "https:\/\/t.co\/7SqzY43Rt5",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/CSH2jrBUAAAi67t.jpg",
+        "id_str" : "658078113276887040",
+        "id" : 658078113276887040,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CSH2jrBUAAAi67t.jpg",
+        "sizes" : [ {
+          "h" : 768,
+          "resize" : "fit",
+          "w" : 1024
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 450,
+          "resize" : "fit",
+          "w" : 600
+        }, {
+          "h" : 768,
+          "resize" : "fit",
+          "w" : 1024
+        }, {
+          "h" : 255,
+          "resize" : "fit",
+          "w" : 340
+        } ],
+        "display_url" : "pic.twitter.com\/7SqzY43Rt5"
+      } ],
+      "hashtags" : [ {
+        "text" : "bobnation",
+        "indices" : [ 88, 98 ]
+      }, {
+        "text" : "froomies",
+        "indices" : [ 99, 108 ]
+      } ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "658078118201061376",
+    "text" : "Give us a day with temperatures under 65 and all fall breaks loose in this house. \uD83C\uDF4E\u2615\uFE0F\uD83C\uDF42\uD83C\uDF83 #bobnation #froomies https:\/\/t.co\/7SqzY43Rt5",
+    "id" : 658078118201061376,
+    "created_at" : "2015-10-25 00:30:24 +0000",
+    "user" : {
+      "name" : "ricquel archer",
+      "screen_name" : "ricquelarcher",
+      "protected" : false,
+      "id_str" : "142935544",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/751226987591630848\/E07Zr_Km_normal.jpg",
+      "id" : 142935544,
+      "verified" : false
+    }
+  },
+  "id" : 658081212125200385,
+  "created_at" : "2015-10-25 00:42:42 +0000",
+  "user" : {
+    "name" : "Josh Ferrara",
+    "screen_name" : "joshbob",
+    "protected" : false,
+    "id_str" : "5690692",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/613177598521159680\/Z7mgrWsI_normal.jpg",
+    "id" : 5690692,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Clement Ho",
+      "screen_name" : "ClemMakesApps",
+      "indices" : [ 0, 14 ],
+      "id_str" : "365037647",
+      "id" : 365037647
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "658079598769369092",
+  "in_reply_to_user_id" : 365037647,
+  "text" : "@ClemMakesApps Just realized I wasn't following ya! Hope you're well, sir!",
+  "id" : 658079598769369092,
+  "created_at" : "2015-10-25 00:36:17 +0000",
+  "in_reply_to_screen_name" : "ClemMakesApps",
+  "in_reply_to_user_id_str" : "365037647",
+  "user" : {
+    "name" : "Josh Ferrara",
+    "screen_name" : "joshbob",
+    "protected" : false,
+    "id_str" : "5690692",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/613177598521159680\/Z7mgrWsI_normal.jpg",
+    "id" : 5690692,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -744,7 +1173,7 @@ Grailbird.data.tweets_2015_10 =
       "screen_name" : "friedriches",
       "protected" : false,
       "id_str" : "12551632",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/590713876603342848\/lTB4qbA4_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/760232209139638272\/qW00sU1i_normal.jpg",
       "id" : 12551632,
       "verified" : false
     }
@@ -1175,12 +1604,6 @@ Grailbird.data.tweets_2015_10 =
       "indices" : [ 33, 43 ],
       "id_str" : "14852024",
       "id" : 14852024
-    }, {
-      "name" : "STORY",
-      "screen_name" : "STORYnashville",
-      "indices" : [ 59, 74 ],
-      "id_str" : "20212597",
-      "id" : 20212597
     } ],
     "media" : [ ],
     "hashtags" : [ ],

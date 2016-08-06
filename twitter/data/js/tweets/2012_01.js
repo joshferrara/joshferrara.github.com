@@ -2224,7 +2224,7 @@ Grailbird.data.tweets_2012_01 =
       "screen_name" : "wireddaniel",
       "protected" : false,
       "id_str" : "6599342",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/457290005413523456\/Q9tGrVp9_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/663235470730489856\/gdNapwi9_normal.jpg",
       "id" : 6599342,
       "verified" : false
     }
@@ -2374,27 +2374,16 @@ Grailbird.data.tweets_2012_01 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Rdio Support",
-      "screen_name" : "RdioHelp",
-      "indices" : [ 0, 9 ],
-      "id_str" : "144950141",
-      "id" : 144950141
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "157247034255089665",
   "geo" : { },
   "id_str" : "157247897241526272",
-  "in_reply_to_user_id" : 144950141,
   "text" : "@RdioHelp did they change their mind? I was able to listen to the full album earlier yesterday. Unfortunate! Thanks for the reply.",
   "id" : 157247897241526272,
-  "in_reply_to_status_id" : 157247034255089665,
   "created_at" : "2012-01-11 23:49:54 +0000",
-  "in_reply_to_screen_name" : "RdioHelp",
-  "in_reply_to_user_id_str" : "144950141",
   "user" : {
     "name" : "Josh Ferrara",
     "screen_name" : "joshbob",

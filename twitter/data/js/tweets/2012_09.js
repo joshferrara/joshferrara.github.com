@@ -44,7 +44,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "danbenjamin",
       "protected" : false,
       "id_str" : "5905672",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/577503097389387776\/cS5gC7JW_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/737744939354722309\/EBSJaYqR_normal.jpg",
       "id" : 5905672,
       "verified" : false
     }
@@ -225,9 +225,9 @@ Grailbird.data.tweets_2012_09 =
       "id" : 251127296763764736,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/A3wu8iUCIAAR4XL.jpg",
       "sizes" : [ {
-        "h" : 242,
+        "h" : 138,
         "resize" : "fit",
-        "w" : 600
+        "w" : 340
       }, {
         "h" : 414,
         "resize" : "fit",
@@ -237,13 +237,13 @@ Grailbird.data.tweets_2012_09 =
         "resize" : "crop",
         "w" : 150
       }, {
-        "h" : 137,
-        "resize" : "fit",
-        "w" : 340
-      }, {
         "h" : 543,
         "resize" : "fit",
         "w" : 1342
+      }, {
+        "h" : 243,
+        "resize" : "fit",
+        "w" : 600
       } ],
       "display_url" : "pic.twitter.com\/99zB2tRb"
     } ],
@@ -915,7 +915,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Spooky Streza @ NMND",
+      "name" : "Steve Streza",
       "screen_name" : "SteveStreza",
       "indices" : [ 3, 15 ],
       "id_str" : "658643",
@@ -942,11 +942,11 @@ Grailbird.data.tweets_2012_09 =
     "id" : 248601045247352832,
     "created_at" : "2012-09-20 01:54:42 +0000",
     "user" : {
-      "name" : "Spooky Streza @ NMND",
+      "name" : "Steve Streza",
       "screen_name" : "SteveStreza",
       "protected" : false,
       "id_str" : "658643",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/651121596149530626\/2bZfAMxq_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/716509825224433664\/HZ2NtC9k_normal.jpg",
       "id" : 658643,
       "verified" : false
     }
@@ -1090,7 +1090,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Hallouieen",
+      "name" : "Louie Mantia",
       "screen_name" : "mantia",
       "indices" : [ 3, 10 ],
       "id_str" : "41783",
@@ -1117,13 +1117,13 @@ Grailbird.data.tweets_2012_09 =
     "id" : 248222578819362816,
     "created_at" : "2012-09-19 00:50:49 +0000",
     "user" : {
-      "name" : "Hallouieen",
+      "name" : "Louie Mantia",
       "screen_name" : "mantia",
       "protected" : false,
       "id_str" : "41783",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/651459401811820544\/8RWV6kUc_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/752970071123693568\/CIG9HEgo_normal.jpg",
       "id" : 41783,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 248252079943061504,
@@ -2077,7 +2077,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "JonahLupton",
       "protected" : false,
       "id_str" : "14579415",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/629541709916033024\/_2eXlena_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/748168369707323393\/QtPV9cK8_normal.jpg",
       "id" : 14579415,
       "verified" : false
     }
@@ -2097,7 +2097,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jabe Bloom",
+      "name" : "(((Jabe Bloom)))",
       "screen_name" : "cyetain",
       "indices" : [ 3, 11 ],
       "id_str" : "10626512",
@@ -2124,11 +2124,11 @@ Grailbird.data.tweets_2012_09 =
     "id" : 242255648325259264,
     "created_at" : "2012-09-02 13:40:22 +0000",
     "user" : {
-      "name" : "Jabe Bloom",
+      "name" : "(((Jabe Bloom)))",
       "screen_name" : "cyetain",
       "protected" : false,
       "id_str" : "10626512",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/643074814392029184\/FHkq6CNY_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/760961251849736192\/fYMd5HFf_normal.jpg",
       "id" : 10626512,
       "verified" : false
     }
