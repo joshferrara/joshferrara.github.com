@@ -1,0 +1,230 @@
+---
+---
+// Reset -------------------------------------
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for old browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+
+// SCSS Magic ---------------------------
+@mixin transition($time) {
+    -webkit-transition: all $time ease;
+    -moz-transition: all $time ease;
+    -o-transition: all $time ease; 
+    -ms-transition: all $time ease;
+    transition: all $time ease;
+}
+
+
+// Headshot ------------------------------
+
+a.headshot {
+  display: block;
+  margin: 50px auto 25px;
+  width: 100px;
+  height: 100px;
+  background: url("../images/me.png");
+  background-size: 100px;
+  text-indent: -99999px;
+  border-radius: 60px;
+  border: 5px solid #eeeeee;
+
+  @include transition(0.5s);
+
+	&:hover {
+		border-color: #cccccc;
+	}
+}
+
+
+// Name -----------------------------------
+
+h1.name {
+	display: block;
+	text-align: center;
+	font-family: 'mrs-eaves', serif;
+	letter-spacing: -2px;
+	font-size: 60px;
+
+	a {
+		text-decoration: none;
+		color: #555555;
+
+		@include transition(0.5s);
+
+		&:hover {
+			color: #000000;
+		}
+	}
+}
+	
+
+// Bio -----------------------------------
+
+p.bio {
+	display: block;
+  max-width: 570px;
+  margin: 25px auto;
+  font-family: 'mr-eaves-sans', sans-serif;
+  text-align: center;
+  line-height: 1.5;
+  padding: 0 20px;
+  font-size: 1em;
+
+  a {
+  	color: inherit;
+  	text-decoration: none;
+  	white-space: nowrap;
+    // border-bottom: 1px solid #eee;
+    background: #f7f7f7;
+    padding: .1rem .25rem;
+
+    @include transition(0.5s);
+
+    &:hover {
+    	background: #eeeeee;
+    }
+  }
+}
+
+
+// Icons ----------------------------------
+
+div.icons {
+  display: block;
+  max-width: 570px;
+  margin: 0 auto;
+  padding: 0 20px;
+
+  a.fa-stack {
+    color: #ffffff;
+    width: 3em;
+    height: 3em;
+    line-height: 3em;
+    margin-right: 6px;
+    margin-bottom: 9px;
+
+    &:last-child {
+      margin-right: 0px;
+    }
+
+    i {
+      background: #444444;
+
+      @include transition(0.5s);
+    }
+
+    &:hover i {
+      background: #000000;
+    }
+  }
+  
+  [class*=hint--]:before {
+    border-bottom-color: #444444;
+  }
+
+  [class*=hint--]:after {
+    box-shadow: none;
+    border: 1px solid #444444;
+    background: #ffffff;
+    color: #444444;
+    text-shadow: none;
+    font-family: 'mr-eaves-sans', sans-serif;
+  }
+}
+
+
+// Contact------------------------------------
+
+a.contact {
+  display: block;
+  background: #f7f7f7;
+  margin: 25px auto;
+  width: 100px;
+  text-align: center;
+  text-decoration: none;
+  padding: 5px 10px;
+  color: #444444;
+  font-family: 'mr-eaves-sans', sans-serif;
+
+  @include transition(0.5s);
+
+  &:hover {
+    background: #eeeeee;
+  }
+}
+
+
+// Media Queries -----------------------------
+
+@media only screen and 
+(min-width : 331px) and 
+(max-width : 620px) {
+  p.bio {
+    font-size: 1.2em;
+  }
+  div.icons {
+    max-width: 286px;
+  }
+}
+
+@media only screen and 
+(max-width : 330px) {
+  p.bio {
+    font-size: 1.2em;
+  }
+  div.icons {
+    max-width: 162px;
+    font-size: 1.5em;
+  }
+}
+
+
+// Global ---------------------------------
+
+	.clear { clear: both; }
+	.left { float: left; }
+	.right { float: right; }
+
+	.alignleft { float: left; }
+	.alignright { float: right; }
