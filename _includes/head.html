@@ -18,7 +18,9 @@
     <!-- Fonts -->
     <script src="https://use.typekit.net/yfb0zzy.js"></script>
     <script>try{Typekit.load({ async: false });}catch(e){}</script>
-    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+    {% if page.title != "Home" %}
+      <link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+    {% endif %}
 
     <!-- Icons -->
     <script src="https://use.fontawesome.com/f45f240a45.js"></script>
