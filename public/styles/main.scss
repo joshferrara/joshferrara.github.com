@@ -85,6 +85,7 @@ h1.name {
 	font-family: 'mrs-eaves', serif;
 	letter-spacing: -2px;
 	font-size: 60px;
+  margin-bottom: 25px;
 
 	a {
 		text-decoration: none;
@@ -104,7 +105,7 @@ h1.name {
 p.bio {
 	display: block;
   max-width: 570px;
-  margin: 25px auto;
+  margin: 0 auto 25px;
   font-family: 'mr-eaves-sans', sans-serif;
   text-align: center;
   line-height: 1.5;
@@ -174,7 +175,62 @@ div.icons {
 }
 
 
-// Contact------------------------------------
+// Content ------------------------------------
+
+.content {
+  max-width: 570px;
+  display: block;
+  margin: 25px auto;
+  font-family: 'Open Sans', sans-serif;
+
+  .post {
+    .byline {
+      margin-bottom: 15px;
+      display: block;
+
+      h2.title {
+        font-family: 'mrs-eaves', serif;
+        font-size: 30px;
+        float: left;
+        letter-spacing: -2px;
+
+        a {
+          text-decoration: none;
+          color: #555555;
+        }
+      }
+      .date {
+        float: right;
+        font-family: 'mr-eaves-sans', sans-serif;
+        color: #ccc;
+        font-size: 20px;
+        text-transform: lowercase;
+        margin-top: 7px;
+      }
+    }
+
+    p {
+      color: #555555;
+      font-size: 14px;
+      margin-bottom: 15px;
+      line-height: 1.5;
+
+      a {
+        color: #999999;
+      }
+
+      img {
+        display: block;
+        width: 100%;
+        height: 100%;
+        margin: 0 auto;
+      }
+    }
+  }
+}
+
+
+// Contact ------------------------------------
 
 a.contact {
   display: block;
