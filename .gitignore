@@ -4,3 +4,4 @@ _site/
 /public/styles/.DS_Store
 /feed/.DS_Store
 /jeeves/.DS_Store
+Gemfile.lock

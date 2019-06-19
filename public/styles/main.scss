@@ -226,6 +226,26 @@ div.icons {
         margin: 0 auto;
       }
     }
+    h3 {
+      font-family: 'mrs-eaves', serif;
+      font-size: 26px;
+      letter-spacing: -2px;
+      padding: 10px 0;
+      color: #555555;
+
+      a {
+        text-decoration: none;
+        color: #555555;
+      }
+    }
+    ol {
+      list-style: decimal;
+      padding: 0 0 15px 30px;
+    }
+    li {
+      line-height: 1.5em;
+      color: #444444;
+    }
   }
 }
 
