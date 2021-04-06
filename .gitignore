@@ -5,3 +5,4 @@ _site/
 /feed/.DS_Store
 /jeeves/.DS_Store
 Gemfile.lock
+.DS_Store
