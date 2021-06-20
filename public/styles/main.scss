@@ -296,6 +296,62 @@ a.contact {
 }
 
 
+// Dark Mode ------------------------------
+
+@media (prefers-color-scheme: dark) {
+  
+  body {
+    background: #222222;
+
+    h1.name {
+
+      a {
+        color: #eeeeee;
+
+        &:hover {
+          color: #555555;
+        }
+      }
+    }
+
+    p.bio {
+      color: #eeeeee;
+
+      a {
+        background: #444444;
+
+        &:hover {
+          background: #777777;
+        }
+      }
+    }
+
+    a.contact {
+      color: #eeeeee;
+      background: #444444;
+
+      &:hover {
+        background: #777777;
+      }
+    }
+
+    div.icons {
+
+      a.fa-stack {
+
+        &:hover {
+
+          i {
+            background: #777777;
+          }
+        }
+      }
+    }
+  }
+
+}
+
+
 // Global ---------------------------------
 
 	.clear { clear: both; }
