@@ -12,5 +12,6 @@ So here goes. Please pardon the screaming music, questionable presentation of th
 <a href="http://josh-bob.com/wp-content/uploads/2007/12/306206220_l.jpg" title="306206220_l.jpg"><img src="http://josh-bob.com/wp-content/uploads/2007/12/306206220_l.thumbnail.jpg" alt="306206220_l.jpg" /></a>
 <h3>Ladies and Gentleman, <strong>LA lights...</strong></h3>
 
-<object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/RqyYxcFXPew&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/RqyYxcFXPew&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RsG9y18q7wQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Make sure you check out 5:20 into the video...
