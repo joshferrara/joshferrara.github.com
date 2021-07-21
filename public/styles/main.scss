@@ -182,6 +182,7 @@ div.icons {
   display: block;
   margin: 25px auto;
   font-family: 'Open Sans', sans-serif;
+  padding: 0 10px;
 
   .post {
     .byline {
@@ -250,22 +251,24 @@ div.icons {
 
   .PageNavigation {
     display: block;
+    height: 70px;   
 
     a {
       width: 48%;
       display: block;
-      background: #333;
-      color: #fff;
+      color: #777;
       padding: 9px 0px;
-      text-align: center;
       margin: 15px 0;
+      text-decoration: none;
 
-      &.left {
+      &.prev {
         float: left;
+        text-align: left;
       }
 
-      &.right {
+      &.next {
         float: right;
+        text-align: right;
       }
     }
   }
