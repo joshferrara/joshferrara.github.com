@@ -247,6 +247,28 @@ div.icons {
       color: #444444;
     }
   }
+
+  .PageNavigation {
+    display: block;
+
+    a {
+      width: 48%;
+      display: block;
+      background: #333;
+      color: #fff;
+      padding: 9px 0px;
+      text-align: center;
+      margin: 15px 0;
+
+      &.left {
+        float: left;
+      }
+
+      &.right {
+        float: right;
+      }
+    }
+  }
 }
 
 
