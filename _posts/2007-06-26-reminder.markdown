@@ -2,7 +2,7 @@
 layout: post
 title: Reminder
 wordpress_id: 114
-wordpress_url: http://josh-bob.com/2007/06/26/reminder/
+wordpress_url: https://joshferrara.com/2007/06/26/reminder/
 date: 2007-06-26 17:55:17.000000000 -05:00
 ---
 Don't forget to check out <a href="http://submerge07.wordpress.com/">submerge07.wordpress.com</a> for pics and stories :)

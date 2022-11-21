@@ -2,7 +2,7 @@
 layout: post
 title: A little help?
 wordpress_id: 106
-wordpress_url: http://josh-bob.com/2007/06/05/a-little-help/
+wordpress_url: https://joshferrara.com/2007/06/05/a-little-help/
 date: 2007-06-05 12:51:13.000000000 -05:00
 ---
 Hey guys, I just got this e-mail from my friend Brian Edwards at <a href="http://www.healingplacechurch.org">HPC</a>. Check it out and please take a moment to vote! It's for an awesome cause, and it's really easy to vote. Thanks!

@@ -2,7 +2,7 @@
 layout: post
 title: Monday morning...
 wordpress_id: 55
-wordpress_url: http://josh-bob.com/?p=55
+wordpress_url: https://joshferrara.com/?p=55
 date: 2007-04-16 08:23:48.000000000 -05:00
 ---
 It's usually not a welcome thing (unless you are like one of my many HPC compadres who have today OFF), But waking up on a Monday morning and finding that you are struggling with a cold or something of that nature... it's just not good.

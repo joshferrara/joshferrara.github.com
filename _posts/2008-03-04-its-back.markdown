@@ -2,7 +2,7 @@
 layout: post
 title: It's back
 wordpress_id: 243
-wordpress_url: http://josh-bob.com/2008/03/04/its-back/
+wordpress_url: https://joshferrara.com/2008/03/04/its-back/
 date: 2008-03-04 11:28:56.000000000 -06:00
 ---
 Sorry, I just can't get rid of the snow when it is below 50 degrees when I wake up.

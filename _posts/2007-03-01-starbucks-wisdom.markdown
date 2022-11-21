@@ -2,7 +2,7 @@
 layout: post
 title: Starbucks wisdom
 wordpress_id: 15
-wordpress_url: http://josh-bob.com/?p=15
+wordpress_url: https://joshferrara.com/?p=15
 date: 2007-03-01 00:02:00.000000000 -06:00
 ---
 Ok, so everyone knows about the whole "The Way I See It" campaign at <a href="http://www.starbucks.com">Starbucks</a>, right? Cool. So, last night I was over there studying. Anyway, I usually take a look to see what insight my cup of coffee has to offer me, and it's usually much too poetic to do any real good. Tonight was a little different though, sooo I thought I'd share the wisdom, since after all, it was shared with me first. Here is the slamming quote from Jodi Picoult...

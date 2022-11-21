@@ -2,7 +2,7 @@
 layout: post
 title: A day in photos.
 wordpress_id: 71
-wordpress_url: http://josh-bob.com/2007/04/27/a-day-in-photos/
+wordpress_url: https://joshferrara.com/2007/04/27/a-day-in-photos/
 date: 2007-04-27 00:14:52.000000000 -05:00
 ---
 Sooo, I started my day pretty early. And I was walking through the quad and I saw this...

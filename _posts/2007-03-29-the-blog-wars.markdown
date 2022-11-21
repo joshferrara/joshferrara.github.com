@@ -2,7 +2,7 @@
 layout: post
 title: The Blog Wars
 wordpress_id: 31
-wordpress_url: http://josh-bob.com/?p=31
+wordpress_url: https://joshferrara.com/?p=31
 date: 2007-03-29 20:19:00.000000000 -05:00
 ---
 <p class="mobile-photo"><a href="http://photos1.blogger.com/x/blogger2/1892/135664769298385/1600/z/728741/bm-image-754842.jpg"><img src="http://photos1.blogger.com/x/blogger2/1892/135664769298385/320/z/658292/bm-image-754842.jpg" width="320" /></a></p><p class="mobile-photo"><a href="http://photos1.blogger.com/x/blogger2/1892/135664769298385/1600/z/438665/bm-image-756689.jpg"><img src="http://photos1.blogger.com/x/blogger2/1892/135664769298385/320/z/699771/bm-image-756689.jpg" width="320" /></a></p>

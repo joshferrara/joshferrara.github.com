@@ -2,7 +2,7 @@
 layout: post
 title: You say banana, I say....
 wordpress_id: 50
-wordpress_url: http://josh-bob.com/?p=50
+wordpress_url: https://joshferrara.com/?p=50
 date: 2007-04-12 10:55:58.000000000 -05:00
 ---
 Ok, I just came across these pictures... forgot I took them.

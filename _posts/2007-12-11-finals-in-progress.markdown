@@ -2,7 +2,7 @@
 layout: post
 title: Pirates of the Caribbean
 wordpress_id: 210
-wordpress_url: http://josh-bob.com/2007/12/11/finals-in-progress/
+wordpress_url: https://joshferrara.com/2007/12/11/finals-in-progress/
 date: 2007-12-11 13:30:51.000000000 -06:00
 ---
 Ok, real quick study break, I just thought you should all be let in on this. If you are a fan of <strong>Pirates of the Caribbean</strong> like I am, then you probably already assumed this, but anyway... The soundtrack from the latest movie is amazing, and you need to drop the cash on iTunes and snag it now. Honestly, it's more of a <a href="http://en.wikipedia.org/w/index.php?title=Musical_score&amp;redirect=no">score</a> really, but that doesn't really matter.

@@ -2,7 +2,7 @@
 layout: post
 title: Waffle House
 wordpress_id: 21
-wordpress_url: http://josh-bob.com/?p=21
+wordpress_url: https://joshferrara.com/?p=21
 date: 2007-03-11 10:53:00.000000000 -05:00
 ---
 <p class="mobile-photo"><a href="http://photos1.blogger.com/x/blogger2/1892/135664769298385/1600/z/587437/bm-image-702363.jpg"><img src="http://photos1.blogger.com/x/blogger2/1892/135664769298385/320/z/674501/bm-image-702363.jpg" width="320"/></a></p>This has quickly become my Sunday morning tradition. Of course, usually Mark Bordelon is my breakfast date (don&#39;t tell Katherine), but we changed up the schedule this weekend so he is at the annex and nobody at Highland Road quite appreciates the between service meal like Mark and myself.

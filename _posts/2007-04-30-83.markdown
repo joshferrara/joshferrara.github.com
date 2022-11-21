@@ -2,12 +2,12 @@
 layout: post
 title: School showoff time
 wordpress_id: 83
-wordpress_url: http://josh-bob.com/2007/04/30/83/
+wordpress_url: https://joshferrara.com/2007/04/30/83/
 date: 2007-04-30 15:31:32.000000000 -05:00
 ---
 So this is me trying to make myself feel better about the massive amounts of time that I spend working with school stuff.
 
-Check out <a href="http://josh-bob.com/mc2015/index.html" target="_blank">this site</a>. It's something I had to put together for one of my classes.
+Check out <a href="https://joshferrara.com/mc2015/index.html" target="_blank">this site</a>. It's something I had to put together for one of my classes.
 
 Please don't hate. I actually only spent about 30 minutes on the design of the site. It's mainly to host the other projects we completed in the class this year.
 

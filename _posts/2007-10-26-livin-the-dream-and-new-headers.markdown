@@ -2,7 +2,7 @@
 layout: post
 title: Livin' the Dream, and new headers...
 wordpress_id: 181
-wordpress_url: http://josh-bob.com/2007/10/26/livin-the-dream-and-new-headers/
+wordpress_url: https://joshferrara.com/2007/10/26/livin-the-dream-and-new-headers/
 date: 2007-10-26 11:38:18.000000000 -05:00
 ---
 The Live The Dream Women's Conference is underway as of last night, and it is rocking so far. You know, as Women's conferences are, ;)

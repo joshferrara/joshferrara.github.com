@@ -2,7 +2,7 @@
 layout: post
 title: A baby blog
 wordpress_id: 402
-wordpress_url: http://josh-bob.com/?p=3
+wordpress_url: https://joshferrara.com/?p=3
 date: 2006-12-01 12:25:00.000000000 -06:00
 ---
 So, this is pretty much surfacing from the need to express what's in my head, meshed with desire to keep my thoughts organized, with a dash of of my personal despise for pen and paper journaling. Sounds tasty, eh?

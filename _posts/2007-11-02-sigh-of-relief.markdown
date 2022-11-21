@@ -2,7 +2,7 @@
 layout: post
 title: Sigh of relief
 wordpress_id: 183
-wordpress_url: http://josh-bob.com/2007/11/02/sigh-of-relief/
+wordpress_url: https://joshferrara.com/2007/11/02/sigh-of-relief/
 date: 2007-11-02 11:21:18.000000000 -05:00
 ---
 Just took one of the hardest exams all semester, and I actually feel pretty good about it. Honestly, it's not a hard subject. American History. I've just been delaying this class because I despise essay exams. I know the information just fine. I have two barriers keeping me from excelling however. Numero uno is the simple fact that I have terrible handwriting. It really would make you cringe, it's bad. The second of my essay woes is the fact that I absolutely can't stand writing that isn't organized. And when I'm forced to write 3 or 4 pages of information in a 50 minute block, it tends to be disorganized. It's all correct, mind you. Just not organized. And that really irks me.

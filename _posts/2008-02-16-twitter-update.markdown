@@ -2,7 +2,7 @@
 layout: post
 title: Twitter Update
 wordpress_id: 231
-wordpress_url: http://josh-bob.com/2008/02/16/twitter-update/
+wordpress_url: https://joshferrara.com/2008/02/16/twitter-update/
 date: 2008-02-16 10:06:01.000000000 -06:00
 ---
 One day in and I'm already a fan. If you are even a slight techy, I encourage you to check out Twitter.

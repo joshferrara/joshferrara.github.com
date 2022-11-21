@@ -2,11 +2,11 @@
 layout: post
 title: Quiet
 wordpress_id: 200
-wordpress_url: http://josh-bob.com/2007/11/24/quiet/
+wordpress_url: https://joshferrara.com/2007/11/24/quiet/
 date: 2007-11-24 23:40:02.000000000 -06:00
 ---
 <!--Mime Type of File is image/jpeg -->
 
-<a href="http://josh-bob.com/wp-photos/20071124-234002-1.jpg"><img src="http://josh-bob.com/wp-photos/thumb.20071124-234002-1.jpg" /></a>
+<a href="https://joshferrara.com/wp-photos/20071124-234002-1.jpg"><img src="https://joshferrara.com/wp-photos/thumb.20071124-234002-1.jpg" /></a>
 
 I guess it's just my nature to blog? I had to show off a little of God's beauty that I'm chilling in this weekend. Loving it.

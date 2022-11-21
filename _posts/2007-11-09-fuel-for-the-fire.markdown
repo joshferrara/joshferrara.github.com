@@ -2,7 +2,7 @@
 layout: post
 title: Fuel for the fire
 wordpress_id: 188
-wordpress_url: http://josh-bob.com/2007/11/09/fuel-for-the-fire/
+wordpress_url: https://joshferrara.com/2007/11/09/fuel-for-the-fire/
 date: 2007-11-09 16:15:53.000000000 -06:00
 ---
 As if there wasn't already enough reason for me to buy an <a href="http://www.apple.com/iphone/">iPhone</a>...

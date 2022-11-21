@@ -2,7 +2,7 @@
 layout: post
 title: Finally, an update // Africa Mission Trip
 wordpress_id: 404
-wordpress_url: http://josh-bob.com/?p=403
+wordpress_url: https://joshferrara.com/?p=403
 date: 2009-03-03 10:57:33.000000000 -06:00
 ---
 Wow, how long has it been? Anyone still here? Well I won't start this with the usual blaming of Twitter and other social media that have "stolen my heart away from blogging" but I will say I've just neglected the blog for a few months, just one of those things I guess. However, it's been on my mind lately (its such a loyal blog, you know) and I've decided to try to be a little more regular with it. Whew, how many times have we been down that road?

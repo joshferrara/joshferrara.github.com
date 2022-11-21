@@ -2,7 +2,7 @@
 layout: post
 title: Delirious?
 wordpress_id: 48
-wordpress_url: http://josh-bob.com/?p=48
+wordpress_url: https://joshferrara.com/?p=48
 date: 2007-04-11 13:37:31.000000000 -05:00
 ---
 I had seen them before and I wasn't expecting a normal concert, but <a href="http://www.delirious.co.uk/">Delirious</a> definitely impressed me all over again last night.
@@ -11,7 +11,7 @@ I had seen them before and I wasn't expecting a normal concert, but <a href="htt
 
 They are the real deal. Totally ministry-minded. I love it. If you have never read anything about them and their ministry, you probably should check out their <a href="http://www.delirious.co.uk/">website</a> and read around.
 
-Basically, they started out putting on an event for the teens in their community in the early '90s called "Delirious?", much like our "<a href="http://josh-bob.com/?p=16">RED</a>". Soon it became a regular event. After a while someone proposed the idea of recording the worship portion of the event. To make an extremely long story short, they titled the album "Delirious?" after the event. The CD started traveling faster than they had expected and crossing all sorts of boundaries. The cool thing was that in Europe, there isn't so much of a seperation in the music industry between secular and Christian charts. Anyway, people who were not familiar with the event that they were hosting thought that the CD was a recording of a band named Delirious? What started out as a misunderstanding became a phenomenon.
+Basically, they started out putting on an event for the teens in their community in the early '90s called "Delirious?", much like our "<a href="https://joshferrara.com/?p=16">RED</a>". Soon it became a regular event. After a while someone proposed the idea of recording the worship portion of the event. To make an extremely long story short, they titled the album "Delirious?" after the event. The CD started traveling faster than they had expected and crossing all sorts of boundaries. The cool thing was that in Europe, there isn't so much of a seperation in the music industry between secular and Christian charts. Anyway, people who were not familiar with the event that they were hosting thought that the CD was a recording of a band named Delirious? What started out as a misunderstanding became a phenomenon.
 
 How crazy is that? Our God can use ANYTHING for his will to be done! They had no intentions of starting a band or traveling the world, and they were blindsided by His plan! I love it.
 

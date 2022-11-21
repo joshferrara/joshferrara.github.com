@@ -2,7 +2,7 @@
 layout: post
 title: This is an emergency
 wordpress_id: 108
-wordpress_url: http://josh-bob.com/2007/06/10/this-is-an-emergency/
+wordpress_url: https://joshferrara.com/2007/06/10/this-is-an-emergency/
 date: 2007-06-10 01:25:36.000000000 -05:00
 ---
 I was just doing a little studying and this song came around on the iPod Shuffle. If you've never heard it, feel free to take a listen. If you have heard it, at least look over the lyrics. This is the kind of passion I strive for everyday, and I'm blessed beyond belief to be able to work with dozens of people on a regular basis that are running the race with me. Striving to have hearts that hurt for the things that hurt His heart.

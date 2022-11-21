@@ -2,11 +2,11 @@
 layout: post
 title: Yeah baby!
 wordpress_id: 139
-wordpress_url: http://josh-bob.com/2007/07/21/yeah-baby/
+wordpress_url: https://joshferrara.com/2007/07/21/yeah-baby/
 date: 2007-07-21 22:50:02.000000000 -05:00
 ---
 <!--Mime Type of File is image/jpeg -->
 
-<a href="http://josh-bob.com/wp-photos/20070721-235002-1.jpg"><img src="http://josh-bob.com/wp-photos/thumb.20070721-235002-1.jpg" /></a>
+<a href="https://joshferrara.com/wp-photos/20070721-235002-1.jpg"><img src="https://joshferrara.com/wp-photos/thumb.20070721-235002-1.jpg" /></a>
 
 From left to right: Phillip from Sweden (honorary HPC-er), Jason Laird, and myself!  Gotta love it.

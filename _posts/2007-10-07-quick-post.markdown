@@ -2,7 +2,7 @@
 layout: post
 title: Quick post...
 wordpress_id: 176
-wordpress_url: http://josh-bob.com/2007/10/07/quick-post/
+wordpress_url: https://joshferrara.com/2007/10/07/quick-post/
 date: 2007-10-07 11:58:47.000000000 -05:00
 ---
 In the middle of a service, but right now there is no translator, so I'm ok ;)

@@ -2,7 +2,7 @@
 layout: post
 title: I'm falling...
 wordpress_id: 191
-wordpress_url: http://josh-bob.com/2007/11/15/im-falling/
+wordpress_url: https://joshferrara.com/2007/11/15/im-falling/
 date: 2007-11-15 09:53:25.000000000 -06:00
 ---
 Ok, for once, I know what kind of vehicle I really want. And here it is.

@@ -2,7 +2,7 @@
 layout: post
 title: Get Involved!
 wordpress_id: 407
-wordpress_url: http://josh-bob.com/?p=407
+wordpress_url: https://joshferrara.com/?p=407
 date: 2009-03-10 11:24:28.000000000 -05:00
 ---
 I've been really impacted the past few weeks by the incredible amount of generosity, but also the huge level of unity that I've seen in my life. I've seen people with lives, needs and situations of their own give of their time AND finances to help support a college student as he tries to make his way to Africa, and I've seen people raising money for mission trips of their own go out of their way to support others.

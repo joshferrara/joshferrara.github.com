@@ -2,7 +2,7 @@
 layout: post
 title: Easter wrap up @ HPC
 wordpress_id: 44
-wordpress_url: http://josh-bob.com/?p=44
+wordpress_url: https://joshferrara.com/?p=44
 date: 2007-04-08 19:21:24.000000000 -05:00
 ---
 If you weren't there (shame shame), this weekend was absolutely amazing at <a href="http://www.healingplacechurch.org">HPC</a>! With 7 services at our Highland Road Campus alone, and around 15 more at our other campuses around the globe, the story of His sacrifice was definitely celebrated and shared in an awesome way.

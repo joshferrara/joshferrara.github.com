@@ -2,7 +2,7 @@
 layout: post
 title: HPC_Bridge Campus
 wordpress_id: 59
-wordpress_url: http://josh-bob.com/2007/04/17/hpc_bridge-campus/
+wordpress_url: https://joshferrara.com/2007/04/17/hpc_bridge-campus/
 date: 2007-04-17 20:40:49.000000000 -05:00
 ---
 Ok, you really need to read this <strong>awesome</strong> post by our highschool pastor, Jason Laird aka <a href="http://jasonlaird.blogspot.com">Tweez</a>. If you read further down in his blog you will see more info about what we half-jokingly refer to now as the HPC_Bridge Campus.

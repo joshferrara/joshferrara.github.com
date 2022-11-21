@@ -2,7 +2,7 @@
 layout: post
 title: I'm a little late...
 wordpress_id: 47
-wordpress_url: http://josh-bob.com/?p=47
+wordpress_url: https://joshferrara.com/?p=47
 date: 2007-04-09 14:27:54.000000000 -05:00
 ---
 Ok, I just realized that I haven't done this yet, and since I'm just sitting in class, I figured it would be the perfect time.  ;)

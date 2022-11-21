@@ -2,7 +2,7 @@
 layout: post
 title: Ask and you shall receive?
 wordpress_id: 164
-wordpress_url: http://josh-bob.com/2007/09/26/ask-and-you-shall-receive/
+wordpress_url: https://joshferrara.com/2007/09/26/ask-and-you-shall-receive/
 date: 2007-09-26 22:03:02.000000000 -05:00
 ---
 Ok, I don't know why I haven't done this yet, but I just thought I would let my beautiful blogging family know that I am on the search for a vehichle.

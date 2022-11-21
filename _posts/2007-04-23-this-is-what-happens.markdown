@@ -2,7 +2,7 @@
 layout: post
 title: This is what happens...
 wordpress_id: 65
-wordpress_url: http://josh-bob.com/2007/04/23/this-is-what-happens/
+wordpress_url: https://joshferrara.com/2007/04/23/this-is-what-happens/
 date: 2007-04-23 00:19:04.000000000 -05:00
 ---
 ...when you have 10 minutes of free time.

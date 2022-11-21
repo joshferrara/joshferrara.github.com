@@ -2,7 +2,7 @@
 layout: post
 title: Under Construction
 wordpress_id: 250
-wordpress_url: http://josh-bob.com/2008/03/21/under-construction/
+wordpress_url: https://joshferrara.com/2008/03/21/under-construction/
 date: 2008-03-21 01:01:12.000000000 -05:00
 ---
 New stuff coming soon around here, hopefully a step forward. Trying to hurry and finish before school starts back up. Pointless post.

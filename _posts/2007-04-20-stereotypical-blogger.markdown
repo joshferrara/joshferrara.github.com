@@ -2,7 +2,7 @@
 layout: post
 title: Stereotypical blogger
 wordpress_id: 64
-wordpress_url: http://josh-bob.com/2007/04/20/stereotypical-blogger/
+wordpress_url: https://joshferrara.com/2007/04/20/stereotypical-blogger/
 date: 2007-04-20 11:35:52.000000000 -05:00
 ---
 Alright, it seems everyone is doing this these days, but I certainly don't want to recieve to much flack about this ( so shut it, seriously). A decent amount of my blog viewers are non-HPCers. This is for you.

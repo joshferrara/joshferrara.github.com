@@ -2,7 +2,7 @@
 layout: post
 title: Servolution!
 wordpress_id: 149
-wordpress_url: http://josh-bob.com/2007/08/27/servolution/
+wordpress_url: https://joshferrara.com/2007/08/27/servolution/
 date: 2007-08-27 17:34:51.000000000 -05:00
 ---
 <a href="http://www.healingplacechurch.org/servolution" target="_blank">

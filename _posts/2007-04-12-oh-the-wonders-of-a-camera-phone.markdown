@@ -2,7 +2,7 @@
 layout: post
 title: Oh the wonders of a camera phone
 wordpress_id: 49
-wordpress_url: http://josh-bob.com/?p=49
+wordpress_url: https://joshferrara.com/?p=49
 date: 2007-04-12 10:23:55.000000000 -05:00
 ---
 Quick shoutout to my boy <a href="http://pleblanc.net">Phill</a>. He's one of the coolest cats around HPC and I get to call him a friend of mine.

@@ -2,7 +2,7 @@
 layout: post
 title: Also
 wordpress_id: 211
-wordpress_url: http://josh-bob.com/2007/12/11/also-2/
+wordpress_url: https://joshferrara.com/2007/12/11/also-2/
 date: 2007-12-11 19:33:44.000000000 -06:00
 ---
 You might want to bundle up, it's snowing :)

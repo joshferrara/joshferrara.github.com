@@ -2,7 +2,7 @@
 layout: post
 title: The value of a life.
 wordpress_id: 10
-wordpress_url: http://josh-bob.com/?p=10
+wordpress_url: https://joshferrara.com/?p=10
 date: 2006-12-23 23:25:00.000000000 -06:00
 ---
 Ok, first of all, I'm totally not trying to start off with a title that will make this sound like a deep and inspiring post, because I doubt it will be, and that's not my agenda. But I do hope it will at least be thought-provoking, because that is what the past few days have been to me, and I simply need to write.

@@ -2,7 +2,7 @@
 layout: post
 title: Finished!
 wordpress_id: 95
-wordpress_url: http://josh-bob.com/2007/05/11/finished/
+wordpress_url: https://joshferrara.com/2007/05/11/finished/
 date: 2007-05-11 17:52:23.000000000 -05:00
 ---
 Ahh, you simply must experience the joy and relief of finishing a Spring semester to fully understand this amazing feeling. The grades weren't as hot as I'd like, but I'll live with a few B's.

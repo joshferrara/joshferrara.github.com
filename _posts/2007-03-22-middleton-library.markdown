@@ -2,7 +2,7 @@
 layout: post
 title: Middleton Library
 wordpress_id: 25
-wordpress_url: http://josh-bob.com/?p=25
+wordpress_url: https://joshferrara.com/?p=25
 date: 2007-03-22 13:01:00.000000000 -05:00
 ---
 <p class="mobile-photo"><a href="http://photos1.blogger.com/x/blogger2/1892/135664769298385/1600/z/382823/bm-image-785779.jpg"><img src="http://photos1.blogger.com/x/blogger2/1892/135664769298385/320/z/774893/bm-image-785779.jpg" width="320" /></a></p>If you flinched when you read this title, we can be friends.

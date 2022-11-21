@@ -2,7 +2,7 @@
 layout: post
 title: ECON 2000
 wordpress_id: 23
-wordpress_url: http://josh-bob.com/?p=23
+wordpress_url: https://joshferrara.com/?p=23
 date: 2007-03-15 08:01:00.000000000 -05:00
 ---
 <p class="mobile-photo"><a href="http://photos1.blogger.com/x/blogger2/1892/135664769298385/1600/z/691916/bm-image-714645.jpg"><img src="http://photos1.blogger.com/x/blogger2/1892/135664769298385/320/z/232311/bm-image-714645.jpg" width="320" /></a></p>There is nothing quite like waking up at 6:30 for an econ class.

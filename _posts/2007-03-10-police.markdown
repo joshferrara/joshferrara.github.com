@@ -2,7 +2,7 @@
 layout: post
 title: Police
 wordpress_id: 20
-wordpress_url: http://josh-bob.com/?p=20
+wordpress_url: https://joshferrara.com/?p=20
 date: 2007-03-10 10:25:00.000000000 -06:00
 ---
 <a href="http://www.sting.com/bin/galImg/siteFiles/26b3f9ee52.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 320px;" src="http://www.sting.com/bin/galImg/siteFiles/26b3f9ee52.jpg" alt="" border="0" /></a>

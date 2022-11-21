@@ -2,14 +2,14 @@
 layout: post
 title: Econ, Test 3
 wordpress_id: 254
-wordpress_url: http://josh-bob.com/2008/04/17/econ-test-3/
+wordpress_url: https://joshferrara.com/2008/04/17/econ-test-3/
 date: 2008-04-17 15:15:02.000000000 -05:00
 ---
 <!--Mime Type of File is image/jpeg -->
 
-<a href="http://josh-bob.com/wp-photos/20080417-161502-1.jpg"><img src="http://josh-bob.com/wp-photos/thumb.20080417-161502-1.jpg" alt="" /></a>
+<a href="https://joshferrara.com/wp-photos/20080417-161502-1.jpg"><img src="https://joshferrara.com/wp-photos/thumb.20080417-161502-1.jpg" alt="" /></a>
 
-You should know these faces by now. On the right is <a href="http://josh-bob.com/category/chris-in-class/">Chris</a> and <a href="http://josh-bob.com/2007/05/11/this-is-clay/">Clay</a> is on the left. What you see is them consuming some wonderful coffee as we study. What you don't see is the amazing coffee pot that brewed 12 cups in under 2 minutes. These are the days we will never forget.
+You should know these faces by now. On the right is <a href="https://joshferrara.com/category/chris-in-class/">Chris</a> and <a href="https://joshferrara.com/2007/05/11/this-is-clay/">Clay</a> is on the left. What you see is them consuming some wonderful coffee as we study. What you don't see is the amazing coffee pot that brewed 12 cups in under 2 minutes. These are the days we will never forget.
 
 *********************************************
 

@@ -2,7 +2,7 @@
 layout: post
 title: Finals
 wordpress_id: 4
-wordpress_url: http://josh-bob.com/?p=4
+wordpress_url: https://joshferrara.com/?p=4
 date: 2006-12-11 12:03:00.000000000 -06:00
 ---
 <span style="font-style: italic;" class="std_font"><b>"I'm Safer On An Airplane"</b>

@@ -2,7 +2,7 @@
 layout: post
 title: Old School
 wordpress_id: 215
-wordpress_url: http://josh-bob.com/2007/12/21/old-school/
+wordpress_url: https://joshferrara.com/2007/12/21/old-school/
 date: 2007-12-21 19:25:02.000000000 -06:00
 ---
 <h2><font color="#ff0000"><em>Warning: May contain highly embarrassing content.</em></font></h2>

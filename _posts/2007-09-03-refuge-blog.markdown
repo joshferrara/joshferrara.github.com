@@ -2,7 +2,7 @@
 layout: post
 title: Refuge Blog
 wordpress_id: 157
-wordpress_url: http://josh-bob.com/2007/09/03/refuge-blog/
+wordpress_url: https://joshferrara.com/2007/09/03/refuge-blog/
 date: 2007-09-03 23:39:04.000000000 -05:00
 ---
 Hey, this one is for all my Refuge amigos...

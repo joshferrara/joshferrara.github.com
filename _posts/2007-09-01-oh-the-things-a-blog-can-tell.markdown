@@ -2,7 +2,7 @@
 layout: post
 title: Oh the things a blog can tell
 wordpress_id: 166
-wordpress_url: http://josh-bob.com/2007/09/01/oh-the-things-a-blog-can-tell/
+wordpress_url: https://joshferrara.com/2007/09/01/oh-the-things-a-blog-can-tell/
 date: 2007-09-01 15:31:40.000000000 -05:00
 ---
 <p class="storycontent">oh what things my blog could tell you, that is, if my phone blogging was still working. However, itâ€™s been down for a while, so again, I apologize for the major lack of posts lately.

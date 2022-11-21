@@ -2,7 +2,7 @@
 layout: post
 title: Take that Cracka!
 wordpress_id: 42
-wordpress_url: http://josh-bob.com/?p=42
+wordpress_url: https://joshferrara.com/?p=42
 date: 2007-04-04 14:32:12.000000000 -05:00
 ---
 We had a little get together today for Joe Causey at Brunet's. Joe will be leaving

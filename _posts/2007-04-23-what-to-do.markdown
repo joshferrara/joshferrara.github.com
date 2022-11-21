@@ -2,7 +2,7 @@
 layout: post
 title: What to do?
 wordpress_id: 66
-wordpress_url: http://josh-bob.com/2007/04/23/what-to-do/
+wordpress_url: https://joshferrara.com/2007/04/23/what-to-do/
 date: 2007-04-23 22:07:27.000000000 -05:00
 ---
 What do you do on the days when everything seems to be going wrong? How do you respond when the things you thought to be so distant from the realm of possibilities have suddenly snuck up on you?

@@ -7,7 +7,7 @@ title: The New Wayfarer
 <a href="/2013/09/23/hello-svbtle/">(find out why)</a>
 
 <!--
-While shopping around for the perfect pair of Wayfarers recently, I noticed a few pairs marked with the label “New Wayfarer”, ever so subtly. I like to make informed purchases, so I decided to try to determine the difference between the Wayfarers I was initially shopping for and these New Wayfarers. Because obviously, [new is better](http://josh-bob.com/2012/08/14/my-name-is-josh-im-a-neophile/).
+While shopping around for the perfect pair of Wayfarers recently, I noticed a few pairs marked with the label “New Wayfarer”, ever so subtly. I like to make informed purchases, so I decided to try to determine the difference between the Wayfarers I was initially shopping for and these New Wayfarers. Because obviously, [new is better](https://joshferrara.com/2012/08/14/my-name-is-josh-im-a-neophile/).
 
 Here’s what I found, straight from the horses mouth:
 

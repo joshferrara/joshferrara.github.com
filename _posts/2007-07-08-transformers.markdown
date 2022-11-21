@@ -2,7 +2,7 @@
 layout: post
 title: Transformers
 wordpress_id: 119
-wordpress_url: http://josh-bob.com/2007/07/08/transformers/
+wordpress_url: https://joshferrara.com/2007/07/08/transformers/
 date: 2007-07-08 22:10:09.000000000 -05:00
 ---
 I was going to mention this in my last post, but I have decided it deserves it's own post...
@@ -19,4 +19,4 @@ Here goes the first one...
 
 I saw one of these today and couldn't help but think that it was just waiting to Transform...
 
-<img src="http://josh-bob.com/wp-content/uploads/2007/07/machine.jpg" alt="machine.jpg" width="450" />
+<img src="https://joshferrara.com/wp-content/uploads/2007/07/machine.jpg" alt="machine.jpg" width="450" />

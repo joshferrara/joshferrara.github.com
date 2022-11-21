@@ -2,7 +2,7 @@
 layout: post
 title: Twitter?
 wordpress_id: 230
-wordpress_url: http://josh-bob.com/2008/02/15/twitter/
+wordpress_url: https://joshferrara.com/2008/02/15/twitter/
 date: 2008-02-15 11:52:31.000000000 -06:00
 ---
 Alright, I'll try it again. Seems like more people are in on it, which is crucial to networking, obviously. Let it be known that I have been on here quite possibly the longest.

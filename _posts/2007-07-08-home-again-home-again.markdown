@@ -2,7 +2,7 @@
 layout: post
 title: Home again, home again...
 wordpress_id: 118
-wordpress_url: http://josh-bob.com/2007/07/08/home-again-home-again/
+wordpress_url: https://joshferrara.com/2007/07/08/home-again-home-again/
 date: 2007-07-08 21:45:24.000000000 -05:00
 ---
 Well I suppose we've all realized by now that the Submerge07 blog wasn't quite the buzz we had perhaps hoped. But, that is alright. It was mostly because of the lack of down time (good thing) during the week, and also because the little down time we had was spent at the beach or shopping.

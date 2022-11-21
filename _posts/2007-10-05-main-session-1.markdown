@@ -2,12 +2,12 @@
 layout: post
 title: ! 'Main Session #1'
 wordpress_id: 174
-wordpress_url: http://josh-bob.com/2007/10/05/main-session-1/
+wordpress_url: https://joshferrara.com/2007/10/05/main-session-1/
 date: 2007-10-05 15:43:02.000000000 -05:00
 ---
 <!--Mime Type of File is image/jpeg -->
 
-<a href="http://josh-bob.com/wp-photos/20071005-164301-1.jpg"><img src="http://josh-bob.com/wp-photos/thumb.20071005-164301-1.jpg" /></a>
+<a href="https://joshferrara.com/wp-photos/20071005-164301-1.jpg"><img src="https://joshferrara.com/wp-photos/thumb.20071005-164301-1.jpg" /></a>
 
 This is Scott Steelman and translator laying down the word right now during our 1st session, and God is really flowing through him.
 Interesting fact... it is 11pm right now, and service just started, because we just finished eating! I love these people!

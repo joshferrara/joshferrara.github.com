@@ -2,7 +2,7 @@
 layout: post
 title: Snow is Back
 wordpress_id: 374
-wordpress_url: http://josh-bob.com/?p=374
+wordpress_url: https://joshferrara.com/?p=374
 date: 2008-12-07 23:16:08.000000000 -06:00
 ---
 With the cold weather comes the blog snow. And with that, the extreme adoration of<a href="http://www.jpbrumfield.com"> JP Brumfield</a> (aka <a href="http://www.twitter.com/bigred1213">BigRed1213</a>).

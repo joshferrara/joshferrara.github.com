@@ -2,7 +2,7 @@
 layout: post
 title: Real quick...
 wordpress_id: 54
-wordpress_url: http://josh-bob.com/?p=54
+wordpress_url: https://joshferrara.com/?p=54
 date: 2007-04-14 00:00:51.000000000 -05:00
 ---
 Nothing much to say tonight, crazy weekend already, plenty more to go!

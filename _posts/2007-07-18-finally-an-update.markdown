@@ -2,7 +2,7 @@
 layout: post
 title: Finally, an update!
 wordpress_id: 133
-wordpress_url: http://josh-bob.com/2007/07/18/finally-an-update/
+wordpress_url: https://joshferrara.com/2007/07/18/finally-an-update/
 date: 2007-07-18 18:04:01.000000000 -05:00
 ---
 Well it's taken forever to find stable internet, and just when we found some, the server went down. I'm sure there is some place where we'll find internet later, but until then, the only posting I'll be doing is from my phone. So please, pardon the errors.

@@ -2,7 +2,7 @@
 layout: post
 title: Hannah Smith
 wordpress_id: 8
-wordpress_url: http://josh-bob.com/?p=8
+wordpress_url: https://joshferrara.com/?p=8
 date: 2006-12-21 18:04:00.000000000 -06:00
 ---
 Hey guys,

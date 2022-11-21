@@ -2,7 +2,7 @@
 layout: post
 title: Waffle House Gangsta
 wordpress_id: 24
-wordpress_url: http://josh-bob.com/?p=24
+wordpress_url: https://joshferrara.com/?p=24
 date: 2007-03-18 00:37:00.000000000 -05:00
 ---
 <p class="mobile-photo"><a href="http://photos1.blogger.com/x/blogger2/1892/135664769298385/1600/z/228676/bm-image-757361.jpg"><img src="http://photos1.blogger.com/x/blogger2/1892/135664769298385/320/z/70383/bm-image-757361.jpg" width="320" /></a></p><p class="mobile-photo"><a href="http://photos1.blogger.com/x/blogger2/1892/135664769298385/1600/z/789290/bm-image-757768.jpg"><img src="http://photos1.blogger.com/x/blogger2/1892/135664769298385/320/z/896243/bm-image-757768.jpg" width="320" /></a></p>Tonight was absolutely slamming! God showed up in a very real way and really rocked some peoples worlds.

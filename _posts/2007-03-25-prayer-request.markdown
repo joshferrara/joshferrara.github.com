@@ -2,7 +2,7 @@
 layout: post
 title: Prayer Request
 wordpress_id: 29
-wordpress_url: http://josh-bob.com/?p=29
+wordpress_url: https://joshferrara.com/?p=29
 date: 2007-03-25 10:38:00.000000000 -05:00
 ---
 Just a quick prayer request guys... If you were at <a href="http://www.healingplacechurch.org">HPC</a> this weekend you have heard this already...

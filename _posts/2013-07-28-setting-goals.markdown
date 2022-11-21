@@ -22,7 +22,7 @@ If you can't tell, I'm guilty of this myself, and so I started out on a journey 
 
 To be clear, I wasn't making up goals from thin air; no, these were things I have had many conversations about, spent time dreaming about, and maybe even researched a bit over the years. But before I wrote them down, I wasn't accountable to them. **I couldn't fail at my goals because I hadn't officially made any.**
 
-So, [here are my goals](http://josh-bob.com/goals/), and here's my 30-minute challenge for you:
+So, [here are my goals](https://joshferrara.com/goals/), and here's my 30-minute challenge for you:
 
 1. Take 10 minutes and read [Mark's essay](http://chasethegoose.com/files/10-steps-to-setting-life-goals.pdf).
 2. Take 20 minutes and write down some goals of your own.

@@ -2,7 +2,7 @@
 layout: post
 title: Picture Time
 wordpress_id: 294
-wordpress_url: http://josh-bob.com/?p=294
+wordpress_url: https://joshferrara.com/?p=294
 date: 2008-05-31 21:31:06.000000000 -05:00
 ---
 So its been a while since I updated the picture section (or the blog in general). Anyway, I just uploaded about 100 photos, all from the camera phone since around January. Not really in any particular order, just take them for what they're worth!

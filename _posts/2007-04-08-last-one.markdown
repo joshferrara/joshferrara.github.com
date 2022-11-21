@@ -2,7 +2,7 @@
 layout: post
 title: Last one...
 wordpress_id: 46
-wordpress_url: http://josh-bob.com/?p=46
+wordpress_url: https://joshferrara.com/?p=46
 date: 2007-04-08 23:04:39.000000000 -05:00
 ---
 Last post before I head to bed...

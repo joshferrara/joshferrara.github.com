@@ -2,7 +2,7 @@
 layout: post
 title: On a rainy day...
 wordpress_id: 70
-wordpress_url: http://josh-bob.com/2007/04/26/on-a-rainy-day/
+wordpress_url: https://joshferrara.com/2007/04/26/on-a-rainy-day/
 date: 2007-04-26 07:20:23.000000000 -05:00
 ---
 Alright, first I want to apologize that I do alot of shouting-out lately. I understand that it can be taken as a lame excuse for blogging, but I assure you, I'm not trying to pass it off as such. I'm amazed daily at the amazing people that I am blessed to work with and know on a daily basis. That being said... Sweat me.

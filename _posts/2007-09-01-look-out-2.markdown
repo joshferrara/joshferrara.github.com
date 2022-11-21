@@ -2,7 +2,7 @@
 layout: post
 title: Look out...
 wordpress_id: 153
-wordpress_url: http://josh-bob.com/2007/09/01/look-out-2/
+wordpress_url: https://joshferrara.com/2007/09/01/look-out-2/
 date: 2007-09-01 23:09:19.000000000 -05:00
 ---
 Ok, you might notice something if you look around the ol' blog. There really isn't a major need for this crazy new thing... but I've got more than a few ideas for this setup.

@@ -2,7 +2,7 @@
 layout: post
 title: See?
 wordpress_id: 167
-wordpress_url: http://josh-bob.com/2007/09/28/see/
+wordpress_url: https://joshferrara.com/2007/09/28/see/
 date: 2007-09-28 10:00:44.000000000 -05:00
 ---
 <img src="http://www.bluekardia.com/images/pinata.jpg" alt="Song's birthday" />

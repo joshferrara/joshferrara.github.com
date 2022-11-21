@@ -2,7 +2,7 @@
 layout: post
 title: Epic Worship
 wordpress_id: 314
-wordpress_url: http://josh-bob.com/?p=314
+wordpress_url: https://joshferrara.com/?p=314
 date: 2008-07-13 23:49:10.000000000 -05:00
 ---
 <span style="font-family: Times New Roman; font-size: small;"><span style="font-size: 12pt;">I can't believe I haven't done this yet, but here goes...</span></span>

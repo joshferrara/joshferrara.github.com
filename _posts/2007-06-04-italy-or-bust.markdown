@@ -2,7 +2,7 @@
 layout: post
 title: Italy Or Bust!
 wordpress_id: 105
-wordpress_url: http://josh-bob.com/2007/06/04/italy-or-bust/
+wordpress_url: https://joshferrara.com/2007/06/04/italy-or-bust/
 date: 2007-06-04 10:10:56.000000000 -05:00
 ---
 <a href="http://hpcitaly.blogspot.com/" title="Italy Team Blog"><img src="http://photos1.blogger.com/x/blogger2/2814/345421786804061/1600/z/319356/gse_multipart55305.jpg" alt="Italy team graphic" height="177" width="511" /></a>

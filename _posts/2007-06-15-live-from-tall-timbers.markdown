@@ -2,7 +2,7 @@
 layout: post
 title: Live from Tall Timbers...
 wordpress_id: 109
-wordpress_url: http://josh-bob.com/2007/06/15/live-from-tall-timbers/
+wordpress_url: https://joshferrara.com/2007/06/15/live-from-tall-timbers/
 date: 2007-06-15 22:23:55.000000000 -05:00
 ---
 Hey guys, real quick...

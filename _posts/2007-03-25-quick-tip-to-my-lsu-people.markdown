@@ -2,7 +2,7 @@
 layout: post
 title: Quick tip to my LSU people!
 wordpress_id: 28
-wordpress_url: http://josh-bob.com/?p=28
+wordpress_url: https://joshferrara.com/?p=28
 date: 2007-03-25 20:11:00.000000000 -05:00
 ---
 <span style="font-size:130%;"><a style="font-weight: bold;" href="http://www.schedulizer.com/">www.Schedulizer.com</a>

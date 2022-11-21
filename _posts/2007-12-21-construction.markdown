@@ -2,7 +2,7 @@
 layout: post
 title: Construction
 wordpress_id: 214
-wordpress_url: http://josh-bob.com/2007/12/21/construction/
+wordpress_url: https://joshferrara.com/2007/12/21/construction/
 date: 2007-12-21 15:02:29.000000000 -06:00
 ---
 For those of you that tried to get on yesterday you probably saw the ugly side of site maintenance. Anyway, I got halfway through some server-side updates annnnnd had to go to practice :)

@@ -14,6 +14,6 @@ Put simply, Svbtle is equal parts blogging tool (for the writer) and online maga
 
 I'm consistently inspired by the content that comes out of the incredible writers involved, and I'm excited about being able to contribute to a great community of ideas.
 
-My old posts can still be found in [the archives](http://josh-bob.com/archive/), but all new posts will be a part of Svbtle.
+My old posts can still be found in [the archives](https://joshferrara.com/archive/), but all new posts will be a part of Svbtle.
 
 Click the "Blog" icon above, or visit [blog.josh-bob.com &raquo;](http://blog.josh-bob.com)

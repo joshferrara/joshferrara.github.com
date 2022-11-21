@@ -2,7 +2,7 @@
 layout: post
 title: Champps
 wordpress_id: 33
-wordpress_url: http://josh-bob.com/?p=33
+wordpress_url: https://joshferrara.com/?p=33
 date: 2007-04-01 00:32:00.000000000 -05:00
 ---
 <a href="http://photos1.blogger.com/x/blogger2/1892/135664769298385/1600/z/119884/bm-image-777029.jpg"><img src="http://photos1.blogger.com/x/blogger2/1892/135664769298385/1600/z/119884/bm-image-777029.jpg" style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 320px" border="0" /></a>

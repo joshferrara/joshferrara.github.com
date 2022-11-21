@@ -2,7 +2,7 @@
 layout: post
 title: An apology
 wordpress_id: 96
-wordpress_url: http://josh-bob.com/2007/05/16/an-apology/
+wordpress_url: https://joshferrara.com/2007/05/16/an-apology/
 date: 2007-05-16 13:18:01.000000000 -05:00
 ---
 I would like to take this time to apologize to my readers for the past week of inactivity in blogging, but more importantly, for the preceding week of <a href="http://www.urbandictionary.com/define.php?term=blogorrhea">blogorrhea</a>.
@@ -21,4 +21,4 @@ I would like to leave you with this picture. I found this guy at Tabitha's house
 
 I hope this brightens your day.
 
-<a href="http://josh-bob.com/wp-photos/20070516-141801-1.jpg"><img src="http://josh-bob.com/wp-photos/thumb.20070516-141801-1.jpg" /></a>
+<a href="https://joshferrara.com/wp-photos/20070516-141801-1.jpg"><img src="https://joshferrara.com/wp-photos/thumb.20070516-141801-1.jpg" /></a>

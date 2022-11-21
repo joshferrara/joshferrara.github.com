@@ -2,7 +2,7 @@
 layout: post
 title: God connections
 wordpress_id: 175
-wordpress_url: http://josh-bob.com/2007/10/06/god-connections/
+wordpress_url: https://joshferrara.com/2007/10/06/god-connections/
 date: 2007-10-06 06:27:02.000000000 -05:00
 ---
 I should probably wait until I have more time to ponder this and make it more poetic and such, but I've just got to share it.
