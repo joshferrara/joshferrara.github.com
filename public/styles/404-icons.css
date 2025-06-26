@@ -1,0 +1,94 @@
+/* Social Media Icons for 404.html page */
+.icon_bar {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.icon_bar .icons {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: inline-block;
+}
+
+.icon_bar .icons li {
+  display: inline-block;
+  margin: 0 5px;
+}
+
+.icon_bar .icons li.icon {
+  width: 32px;
+  height: 32px;
+  background-image: url('../images/icons.png');
+  background-repeat: no-repeat;
+  display: inline-block;
+  text-indent: -9999px;
+  overflow: hidden;
+  transition: opacity 0.3s ease;
+}
+
+.icon_bar .icons li.icon:hover {
+  opacity: 0.7;
+}
+
+.icon_bar .icons li.icon a {
+  display: block;
+  width: 100%;
+  height: 100%;
+  text-decoration: none;
+}
+
+/* Specific icon positions - estimated positions for common social media icons */
+.icon_bar .icons li.icon.x-twitter {
+  background-position: 0 0; /* X/Twitter icon position */
+}
+
+.icon_bar .icons li.icon.twitter {
+  background-position: 0 0; /* Fallback for old twitter class */
+}
+
+.icon_bar .icons li.icon.facebook {
+  background-position: -32px 0; /* Facebook icon position */
+}
+
+.icon_bar .icons li.icon.instagram {
+  background-position: -64px 0; /* Instagram icon position */
+}
+
+.icon_bar .icons li.icon.foursquare {
+  background-position: -96px 0; /* Foursquare icon position */
+}
+
+.icon_bar .icons li.icon.rdio {
+  background-position: -128px 0; /* Rdio icon position */
+}
+
+.icon_bar .icons li.icon.pinterest {
+  background-position: -160px 0; /* Pinterest icon position */
+}
+
+.icon_bar .icons li.icon.dribbble {
+  background-position: -192px 0; /* Dribbble icon position */
+}
+
+.icon_bar .icons li.icon.github {
+  background-position: -224px 0; /* GitHub icon position */
+}
+
+.icon_bar .icons li.icon.blog {
+  background-position: -256px 0; /* Blog icon position */
+}
+
+/* High-resolution retina support */
+@media only screen and (-webkit-min-device-pixel-ratio: 2),
+       only screen and (min--moz-device-pixel-ratio: 2),
+       only screen and (-o-min-device-pixel-ratio: 2/1),
+       only screen and (min-device-pixel-ratio: 2),
+       only screen and (min-resolution: 192dpi),
+       only screen and (min-resolution: 2dppx) {
+  
+  .icon_bar .icons li.icon {
+    background-image: url('../images/icons@2x.png');
+    background-size: 320px 32px; /* Assuming 10 icons at 32px each */
+  }
+}
