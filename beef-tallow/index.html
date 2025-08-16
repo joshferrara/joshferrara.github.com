@@ -280,9 +280,10 @@
                 try {
                     this.counterAPI = new Counter({
                         workspace: 'ferrara',
-                        debug: false,
+                        debug: true,
                         timeout: 5000
                     });
+                    console.log('CounterAPI initialized successfully');
                 } catch (error) {
                     console.error('Failed to initialize CounterAPI:', error);
                 }
@@ -317,26 +318,42 @@
 
             async loadGlobalCounter() {
                 try {
-                    if (!this.counterAPI) return;
+                    if (!this.counterAPI) {
+                        console.log('CounterAPI not initialized yet');
+                        return;
+                    }
                     
+                    console.log('Attempting to get beef-tallow counter...');
                     const result = await this.counterAPI.get('beef-tallow');
-                    const count = result?.value || 0;
+                    console.log('CounterAPI get result:', result);
+                    
+                    const count = result?.data?.up_count || 0;
+                    console.log('Extracted count:', count);
                     this.allClicksElement.textContent = `All Clicks: ${this.formatNumber(count)}`;
                 } catch (error) {
                     console.error('Failed to load global counter:', error);
+                    console.error('Error details:', error);
                     this.allClicksElement.textContent = 'All Clicks: —';
                 }
             }
 
             async incrementGlobalCounter() {
                 try {
-                    if (!this.counterAPI) return;
+                    if (!this.counterAPI) {
+                        console.log('CounterAPI not available for increment');
+                        return;
+                    }
                     
+                    console.log('Attempting to increment beef-tallow counter...');
                     const result = await this.counterAPI.up('beef-tallow');
-                    const count = result?.value || 0;
+                    console.log('CounterAPI increment result:', result);
+                    
+                    const count = result?.data?.up_count || 0;
+                    console.log('New count after increment:', count);
                     this.allClicksElement.textContent = `All Clicks: ${this.formatNumber(count)}`;
                 } catch (error) {
                     console.error('Failed to increment global counter:', error);
+                    console.error('Error details:', error);
                     // Still update local counter even if global fails
                 }
             }
