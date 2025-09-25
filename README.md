@@ -69,21 +69,16 @@ This site includes several unique features and custom applications:
    - Weather information display
    - Custom logo and interface
 
-4. **Charity: Water Application** (`/charity-water/`)
-   - Custom job application page
-   - Video integration (Vimeo)
-   - Interactive resume/portfolio presentation
-
-5. **Beef Tallow Section** (`/beef-tallow/`)
+4. **Beef Tallow Section** (`/beef-tallow/`)
    - Audio content (MP3)
    - Custom presentation page
 
-6. **Testing Areas**
+5. **Testing Areas**
    - `/test/` - General testing
    - `/jeeves/` - Audio files and XML configurations
    - `/nuts/` - Additional experimental content
 
-7. **Legacy Content**
+6. **Legacy Content**
    - WordPress migration artifacts (`/wp-content/`, `/wp-photos/`)
    - Historical content preservation
 
