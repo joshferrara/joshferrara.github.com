@@ -38,5 +38,13 @@
     <script src="/public/scripts/all.js" type="text/javascript" charset="utf-8"></script>
 
     <!-- rss -->
-    <link rel="alternate" type="application/rss+xml"  href="https://joshferrra.com/feed/" title="Josh Ferrara">
+    <link rel="alternate" type="application/rss+xml"  href="https://joshferrara.com/feed/" title="Josh Ferrara">
+
+    <!-- markdown content negotiation for AI/LLM crawlers -->
+    {% if page.layout == 'post' and page.url %}
+    {% assign clean_url = page.url | split: '/' | compact | join: '/' %}
+    <link rel="alternate" type="text/markdown" href="/{{ clean_url }}.md" title="{{ page.title }} (Markdown)">
+    {% elsif page.markdown_url %}
+    <link rel="alternate" type="text/markdown" href="{{ page.markdown_url }}" title="{{ page.title }} (Markdown)">
+    {% endif %}
   </head>

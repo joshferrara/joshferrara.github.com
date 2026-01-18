@@ -5,3 +5,17 @@ url: https://joshferrara.com
 highlighter: rouge
 permalink: pretty
 future: true
+
+# Markdown content negotiation for AI/LLM crawlers
+# These collections output .md versions of posts for machine readability
+collections:
+  markdown_posts:
+    output: true
+    permalink: /:path.md
+
+defaults:
+  - scope:
+      path: ""
+      type: "markdown_posts"
+    values:
+      layout: "markdown"
