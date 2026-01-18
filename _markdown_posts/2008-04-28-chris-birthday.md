@@ -1,0 +1,11 @@
+---
+layout: markdown
+title: "Chris Birthday"
+date: 2008-04-28
+source_url: /2008/04/28/chris-birthday/
+permalink: /2008/04/28/chris-birthday.md
+---
+
+<!--Mime Type of File is image/jpeg -->
+<div class="postie-image-div"><a href="https://joshferrara.com/wp-photos/20080428-131702-1.jpg"><img class="postie-image" style="3px;" src="https://joshferrara.com/wp-photos/thumb.20080428-131702-1.jpg" alt="" /></a></div>
+Of course, we brought him cake.

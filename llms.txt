@@ -1,0 +1,45 @@
+---
+layout: null
+permalink: /llms.txt
+---
+# {{ site.title }}
+
+> {{ site.description }}
+
+This site provides markdown versions of all content for AI/LLM crawlers and agents.
+
+## Accessing Markdown Content
+
+### Individual Posts
+Append `.md` to any post URL to get the markdown version:
+- HTML: `{{ site.url }}/2013/01/01/example-post/`
+- Markdown: `{{ site.url }}/2013/01/01/example-post.md`
+
+### All Posts Feed
+A complete markdown feed of all posts is available at:
+{{ site.url }}/feed.md
+
+### Content Negotiation
+This site supports the `Accept: text/markdown` header via alternate link tags.
+Look for `<link rel="alternate" type="text/markdown">` in the HTML head.
+
+## Site Structure
+
+- Homepage: {{ site.url }}/
+- Blog Archive: {{ site.url }}/archive/
+- RSS Feed: {{ site.url }}/feed/
+
+## Recent Posts
+
+{% for post in site.posts limit:20 %}
+- [{{ post.title }}]({{ site.url }}{{ post.url }}) - {{ post.date | date: "%Y-%m-%d" }}
+  Markdown: {{ site.url }}{{ post.url | split: '/' | compact | join: '/' }}.md
+{% endfor %}
+
+## About
+
+This is the personal website of Josh Ferrara. Posts span from 2006 to present.
+
+## Contact
+
+Website: {{ site.url }}
