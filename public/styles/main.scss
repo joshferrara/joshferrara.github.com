@@ -296,10 +296,88 @@ a.contact {
 }
 
 
+// Projects Page --------------------------------
+
+.projects-page {
+  max-width: 570px;
+  display: block;
+  margin: 25px auto;
+  padding: 0 10px;
+
+  .projects-section-title {
+    font-family: 'mrs-eaves', serif;
+    font-size: 30px;
+    letter-spacing: -2px;
+    color: #555555;
+    margin-bottom: 15px;
+    text-align: center;
+  }
+
+  .projects-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 12px;
+    margin-bottom: 35px;
+  }
+
+  .project-card {
+    display: block;
+    text-decoration: none;
+    background: #f7f7f7;
+    border-radius: 8px;
+    padding: 20px 15px;
+    text-align: center;
+
+    @include transition(0.3s);
+
+    &:hover {
+      background: #eeeeee;
+
+      .project-icon i {
+        background: #000000;
+      }
+    }
+
+    .project-icon {
+      margin-bottom: 10px;
+
+      i {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        background: #444444;
+        color: #ffffff;
+        font-size: 16px;
+
+        @include transition(0.3s);
+      }
+    }
+
+    .project-title {
+      font-family: 'mrs-eaves', serif;
+      font-size: 20px;
+      letter-spacing: -1px;
+      color: #555555;
+      margin-bottom: 4px;
+    }
+
+    .project-subtitle {
+      font-family: 'mr-eaves-sans', sans-serif;
+      font-size: 13px;
+      color: #999999;
+      line-height: 1.3;
+    }
+  }
+}
+
+
 // Media Queries -----------------------------
 
-@media only screen and 
-(min-width : 331px) and 
+@media only screen and
+(min-width : 331px) and
 (max-width : 620px) {
   p.bio {
     font-size: 1.2em;
@@ -307,9 +385,12 @@ a.contact {
   div.icons {
     max-width: 286px;
   }
+  .projects-page .projects-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
 }
 
-@media only screen and 
+@media only screen and
 (max-width : 330px) {
   p.bio {
     font-size: 1.2em;
@@ -317,6 +398,9 @@ a.contact {
   div.icons {
     max-width: 162px;
     font-size: 1.5em;
+  }
+  .projects-page .projects-grid {
+    grid-template-columns: 1fr;
   }
 }
 
@@ -369,6 +453,33 @@ a.contact {
           i {
             background: #777777;
           }
+        }
+      }
+    }
+
+    .projects-page {
+
+      .projects-section-title {
+        color: #eeeeee;
+      }
+
+      .project-card {
+        background: #333333;
+
+        &:hover {
+          background: #444444;
+
+          .project-icon i {
+            background: #777777;
+          }
+        }
+
+        .project-title {
+          color: #eeeeee;
+        }
+
+        .project-subtitle {
+          color: #999999;
         }
       }
     }
