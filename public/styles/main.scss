@@ -28,6 +28,22 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
 	line-height: 1;
+	background-color: #d5e8d4;
+	background-image:
+		repeating-linear-gradient(
+			45deg,
+			transparent,
+			transparent 8px,
+			rgba(40, 100, 50, 0.08) 8px,
+			rgba(40, 100, 50, 0.08) 9px
+		),
+		repeating-linear-gradient(
+			-45deg,
+			transparent,
+			transparent 8px,
+			rgba(40, 100, 50, 0.08) 8px,
+			rgba(40, 100, 50, 0.08) 9px
+		);
 }
 ol, ul {
 	list-style: none;
@@ -410,7 +426,22 @@ a.contact {
 @media (prefers-color-scheme: dark) {
   
   body {
-    background: #222222;
+    background-color: #1a2e1a;
+    background-image:
+      repeating-linear-gradient(
+        45deg,
+        transparent,
+        transparent 8px,
+        rgba(100, 180, 100, 0.06) 8px,
+        rgba(100, 180, 100, 0.06) 9px
+      ),
+      repeating-linear-gradient(
+        -45deg,
+        transparent,
+        transparent 8px,
+        rgba(100, 180, 100, 0.06) 8px,
+        rgba(100, 180, 100, 0.06) 9px
+      );
 
     h1.name {
 
