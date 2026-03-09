@@ -299,10 +299,24 @@ a.contact {
 // Projects Page --------------------------------
 
 .projects-page {
-  max-width: 570px;
+  max-width: 680px;
   display: block;
   margin: 25px auto;
   padding: 0 10px;
+
+  .projects-columns {
+    display: flex;
+    gap: 24px;
+  }
+
+  .projects-column--recaps {
+    flex: 0 0 28%;
+  }
+
+  .projects-column--projects {
+    flex: 1;
+    min-width: 0;
+  }
 
   .projects-section-title {
     font-family: 'mr-eaves-sans', sans-serif;
@@ -315,7 +329,7 @@ a.contact {
   }
 
   .projects-list {
-    margin-bottom: 30px;
+    margin-bottom: 0;
   }
 
   .project-item {
@@ -393,6 +407,15 @@ a.contact {
   div.icons {
     max-width: 286px;
   }
+  .projects-page .projects-columns {
+    flex-direction: column;
+    gap: 24px;
+  }
+  .projects-page .projects-column--recaps .projects-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0;
+  }
   .projects-page .project-item .project-info {
     flex-direction: column;
     gap: 2px;
@@ -410,6 +433,10 @@ a.contact {
   div.icons {
     max-width: 162px;
     font-size: 1.5em;
+  }
+  .projects-page .projects-columns {
+    flex-direction: column;
+    gap: 24px;
   }
   .projects-page .project-item .project-info {
     flex-direction: column;
