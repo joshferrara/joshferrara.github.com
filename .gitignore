@@ -6,3 +6,4 @@ _site/
 /jeeves/.DS_Store
 Gemfile.lock
 .DS_Store
+/public/.DS_Store
